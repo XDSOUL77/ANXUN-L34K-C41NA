@@ -1,0 +1,103 @@
+
+
+
+
+Entry range, donation ability code, address number,
+
+
+
+
+
+
+
+Street name, street suffix, state and city
+
+Address number plate, tax control mark, postable
+
+
+
+Send logo, unique geographical location mark, production
+
+Date, latitude and longitude, geographical longitude and latitude, market
+
+Marketing, can be mailed, can be called, can be mailed, can be
+
+Call, nine-digit postal code, ten-digit postal code
+
+
+
+
+
+
+
+One digit, the last four digits of the postal code exist, and the address
+
+
+
+
+
+
+
+Coordinates, latitude coordinates, number of bathrooms,
+
+
+
+
+
+The name of the road is forward, the street name is backward,
+
+owner, green life logo, version, longitude
+
+lie down
+
+Number of rooms, housing type code, secondary name
+
+Secondary number, home property type code,
+
+
+
+
+
+Home
+
+Family house area, family house area code
+
+
+
+
+
+
+
+
+
+Number of electrons in a certain direction
+According to c
+
+
+
+
+
+
+
+
+
+The main fields include: name, date of birth,
+
+Time, ID number, passport number, entry and exit
+
+Record
+
+25, 000.00
+
+
+
+
+
+
+
+108, 000. 00
+
+
+
+
+

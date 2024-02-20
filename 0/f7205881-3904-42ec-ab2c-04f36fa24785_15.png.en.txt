@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parameter Category Parameter Index
+Network architecture Saas mode, you can log in through an authorized account)
+Query time Second level response
+Supports account name, attributes, password, name, screen name, mobile phone number, mobile phone location, bank card number,
+basic information
+Email, login |P, login IP location, address, superior agent information display
+Upper and lower level agent analysis support
+Running capital analysis support
+Analysis of the amount involved Support
+Case filing ZC analysis support
+Integrated business management support
+The message management center supports message list viewing, user operation log viewing, and feedback information list viewing.
+
+
+
+
+
+6 Product Deployment
+
+6.1 Applicable environment
+
+
+
+
+
+
+
+"Guoma Anti-Gambling Platform" provides comprehensive intelligent management functions for professional gambling-related clue inquiry and gambling-related business analysis, which is suitable for
+
+
+
+
+
+The business department’s crackdown on illegal gambling crimes
+
+
+
+
+
+
+
+
+
+
+
+Yu special
+
+
+
+
+
+2. Special activities for business improvement. The platform adopts SaaS mode, use /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can log in and use your authorized account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Various applications such as gambling business research and judgment
+
+
+
+
+
+
+
+
+
+6.2 Deployment method
+
+Household gambling clue inquiry, gambling network organization analysis, gambling fund analysis,
+
+
+
+
+
+
+
+"Marrow Recognition Anti-Gambling Platform" Chang Cai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Users can log in through authorized accounts, so users do not need to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Any hardware such as servers, etc., only need to provide
+
+
+
+
+
+
+
+
+
+machine and can
+
+
+
+
+
+The Internet can be deployed. Use /
+
+Buy clothes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access the software as a client to access the entire platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Specific host configuration requirements are as follows:
+
+
+
+
+
+
+
+13 /11
+

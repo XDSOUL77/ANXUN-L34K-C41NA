@@ -1,0 +1,106 @@
+3.3 "System architecture
+
+Microsoft email encryption platform
+
+Inspiration for Memories 7
+
+“Re CD
+WEB application
+
+(system architecture diagram)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Microsoft mailbox encryption platform is mainly used through Saas services provided by Antao Information. The cloud platform is mainly authorized by users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It consists of a module, a link forgery module, a token acquisition module and an email collection module. After purchasing the Microsoft email encryption platform, users will receive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corresponding authorized accounts and client application platforms are required for installation and deployment. Through authorized accounts, users can log in, generate links, and send emails.
+
+
+
+
+
+
+
+
+
+
+
+Collection, email download and other functional operations.
+3.4 “Network Architecture
+
+
+
+3 /8
+

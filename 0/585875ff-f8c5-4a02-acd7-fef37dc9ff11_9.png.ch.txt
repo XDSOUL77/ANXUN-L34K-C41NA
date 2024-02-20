@@ -1,0 +1,84 @@
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+| 个 Heaor                                                                        一     口     习
+File _ Edit View Help
+名 台Groups         HostID HostName    os     Address      Tags    Note
+最pe站
+
+ss |
+
+   
+ 
+
+ 
+
+Common log Fi Tansfer | Host sunmary | TunnelinP
+
+ 
+
+ 
+
+   
+
+和         tog pate                       Content
+
+4 2019.08.07 16:51:58 。 Imitalize controlmodule ek.
+3 2019.08.07 16:51:58 Initialze Plug-Remote ok
+
+2 2019-0807 16:51:58 。 Initiaize Plugin DLL ok。
+
+1 2019-08.07 16:5158 Initialize databse module ok
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+人:0 StartTines 功的8-7 16:52
+
+ 
+
+图6.2: 控制端主界面
+
+6. 3 被控端程序配置及安装
+
+ 
+
+                                                                                                                                                                                                                              
+
+6.3.1 木马的配置
+1、使用木马配置器程序
+园ca.der                                      291977131 15:54         安全证书
+出 conf64.dat                                            2019/8/5 14:06              已AT 文件
+癌 Reptile54.out                          20191815 14:06
+图6.3: 被控端程序目录
+文件说明:
+
+Ca. der: HTTPS 即 WSS 协议时需使用的证书，证书生成方法详见 tools 文件夹中;
+
+Config64. exe: 木马配置器;
+
+Conf64. dat: 配置器记忆文件，记录上一次配置的信息;
+Reptile64. out: 使用配置器配置生成的木马程序。
+
+页7
+

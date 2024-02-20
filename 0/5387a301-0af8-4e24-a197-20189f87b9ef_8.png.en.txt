@@ -1,0 +1,115 @@
+
+
+
+
+1 Taoyuan Security Intelligence Platform Product White Paper 1
+6.2 Management side functions
+
+
+
+
+
+
+
+
+
+6.2.1 Administrator login
+
+
+
+
+
+
+
+Administrators log in to the application platform through secure link devices.
+
+6.2.2 Upload intelligence resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administrators can publish, delete, enable and disable attachment resources on this page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resource list
+name status creation
+Regarding countries A and B conspiring to destroy China in multiple fields in 2022 2022-04-13
+Strategic overview
+Regarding the situation where country A urges country D to sanction country Y on arms procurement 2022-04-13
+illustrate
+Regarding Country A’s plan to promote EFG in the Asia-Pacific region to seize the regional market 2022-04-13
+weaken China's influence
+About Y Degree will be presented at the 14th YR Annual Summit 2022-04-13
+NN problem and YYYY
+About the visit of members of the U.S. Senate Foreign Relations Committee to Indonesia 2022-04-13
+Promote alliances to counter China
+India-w parts-0411 material to 2022-04-13
+India-w parts-0412 material 2022-04-13
+India-w parts-0413 material 2022-05-10
+India-w parts-0417 material 2022-05-12
+India-w parts-0418 material EE Division 2022-05-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.2.3 Publish in-depth intelligence reports
+Administrators can add and delete reports on this page. When publishing, they can select multiple users to publish.
+1An Tao information. Corporate International Affairs Consulting Center 1 Page 9 of 12
+
+
+
+
+
+
+
+
+

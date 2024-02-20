@@ -1,0 +1,231 @@
+3.3 "System architecture
+
+Application layer data overview monitoring and countermeasures
+Query plug-in, countermeasure plug-in, monitoring plug-in
+
+
+
+(Twitter Slow Love
+
+Twi to target
+
+tter and the emotional guidance and control system are based on Duosheng
+
+
+
+
+
+Guidance and control system system architecture)
+
+Twitter Ping
+
+
+
+Taiwan’s security mechanism research and breakthroughs, combined with current network technology
+
+
+
+
+
+technology, achieved through comprehensive design and research and development. system
+
+
+
+
+
+
+
+modules, data modules and applications
+
+
+
+
+
+Modules to ensure a complete set
+
+
+
+
+
+Goods
+
+
+
+Cooperate with the query plug-in, countermeasure plug-in and monitoring layer
+
+layer as a
+The platform can effectively implement technology and update data in real time.
+Control plug-ins implement specific technical applications
+
+
+
+
+
+Based on the platform, it integrates the Twitter-based control forensic application
+
+
+
+Technology
+
+
+
+
+
+
+
+
+
+New and data applications;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presentation and breakthrough; the application layer is where users actually
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goods
+
+ambassador
+3.4 Network architecture
+
+
+
+Available for all of Twit
+
+
+
+
+
+
+
+
+
+tter provides data overview and integration with the emotional guidance and control system
+
+
+
+A series of operations such as evidence collection, monitoring and countermeasures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+division
+Yes Data Overview
+Platform will add Twitter forensics
+About Wangwangp and love monitoring
+Since data overview
+Twitter go to ,
+Control Forensics Platform [3 Twitter Forensics
+Austrian situation monitoring
+sex 3
+(Twitter public opinion guidance and control system network architecture diagram)
+In order to achieve control and evidence collection against target persons related to the Wuwai social platform Twitter, the control platform is generally deployed in an overseas VPS.
+In order to achieve comprehensive control and evidence collection functions for overseas targets, the platform is designed using a B/S architecture. Users must obtain authorization from the platform.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 /14
+

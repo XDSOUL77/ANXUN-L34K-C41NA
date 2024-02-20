@@ -1,0 +1,75 @@
+4.3.3 "Create knowledge base
+The system supports self-built knowledge bases, such as the establishment of knowledge bases for sensitive names, sensitive words, etc. Knowledge base creation
+
+
+
+The knowledge base can then be set up
+
+
+
+talent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perform call analysis for sensitive words.
+
+
+
+
+
+
+
+(create knowledge base)
+
+4.3.4 “Analysis settings
+Analysis settings are mainly for managing sensitive phrases. Different sensitive words can be set on and off, and can be turned on or off as needed.
+
+
+
+
+
+The user can close search page keywords and comprehensive page sensitive words.
+
+
+
+five 2
+2 EC > 2 5
+
+1 2 2 ram ram
+
+5 hit hit male [=
+
+Day 1 has been blamed for this zs
+(Analysis settings)
+
+4.3.5 "Data snapshot
+The background management function of data snapshots is mainly for downloading and deleting management of executed data snapshots.
+
+
+
+
+
+
+
+9 /15
+

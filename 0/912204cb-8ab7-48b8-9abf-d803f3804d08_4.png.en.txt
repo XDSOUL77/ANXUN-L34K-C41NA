@@ -1,0 +1,157 @@
+3.3 "Platform architecture
+
+Provide data cleaning and transformation
+row, unified identification, detection evaluation
+Data analysis calculation and other functions
+
+The platform provides file interface and daily
+
+Platform entrance configuration, Zhiliu interface and user compliance
+<A person who knows logstash can receive it
+
+Users will be of different types, different
+
+Data access LA Sirang board from person
+
+Identity data Communication data Network data Location data Other data
+
+
+
+data governance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Integrated data platform platform architecture diagram)
+
+
+
+
+
+
+
+
+
+
+
+3.4 Network architecture
+
+
+
+
+
+
+
+
+
+
+
+Web interaction layer cluster management has
+
+
+
+
+
+(Integrated data platform network architecture diagram)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Antao Integrated Data Platform" adopts B/S architecture, adopts localized server deployment method, and can also adopt hosting method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mode. The platform administrator logs in to the background to perform management operations, and edits, manages, and queries relevant data of the target according to his or her own needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 /24
+

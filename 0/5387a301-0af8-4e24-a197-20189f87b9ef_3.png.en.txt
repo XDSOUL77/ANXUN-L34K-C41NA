@@ -1,0 +1,157 @@
+
+
+
+
+1 Taozong Security Intelligence Platform Product White Paper 1
+Data investigation capabilities, but in the face of different scenarios and fields, the traditional reliance on administrative orders
+The working methods seem to be all ineffective, and people are in urgent need of solutions that can effectively connect information data in various fields.
+
+4. Lack of suitable intelligence auxiliary tools
+
+Ordinary users often seek outside collaboration to address specific intelligence needs, but policymakers need a
+A tool for comprehensive and dynamic understanding of information events, intelligence and situation evolution, while public security users mainly rely on
+Rely on your own personnel. When encountering various safety risks at work, we mainly rely on the technicians themselves
+technical ability to solve it. In the process of intelligence-related technical work, there are various pain points that need to be solved urgently, including data
+The security of data channels, management of war missions, identity protection, etc., once problems arise, it may
+Accidents such as information leakage and data loss have occurred.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of 05
+o and Lack of suitable intelligence axis aids
+How to ensure safe work Village
+@ , open up cross-platform information
+Machine 03
+Imitation - Difficulty mining value from massive amounts of information
+02
+It is difficult to obtain information in a timely manner, and it is even more difficult to obtain intelligence.
+3 Product positioning
+
+Taozong Security Intelligence Platform is committed to creating data information that is safe and confidential, communicates in a timely manner, and controls the overall situation.
+The integrated solution platform provides corresponding comprehensive solutions to the four major pain points mentioned above. currently launched
+.0 version is designed to provide customers with safe and effective intelligence.
+
+At the network link layer, the product realizes the bottom line of data transmission through an anonymous link system built by intelligent hardware.
+It provides a layer of security and can provide secure Internet access that hides the real physical exit and satellite address, and can solve the problem of
+This solves the problem that data transmission security issues on traditional SaaS platforms cannot be effectively guaranteed.
+
+In the business application layer, version 1.0 of the platform provides an intelligence material module and an in-depth intelligence module. It's our side
+A working interface for back-end think tank resources. The purpose of predictive research is to explain or illustrate a phenomenon. This
+1An Tao information. Corporate International Affairs Consulting Center 1 Page 4 of 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

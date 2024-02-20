@@ -1,0 +1,203 @@
+
+
+
+
+2. Platform client login software: 1 set
+
+
+
+3. Platform authorized login account: 1
+
+
+
+
+
+
+
+
+
+
+
+4Platform User Manual: 1 copy
+
+
+
+
+
+
+
+
+
+
+
+
+
+The product composition list of "Email Analysis Intelligence Decision System" (Public Cloud) is mainly as follows:
+
+
+
+
+
+
+
+1. Platform client login software: 1 set
+
+
+
+2. Platform authorized login account: 1
+3 platform authorized login dongle: 1
+
+
+
+
+
+
+
+
+
+
+
+4. Platform user manual: 1 copy
+3.3 "System architecture
+
+Person 3: Relationship Map | [4 Collaboration] [Zone Reference Person Relationship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Analysis Model] | People Deep Learning | L Text Recognition ]
+
+Distributed hybrid storage engine relational analysis
+
+WangWangMeiShan Data Storage ‖ Data Cleaning, Data Deduplication, Data Management
+Cabinet Wangs Gmaivoutlool enterprise mail service and other email data
+
+("Email Analysis Intelligence Decision System" Architecture Medical
+
+
+
+Apply support layer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The "email analysis intelligence decision-making system" is designed and developed around the data layer, data processing layer, application support layer and application layer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The system supports the import of various data sources, and all email data in ".eml" format can be imported into the system for analysis and calculation; data
+
+
+
+
+
+
+
+
+
+
+
+The data processing layer analyzes, processes and intelligently extracts various types of imported email data to achieve cleaning, deduplication and storage of email data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and management functions; the application support layer performs comprehensive and in-depth analysis and processing of the cleaned data, combining built-in analysis models and deep
+
+
+
+
+
+book
+
+
+
+
+
+
+
+3 /15
+

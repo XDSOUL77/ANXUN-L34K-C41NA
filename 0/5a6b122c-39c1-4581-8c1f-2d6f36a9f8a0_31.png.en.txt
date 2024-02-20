@@ -1,0 +1,205 @@
+
+
+
+
+Wen "Enter the interface to operate the related functions of the external network application cloud platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2.2.4 Data return function
+
+
+
+
+
+
+
+Supports the transmission of result files, cloud notes and other data obtained from the task cloud host to the private network management platform, and the transmission is point-to-point transmission.
+
+
+
+Transmission, that is, transmission from the external network file server to the private network file server. This transmission channel can only transmit in one direction and is irreversible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the external/private network file server for file transfer, all received files are encrypted and stored. File transfer and storage in directory structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Isolate within the structure and correspond one by one from single user to single user and from log file to log file to prevent third parties from conducting exploration,
+Edit to ensure the security of data transmission.
+
+
+
+
+
+
+
+
+
+
+
+External private network information synchronization functions include file synchronization and cloud notes |
+
+Previous|
+
+Step and task cloud host information synchronization.
+4.2.2.5 Task note function
+
+
+
+
+
+The task note component supports the collection, organization and presentation of various types of information. Supports creation of folder classification storage and insertion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+district
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Films, attachments, automatic saving, etc. are supported to facilitate the fragmented recording of new techniques, tactics and usage experiences formed during actual operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Organize and summarize, quickly synchronize to the private network through the data return component and display it.
+
+
+
+
+
+
+
+task management
+
+Make auspicious ring pit. {Annihilation B. Literary management notes and Lietian. Master citation list. The host controls 3 people from the country of thinking
+
+FE E can = 9 people
+May 2 ea”ED EC3
+|                      mm EEC3
+
+add
+(Manage notes)
+4.2.2.6 Virtual machine management function
+
+
+
+
+
+
+
+
+
+
+
+Supports management of virtual machines included in the platform, viewing the corresponding IP or virtual machine status and time information, and turning them on or off
+Virtual machine and other operations.
+
+
+
+
+
+29 /32
+

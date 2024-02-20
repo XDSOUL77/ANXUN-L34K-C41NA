@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+User backend interface)
+
+
+
+4.3.1 "Data source list
+
+
+
+The data source list is mainly used to add, manage and delete data sources.
+
+
+
+Import the data into the system for analysis.
+
+And various data sources can be combined in any combination
+
+
+
+
+
+four es pm gang
+1        4               2018.06.19             3
+Sun | |emm 018nF-12
+Zeng 1806m9
+and 5 mesh nsob 20
+Next 5 books 2018.0621
+of 1/game 2 pages of 7
+list of human sources)
+
+-| Pieces|
+Certificate 2
+Huai guides half his life to the beginning
+Ji ET
+Already on
+Bay SA, Yisi to except
+The second middle room is the most
+
+The data source group list is used to group and classify the imported data sources to facilitate the unification of the same type or related data sources.
+
+
+
+One note, unified analysis, unified query, and unified management.
+
+
+
+"On 1 sa there is
+1           2                      2
+虽 = ET oz
+Day 1 book 1 this
+(data source group list)
+
+4.3.2 "Sensitive word settings
+
+
+
+The system supports setting the created knowledge base as sensitive words when the analysis system performs data analysis.
+
+row display.
+
+Tv
+
+Chang Xu
+
+5 sex sam
+1 ESX full ten ER
+Second game 7
+2 machine 4
+Ju 1 District/Chang 1 Husband 32a Ben
+(sensitive word settings)
+
+two six||
+
+Available
+of two
+
+
+
+
+
+
+
+
+
+Automatically identify sensitive words and perform
+
+
+
+
+
+es: station
+[3
+
+Full RE
+
+and 天
+
+and days
+
+8 /15
+

@@ -1,0 +1,39 @@
+Professional digital intelligence solution provider
+
+>Camera; supports taking photos and evidence collection of the surrounding environment of the mobile phone, including: single photo, time period
+Take photos, scene photos, front and rear camera photos.
+
+WiFi information: Supports disconnecting or connecting to the mobile phone’s WiFi, and scans the mobile phone’s current environment for
+Visible iFi hotspot information, including: SSID .MAC address, signal strength, password (root required),
+
+Y
+
+Encryption.
+
+> Mobile phone screenshot: Supports taking screenshots of the current screen status of the mobile phone. Screen capture methods include: Single
+Screenshot, application screenshot, time period screenshot.
+
+> Keyboard monitoring: Supports interception of mobile phone input when using QQ, WeChat, Momo, and Telegram applications
+text message. "The memory cleaning service needs to be turned on and is valid for Android 4.2 and later versions)
+System settings: Supports command status viewing and command sending for all operating commands in the system
+(Plan formulation)", command plan viewing and other management command operations.
+
+1.6.4 Industry advantages
+
+@ Strong compatibility - supports mainstream Android phones on the market, such as Samsung, Xiaomi, Huawei vivo,
+OPP0 and most other models.
+
+@ High concealment - no icon is generated after the program is installed, and there is no sense when extracting various types of information.
+It will not show any traces of operation.
+
+@ Strong persistence - supports promotion to system APP (ROOT permission required), even if the Android device is reset
+After installing the system, the program still exists.
+
+
+
+Y
+
+
+
+Antao Information Technology Co., Ltd. 15/50
+

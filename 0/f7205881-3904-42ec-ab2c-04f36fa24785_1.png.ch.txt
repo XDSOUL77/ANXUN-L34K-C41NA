@@ -1,0 +1,62 @@
+目录
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 前言 .esessesssasnsssnsnnnsnnsnnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnssnnsnnsnsnnsnnnssasnsessnsns 1
+2 ”需求分析 .eseeesseesnsnnnnsnnnnnnnnnnsnnnnnnnnnnnnnnnnnnsnnnnnnnnnssnnnnsnnsnsnnnns 1
+3 产品简介 .ssesssesnsssnsnnnnnssnssnnsnnsnnnnnnnnnnnnsnnnnnsnnnnnnsnnsnnnsnnnnnnnnsnnnssnsnnnsn 2
+3.1 。 产品介绍.sessssssssnnnnnsnsnnsnnnnnnnannnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnannnnnnnnnnnnnnsnsnnnnn2
+3.2 产品组成es2
+3.3 系统架构 3
+3.4 网络架构es4
+4 产品功能 .ssesssnsnsnnnsnnnnnnsnssnnsnnnnsnnnnnnnnnnnnnnnnnnnnnsnnnsnnsnnnnnsnnsnnsnsessnssns 4
+4.1 。 涉赌数据概览 es4
+4.2 。 涉赌人员具体数据查看.ssesnnnnnsnnnnnnnnnnnnnnnsnnnnnnnssnnnnnennnsssnans 5
+4.2.1 ，”涉赌用户基础信息查看 .ssnnnnsssnnnnnsnnnnnnnnnnnnnnsnnnnnennnsssnnns 5
+4.2.2”涉赌用户涉案信息查看 .ennsnnnnnnsnsnnnnnnnnnnnnnnnnnnnnnnsnsnnns 5
+4.3 业务管理.eeeesenesssssensnnnnnnsnnnnnnnnnnnnnnnnnnnannnnnnnnnnnannnnnnnnnnnannnsnnnnnnnssnnnnnenensssnnns6
+4.3.1 业务 ZC6
+4.3.2 ”补充信息7
+4.3.3 业务分析8
+4.4 流水管理.eesensesssssnsnnnnnnsnnnnnnnnnnsnnnnnnanannnnnnnnnnnannnnnnnnnnnnannnsnnnnensssnnnennnssssnsns9
+4.4.1 ”流水导入 .esesesensnssrssnsnnnnnnsnsnnnnnnnannnnnnnnnnnnannnnnnnnnnnannnnnnnnnnnnannnnnnnnnnnnnssnsnnnennnsssnnns9
+4.4.2 。流水查询 es9
+
+4.5 业务列表.eeesesssssnsssesnssnnsnsnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnn 10
+

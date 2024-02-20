@@ -1,0 +1,46 @@
+2. Port: The listening port can be customized by the user, but it cannot be the same as the port being used by the system;
+3. comkey: The secret key of the connection. After configuration, the Trojan configurator must be consistent with this.
+
+4. cert, key: This certificate needs to be configured when using the WSS protocol, and the certificate needs to be placed in the same directory as hector.exe;
+6.2.2 Open the console
+
+1. After configuring the configuration file Hector.ini file, save it;
+
+2. Run the Hector.exe program, the main program of the control terminal, to open the control terminal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net pug-in 20197811 15:14. Files go
+
+Three pug-out 201918/T1035 files go
+
+Figure Enginedll 2019y8/1 14:42. Application extension 521 KB
+Go back to Engine pdb 20191aT and import it. PDB file 2875 Medium
+picture
+
+Spoke Hastarini 201977130 17313 . Configurable 1 kB
+port bederpdb 2019/8/11453: PDB file 6715 KB
+Figure Infestoragedll 201977131 18:30 . Application extension 95 KB
+口 Infestarage&pdb 201977131 18:30 . PDB file T435 kB
+Added mfcioou.dll 2019/7/122 14:08. Application extension 4.320 KB
+Figure msvcpioodl 201917/1408. Application Extension 412 Central
+Figure msvcr10o:dll 2019/7122 1408 Application Extension 756 KB
+Figure souite3.dll 201913/22 10:21 Application extension 444 KB
+at terminalexe 201471T721 0i00. Application 374 KB
+
+Figure 6.1: Control terminal main program
+

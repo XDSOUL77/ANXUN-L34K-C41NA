@@ -1,0 +1,150 @@
+Product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Parameters Standard Edition Professional Edition
+Quick scan takes 1-5 hosts, average 30 minutes 30 minutes
+Default concurrent scan Default number of hosts scanned simultaneously 5 5
+Number of vulnerability libraries: 100,000+ Supported Supported
+Number of vulnerability check items: 300,000+ Supported Supported
+Maximum concurrent scanning Maximum number of hosts scanned simultaneously 10 10
+
+Total number of modules including utilization, auxiliary, post-penetration and other different modules 4000+ 4000+
+Number of modules used Number of modules used 1700+ 1700+
+IP number authorization Whether to limit the total number of target IPs Unlimited Unlimited
+Web operation interface Operation via browser interface Support Support
+Command line operation Through terminal command line operation Support Support
+Support IPv6 Support IPv6 Network scanning Support Support
+Independent property rights, complete autonomy of code, support, support
+Including operating systems, network equipment, databases, middleware, and systems
+Vulnerability Exploit Coverage Support Support
+Software, etc.
+
+Protocol: AFP, DB2, FTP, HTTP, HTTPS,
+
+MSSQL, MySQL, POP3, Po penetration greSQL,
+Password Brushing Support Agreement Supported Supported
+
+SMB、SNMP、SSH、SSH PUBKEY、Telnet、
+
+VNC、WinRM
+
+Sub-project management Supports sub-project management of penetration testing targets Support Support
+Quick Guide Quick Guide for Penetration Testing Operations Support Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 /15
+

@@ -1,0 +1,37 @@
+Professional digital intelligence solution provider
+
+
+
+41.4 Product pictures
+
+
+
+
+
+
+
+
+
+"Interface Diagram of Domestic and Situation Investigation System")
+
+4.2 Steel seat anti-gambling platform
+42.1 Product Introduction
+The anti-gambling platform is a product professionally designed for relevant departments to combat online gambling crimes.
+Taste. Provides control, analysis, and judgment of online gambling data. Based on the data information provided, relevant departments can
+Quickly locate suspected targets based on data characteristics and detailed information, and use the platform’s online gambling data as support to conduct in-depth
+Carry out online gambling criminal investigation tasks to achieve an overall crackdown on online gambling organizations.
+4.2.2 Product functions
+> Data query; users can search for relevant identity information according to their needs. The identity information includes account name,
+Attributes, password, name, screen name, mobile phone number, mobile phone location, email, login IP, login
+Various information such as location, address, superior agent, etc. You can click the operation button for suspicious identities.
+View detailed information and file a case.
+> "Case Management: The platform supports case filing, investigation and analysis based on the basic information of financial-related users.
+Analysis, combine the data information of the target account to conduct correlation analysis, and grasp the target’s superior and subordinate relationship network
+Network map, distribution trend of offline registration time. Proportion of bank card case value, regional distribution of offline users,
+Various information such as the proportion of offline users' case value, and support the editing and deletion functions of cases to achieve
+Supplement and improve the registered account information.
+
+
+
+Antao Information Technology Co., Ltd. 40150
+

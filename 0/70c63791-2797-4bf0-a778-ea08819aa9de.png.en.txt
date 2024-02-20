@@ -1,0 +1,10 @@
+3 Provident Fund Account Bank Card Information Table UAN_REPOSITORY, 160 million items
+Fu Jiu S provident fund number, ID card, father's name, phone number, email address, bank
+Format compressed package 20.8GB data as of July 8, 2021
+
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+1
+
+
+
+
+
+DGNENENESRE RESUEINEN
+
+(template management)
+
+4.2.2.3 Terminal access function
+
+
+
+
+
+
+
+
+
+The main purpose is to provide various verification codes involved in external network application platforms, and to set up in iOs system and Android system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All functions of the web side of the external network application cloud platform are implemented on the device and are operable.
+
+
+
+
+
+reach
+
+1T)
+
+2)
+
+3)
+
+Stomach
+
+one
+
+2)
+
+2)
+
+3
+
+Binding process
+
+
+
+Set a 6-digit password for the cloud host management platform software
+
+
+
+
+
+
+
+
+
+Scan the QR code of the server address provided on the intranet
+
+
+
+
+
+Scan the login QR code provided on the intranet
+
+
+
+
+
+
+
+
+
+Scan additional security QR code
+
+Computer login operation
+
+Enter the 6-digit password to unlock the cloud host management platform software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the computer, enter the login verification code and additional security code provided by the cloud host management platform software to log in.
+
+
+
+
+
+
+
+Mobile login process
+
+Enter the 6-digit password to unlock the cloud host management platform software
+
+
+
+chosen
+
+
+
+
+
+
+
+Mobile login
+
+Scan/upload the login QR code provided by the intranet to log in
+
+28 /32
+

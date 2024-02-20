@@ -1,0 +1,82 @@
+
+
+Process image analysis function supported
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PACP packet capture analysis function supported
+Malicious behavior screenshot function supported
+Architecture B/S architecture
+Deployment method local deployment
+[and
+Task list display support
+View cloud host information supported
+[0
+File import analysis function supported
+API detection function supported
+Behavior analysis function support
+Process image analysis function supported
+PACP packet capture analysis function supported
+Malicious behavior screenshot function supported
+Weapon storage management function supported
+Weapon storage management function supported
+Weapon information annotation function supported
+Weapon classification encrypted storage function supported
+Weapon download logging support
+
+
+
+
+
+
+
+37 /32
+

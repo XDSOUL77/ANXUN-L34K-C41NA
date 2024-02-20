@@ -1,0 +1,66 @@
+Professional digital intelligence solution provider
+
+
+
+Students can conduct real network security confrontations in an intranet penetration environment built 1:1 based on actual combat scenarios.
+Improve students' practical work ability.
+
+Central management platform (hard side)
+
+Large display screen for actual combat training
+
+Penetration Environment Cluster Flat Internal Training Exercise Area
+
+
+
+
+
+
+
+|. Environment import il practice | Personnel A Personnel B Personnel C
+Team competition
+
+server server
+Home 国二全一| Tuantuanxuan
+Server Used Half Person D Person E Person F
+
+
+
+
+
+
+
+
+
+
+
+"Actual Training Platform Operation Form Diagram)"
+
+4.3.2 Product functions
+
+three
+
+three
+
+Environment management: The system has built-in virtual machine templates for common website, email, OA and other servers to teach
+Members only need to select the corresponding virtual machine template on the scene production interface to add it, and can quickly build
+Network simulation environment. At the same time, the platform supports custom uploading of the target simulation environment. Through this function, you can
+In order to create the same network attack and defense environment as students' real learning and work.
+
+Question management: Teachers can use the question management function to create new competition questions, set the name of the question,
+Difficulty and question type. The question type is suitable for actual intranet vulnerabilities, including reverse engineering, vulnerability mining and exploitation.
+Application, Web penetration, cryptography, forensics, steganography, secure programming and other categories to improve students'
+Real confrontation ability and practical work ability.
+
+Competition management: Teachers can use the competition management function to generate different types of questions from the question bank.
+Post the test paper for the competition, set the competition name, competition time, and competition rules, and view them in real time.
+Game progress and results
+
+Team management: supports the function of creating a team, setting the team name, team logo, and joining password.
+Each participating team member can join different teams through passwords to conduct actual combat exercises and improve the team.
+Collaborative combat capabilities.
+
+
+
+Antao Information Technology Co., Ltd. 42/50
+

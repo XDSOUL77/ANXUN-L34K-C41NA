@@ -1,0 +1,270 @@
+There are 3 -
+
+VPS account
+
+4.2.3 Link resource management function
+Extranet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To build links, all links must be fully
+4.3 "Safety protection system
+
+In principle, there are no less than 3 access links to the station, 2 TZ cover links, 1 scientific Internet link, and TZ cover link
+
+
+
+
+
+
+
+
+
+normal network combat environment; scientific Internet link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anonymous mode.
+
+
+
+
+
+
+
+security, link security,
+
+
+
+It is an integrated combat platform that should
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the basis and premise. in configuration
+
+Counter-reconnaissance security, security management and other multi-dimensional |
+
+
+
+
+
+
+
+To ensure that the actual work of TZ business is highly hidden and highly
+
+
+
+
+
+4.3.1 Basic security system
+
+
+
+
+
+.. Whether purchasing third-party link resources or
+
+
+
+
+
+
+
+Based on the basic security system, from identity authentication, data
+
+
+
+
+
+
+
+Design security strategies, build security barriers, and build security mechanisms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The intranet platform should be deployed in the jurisdiction where the user belongs
+
+
+
+
+
+
+
+The security area of the door does not allow non-relevant persons to:
+
+
+
+
+
+
+
+The internal and external networks of the platform are physically isolated.
+
+
+
+
+
+Deployment, then create a new protection system. External network security, in addition to equipped with necessary
+
+
+
+
+
+
+
+
+
+Set up different security zones for fine-grained
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, firewall, traffic
+
+
+
+Carry out safety type according to the standards of Level 3 or above
+
+
+
+
+
+
+
+It should be deployed in a safe and controllable computer room.
+
+
+
+
+
+
+
+and should be set up specifically
+
+Physical security.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computers, intrusion detection equipment, APT attack detection equipment, secret cylinders, etc. Conditional
+
+set up.
+
+(If deployed on a private network security network) protection system, if there is no
+
+
+
+
+
+In addition to security protection equipment, according to different application modules of the external network,
+
+
+
+
+
+
+
+
+
+
+
+Protective equipment, including but not limited to the security of each host system on the platform.
+
+
+
+
+
+Also, you can refer to etc.
+
+31 /32
+

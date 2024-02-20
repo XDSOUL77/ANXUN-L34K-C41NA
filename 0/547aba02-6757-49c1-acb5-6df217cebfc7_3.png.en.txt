@@ -1,0 +1,101 @@
+Windows Forensics Tools Technical Specifications
+
+1. Required indicators
+
+
+
+
+
+The following indicators are the basic functions of forensic tools and the requirements must be met.
+
+
+
+
+
+1. System version
+
+
+
+
+
+
+
+
+
+This tool contains at least two parts: the control end and the controlled end. The controlled end is controlled through the control end.
+Perform forensic analysis.
+
+The control terminal is required to support: Windows 7, 32-bit and 64-bit English versions of Windows 11
+system.
+
+
+
+
+
+
+
+The controlled terminal requires support for: Windows Server2008, 2012, 2016, 2019, 2022
+32-bit and 64-bit English version systems: Windows7, Windows8, Windows8.1,
+
+32-bit and 64-bit English versions of Windows 10, Windows 11.
+2. Functional requirements
+
+@ View, create and close the controlled process
+
+@ Support file management functions, including: viewing, creating, deleting files and directories,
+File upload, download, and resume upload.
+
+@Interactive SHELL (supports telnet command)
+
+@ The controlled terminal can start automatically after the operating system is restarted.
+
+@ The controlled terminal supports domain names |
+
+@ The controlled terminal can run with User, Administrator, and SYSTEM permissions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+five
+
+
+
+
+
+
+
+connection, IP back connection
+
+
+
+
+
+
+

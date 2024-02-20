@@ -1,0 +1,62 @@
+Table of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 前言
+2 ” demand analysis
+3 Product introduction
+3.1 。 Product introduction.
+3.2 Product composition es2
+3.3 System Architecture 3
+3.4 Network architecture es4
+4 product features
+4.1. Gambling data overview es4
+4.2. Check the specific data of gambling personnel.ssesnnnnnsnnnnnnnnnnnnnnnsnnnnnnnssnnnnnnnnsssnans 5
+4.2.1, "View the basic information of gambling users .ssnnnnsssnnnnnsnnnnnnnnnnnnnnsnnnnnnnnsssnnns 5
+4.2.2" View the information of gambling users involved in the case .ennsnnnnnnsnsnnnnnnnnnnnnnnnnnnnnnnnsnsnnns 5
+4.3 上海管理.eeeenessessssensnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnssnnnnnenensssnnnn6
+4.3.1 Business ZC6
+4.3.2 “Supplementary information 7
+4.3.3 Business Analysis 8
+4.4 流水管理.eesensesssssnsnnnnnnsnnnnnnnnnnnsnnnnnnanannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnensssnnnennnnssssns9
+4.4.1 ”流水 import .esesesensnssrssnsnnnnnnnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+4.4.2. Running water query es9
+
+4.5 Business list
+

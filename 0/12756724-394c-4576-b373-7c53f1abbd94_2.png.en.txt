@@ -1,0 +1,47 @@
+Professional digital intelligence solution provider
+
+1. Special control secret retrieval class
+
+
+
+1.1 Email encryption platform
+
+1.1.1 Product Introduction
+The email encryption platform is comprehensively developed and designed based on years of research on Google/Microsoft security mechanisms.
+Use imperceptible and anti-secondary verification technology to obtain the target mailbox permissions and obtain the content of the target email.
+
+、
+3
+
+Deliver the exe to execute Wenbo and obtain the permissions of the target mailbox
+target terminal
+
+@
+4. Receive all email messages
+Target email
+pond
+
+Email encryption platform
+Send an email with a forensic link 1 Obtain permissions to the target email address 1
+
+
+
+
+
+
+
+"E-mail encrypted platform operation status")
+1.1.2 Product functions
+> Execution file download: Users can choose to download the corresponding forensic execution file version according to their needs, and
+Deliver this executable file to the target terminal.
+> "Link generation: The platform can generate links based on user-specified links (real or customized links)
+Forensic link, users can send this link to the target email address. (for Outlook mailbox forensics)
+Six import protocols: Users can import Exchange, POP3, and IMAP according to the target mailbox situation
+protocol data.
+6. Generate GPG: The user generates the corresponding GPG Key according to the target mailbox and performs encrypted email transmission.
+Input and decrypt view.
+
+
+
+Antao Information Technology Co., Ltd. 3/50
+

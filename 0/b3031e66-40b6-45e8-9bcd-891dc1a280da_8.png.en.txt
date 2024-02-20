@@ -1,0 +1,361 @@
+service, inject some specially constructed
+
+
+
+
+
+Execute "that evil" data contained in
+
+
+
+attack
+Passive Penetration Attack: Every
+
+It is a traditional penetration attack.
+
+Contains "collect evil" attack data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|
+
+
+
+
+
+
+
+
+
+attack payload to obtain
+
+
+
+The vulnerability lies in the client software
+
+, such as browsers, browsing plug-ins, email clients, of
+
+control session of the system. against
+
+network request content, triggering security vulnerabilities and causing remote services to
+
+
+
+Active penetration of network servers
+
+ice
+
+
+
+
+
+and various document and editing software such as Adobe. For such security vulnerabilities that exist in client software, we cannot proactively
+
+
+
+Data is input into the client software remotely,
+
+Mail or document files and contain such
+
+
+
+
+
+
+
+
+
+
+
+This can only be taken
+
+
+
+
+
+
+
+
+
+
+
+Malice
+
+
+
+
+
+
+
+
+
+send and deceive
+
+
+
+
+
+mark
+
+Account opening, combined with online deception and hijacking
+
+
+
+
+
+
+
+Detect security vulnerabilities in client software and provide controls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Firewall, etc.
+hole attack.
+
+Network border protection measures, the most common
+
+
+
+3) Post-penetration attack module
+
+
+
+Post-penetration attack module
+
+To support the acquisition of penetration attacks
+
+
+
+control function,
+
+Various types of operations are carried out in the enterprise controlled system
+
+Passive penetration attack method. have
+
+Zhu Technology, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Activities such as springboard attacks and cleanup traces.
+
+4) Attack payload module
+
+
+
+Content server, send email attachment
+
+Construct "political evil"
+
+
+
+
+
+
+
+web pages, electronic
+
+
+
+software, combined with social engineering attack analysis
+
+
+
+
+
+
+
+
+
+on the marking system
+
+
+
+
+
+
+
+
+
+users access this content and thus
+
+
+
+
+
+
+
+Standard system remote control rights
+
+A shell session for the target system. Client software passive penetration attacks can be bypassed
+Two types of passive penetration attacks are browser software vulnerability attacks and file format vulnerability attacks.
+
+
+
+
+
+
+
+
+
+
+
+The attack payload is a successful penetration attack
+
+
+
+
+
+
+
+open at
+
+
+
+ShellCode code, written in assembly language and converted to
+
+
+
+
+
+
+
+trigger vulnerability
+
+
+
+Single function.
+5) Empty command module
+
+control session connection on the target system. in tradition
+
+Therefore, the program execution flow is moved
+
+
+
+Yu prompts
+
+
+
+
+
+
+
+A piece of implanted code that targets system operation, usually as
+
+In 2016, with the help of the powerful load platform
+
+
+
+
+
+Post-penetration attack actions, such as obtaining sensitive information, further development, and implementation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for penetration attackers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penetration code development
+
+dust and jump into this machine code
+
+
+
+
+
+
+
+The null instruction (NOP) is
+
+These no-operation or irrelevant operation instructions will not have any substantial impact on the running status of the program.
+
+P, the attack payload is just a simple function
+The machine code supported by the standard system CPU architecture can be used in penetration attacks.
+
+Execution, thereby completing the implementation in ShellCode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 /15
+

@@ -1,0 +1,256 @@
+6 Product Deployment
+6.1 Applicable environment
+"Automated Penetration Testing Platform" is a platform that integrates hundreds of vulnerability templates and penetration testing methods to support various types of network equipment and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A platform for the host to automate penetration testing. The platform adopts a variety of deployment methods and can be used by users to penetrate specific network targets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special tasks for thorough testing. The system integrates a variety of vulnerability templates and testing methods to fully satisfy users' penetration testing and testing of target networks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirements for multiple penetration testing attacks such as WEB application testing, vulnerability verification, weak password scanning, mobile terminal penetration, and arbitrary verification.
+6.2 Deployment method
+The platform supports multiple ways of deploying applications. It supports installation on portable hardware such as laptops, and also supports deployment to virtualization platforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Only basic network connectivity is required to carry out security detection and assessment. The system is generally used as an active test and is also used for special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scenarios provide a deployment method for passive testing. Specific deployment requirements are as follows:
+
+
+
+Configure environment environment parameters
+
+
+
+Active test deployment: The system is able to connect to the target network, either through a proxy or VPN.
+
+
+
+
+
+
+
+
+
+
+
+Busi method passive test deployment: apply the automatic test module in the system and connect the system to a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Network port for traffic mirroring, analyze and test the mirrored network traffic.
+
+
+
+
+
+
+
+Recommended dual-core CPU, 4GB running memory, 120G storage or above configuration
+
+
+
+Hardware environment
+Operating system type: Ubuntu 16.04 LTS 64-bit
+
+
+
+Recommended VMWare ESXi6.5
+
+
+
+Recommended VMWare Workstation 11
+
+
+
+virtualized environment
+VMWare Player 11 or above is recommended
+
+
+
+VMWare Fusion (for Mac)
+
+
+
+Network environment with access to the Internet
+
+
+
+
+
+
+
+
+
+21 /15
+

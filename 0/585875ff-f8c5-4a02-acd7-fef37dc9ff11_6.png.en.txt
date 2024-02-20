@@ -1,0 +1,128 @@
+
+
+
+
+
+
+people
+
+
+
+Chapter 6 "Instructions for use
+6.1 Overall file structure
+
+plus consolations
+
+wind peor
+
+phoenix tools
+illustrate:
+Console: stores the control program,
+Door: stores the Trojan configurator program;
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tools: Stores tools for generating https certificates;
+
+6.1.1 Control terminal-console
+
+plug3in
+- Plug-Out
+Figure Engine.dll
+Mouth Enginepdb
+Figure FileManagerdll
+Hectorexe
+Hectorimi
+Mouth Heciocpdb
+Figure Infostoragedll
+Cancer Infostorage.pdb:
+Figure mfclou.dIf
+Figure msvcr100.dll
+Figure.msvcr1o0.d
+Figure SQlie3.dll
+which terminalexe
+
+
+
+
+
+
+
+
+
+
+
+illustrate:
+Hector.exe: Control terminal main program;
+Hector.ini: Control side configuration file;
+
+
+
+2019/8/1 15:14
+2019/8/5 11:49
+2019/78/7 15:47
+
+2019/8/T 15:t4
+201918/T 10:35
+20191871 1442
+2019/781Т14.42
+2019/871 11: Ezz
+2019781T 1453
+2019/77/30 17:13
+2019/8/71 1453
+201977731 18:30
+201977131 18:30
+201917122 1408
+201917/22 T408
+201917122 14:08
+2019/3/22 10:21
+2014/11/21 000
+
+Files go
+Files go
+Files go
+
+Files go
+Document log
+
+application extension
+PDB file
+application extension
+app
+Wake up and set up a pavilion
+PDB file
+application extension
+pdb-file
+application extension
+application extension
+application extension
+application extension
+app
+
+521 KB:
+2875 KB
+213 KB
+267 KB
+
+T KB
+715 KB
+35 KB
+1.435 KB
+4.320 KB
+412 KB
+756 KB
+444 KB
+374 KB
+
+Page 4
+

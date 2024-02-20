@@ -1,0 +1,113 @@
+7.1.2 Host plug-in automatic loading
+Click to open the cmd or fleManager window on the host, and the plug-in will be loaded automatically.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If a prompt of successful or failed loading appears, the F panel window will be reloaded; after the plug-in is successfully uploaded, the
+Right click Refresh to refresh.
+Painting TD:ijoniine -- mouth area
+Pugnar,File Manager linux-shell
+
+inentDi: TUpdalad1t435 and [| Y
+
+Nane Se Date 6
+
+fly man boat < 201907.2906114 picture
+
+-Station mw dev dy 20131014032353 Im
+
+Outer mm pmoe < 20191014032344
+
+大 mn dp 20131014032428 ix
+
+Station Sc Four Quan 20191014032346 Fan
+
+Site ou on 20191014032422 My
+
+Quan Tian Toot dp 20191014032332 wind
+
+outside mp oa < 20190717152757 is
+
+Xia ur mp 1 20131014033458 If
+
+All un Yu di 20190717152143 Ta
+
+-Because n bm dy 20191014032025 in
+
+By sbn dp 201907.29091031
+
+By district 20190717152352
+
+ibe4 let 20190729091030
+
+hane                           dp                       20190717152644            |
+
+media                      dy                   2018041T045955          Ps
+
+it                        1                   20180411045955          If
+
+on th 20190717152354 my
+
+of 区 20190411 045955 RMy
+
+FE
+
+
+
+
+
+
+
+: Plug-in loaded successfully
+
+
+
+7.2 File management
+Document management includes:
+1) File directory browsing
+View graphically and support direct execution of an executable file;
+Supports directly entering the absolute path to browse the specified directory;
+Supports recording recently entered path information
+2) File transfer
+File upload, download, operation, deletion, small file content viewing, etc.;
+Supports breakpoint resuming, and supports pausing, starting, and deleting transfer tasks;
+1. File directory browsing
+
+
+
+Page 3
+

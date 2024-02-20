@@ -1,0 +1,143 @@
+
+
+
+
+In this case, you can log in to the platform anytime and anywhere for daily operations such as data overview, Twitter forensics, and situation monitoring.
+
+4 product features
+
+The Twitter public opinion guidance and control system mainly provides comprehensive functions of information query, account countermeasures, and public opinion monitoring, and can be developed according to needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open forensic control of the targeted Twitter account.
+4.1 Home page
+The system supports adding monitoring personnel, adding keywords, adding evidence collection, importing data on the home page interface, and provides import data templates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download it to facilitate public opinion guidance and situation monitoring on Twitter accounts.
+
+Add monitoring personnel. Add jn’s available Twitter account.
+
+
+
+4.2 ”Data Overview
+The platform provides a data overview function based on some controlled Twitter accounts. Users can view the platform’s current data on the data overview page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The total number of successful evidence collections, the total number of successful imports, the total number of monitoring personnel, view the TOP5 Twitter account group control operations, evidence collection
+
+
+
+Link IP click hotspot distribution, latest forensic success list, latest tweets, top 5 number of tweets, etc.
+
+4 7114
+

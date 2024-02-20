@@ -1,0 +1,63 @@
+Professional digital intelligence solution provider
+
+
+
+
+
+
+
+
+
+
+
+Operating system Android 6.0 and above
+Mobile phone brands: Samsung, Xiaomi, Redmi, Huawei and other mainstream mobile phones
+Mobile phone cards Telecom, China Mobile, China Unicom
+Network type 26, 3G6, 46, WiFi
+
+
+
+
+
+
+
+1.6.3 Product functions
+
+> Device information: Supports obtaining basic information of the mobile phone and switching on and off the mobile network of the target mobile phone. These include
+Device name, mobile phone model, battery capacity, system version, MAC address, phone number, mobile phone serial number
+number, system customizer, CPU information, motherboard information, running memory, network type, IMSI,
+IMEI。
+
+> "Positioning information: adopts triple positioning method of network, base station (with network and card), and GPS. Supports continuous
+Continue positioning, return positioning information according to the set time interval, and support statistics, analysis, and export.
+
+> Contacts: Supports obtaining mobile phone contacts, supporting forging targets to edit and send messages to their contacts.
+Scam SMS (valid for Android 4.4 and earlier versions), supports intercepting incoming calls and calls from specified numbers
+SMS (may not be intercepted on Android 4.4 and above, some mobile phones will detect it).
+
+> Call records: Supports obtaining mobile phone call records, and supports statistics, analysis, and export.
+
+> SMS: Supports obtaining SMS messages, and supports statistics, analysis, and export.
+Acquisition of various chat information: Supports acquisition of contacts on mobile phones including WeChat, QQ, and Momo chat software
+Contacts and chat history. [requires root)
+
+> File management: Supports obtaining the file directory structure and file list of the target mobile phone, which can be displayed by category
+Displays multimedia information and quantity statistics such as music, videos, pictures, documents, etc., and supports downloading.
+
+>Network Traces: Supports obtaining traces of the network browsed by the target mobile phone's built-in browser, which can be obtained
+The results obtained can be filtered and queried by browser, time period, and title keywords.
+CAndroid6.0 previous version)
+
+> Software list: Supports obtaining installed software information on the target mobile phone and account information on the mobile phone.
+
+> Process list: Supports obtaining process information running on the target phone, and obtaining process information
+Make a filter query.
+
+> "Environmental recording: Supports environmental recording on mobile phones and mobile phone call recording.
+
+
+
+
+
+Antao Information Technology Co., Ltd. 14/50
+

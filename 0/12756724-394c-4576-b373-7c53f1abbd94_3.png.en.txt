@@ -1,0 +1,49 @@
+Professional digital intelligence solution provider
+
+
+
+> Email acquisition: When the target clicks on the execution file/evidence collection link, the platform can obtain the target’s email address
+Limit, thereby obtaining the inbox, outbox, contacts and other email data contents of the target mailbox.
+
+"Six" task management: The platform supports the management of each target mailbox creation task, and you can view each task at any time.
+The progress of each task can be comprehensively grasped in real time to facilitate management.
+
+> "Log records: The platform supports viewing log records to facilitate users to view operation details.
+1.1.3 Industry advantages
+
+@ Non-inductive forensics - by executing files/forensic links one by one, the backend system can quickly obtain their account rights
+There is no need for the target person to enter the account password again, which reduces the target person's vigilance and defense line.
+
+@ Two-step verification bypass technology - the platform can directly bypass login ears, mobile phone verification codes, etc. Google/WeChat
+Soft secondary verification, the target does not actively sense the entire process, and the target email data is obtained.
+
+
+
+
+
+
+
+
+
+
+
+ma
+
+
+
+middle time
+[
+"Email encrypted platform interface diagram")
+
+1.2 Twitter Control Forensics Platform
+
+1.2.1 Product Introduction
+
+The Twitter Control Forensics Platform is a platform for querying and responding to Twitter account information on overseas social platforms.
+A product that integrates control and monitoring, using exclusive non-inductive forensics technology and big data intelligent private bug technology to achieve
+Comprehensive data information monitoring of Twitter accounts.
+
+
+
+Antao Information Technology Co., Ltd. 4/50
+

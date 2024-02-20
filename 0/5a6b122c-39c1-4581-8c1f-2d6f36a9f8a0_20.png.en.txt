@@ -1,0 +1,136 @@
+
+
+Welcome to Dabeimu War Intranet Platform
+
+Resource management
+Resources are needed. Tanban Resources. Banlu Resources . Ma Yi this source
+[|
+
+(Weapon resources)
+
+4.1.3 Security sandbox module
+
+The security sandbox module mainly performs security detection on any files, data, programs, etc. that enter the intranet. Through the sandbox
+
+
+
+
+
+Box environment, simulates the viewing and running functions of various data provided, and detects whether there are viruses, malicious programs and other high-risk data files.
+
+pieces.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Six major functions.
+
+Mainly provides file import analysis, APl detection, behavior analysis, process mirror analysis, PACP packet capture analysis, malicious behavior interception
+
+1 File import analysis function: supports analysis of multiple file formats, including windows executable files, DLL files, PDF
+
+2)
+
+3)
+
+Stomach
+
+5)
+
+Documents, Office documents, malicious URLs, HTML files, PHP files, CPL files, VBS, ZIP compressed files
+
+files, jar files, python programs, etc.
+
+
+
+AP1 Detection Capabilities: Ability to track win32 API calls of malware processes and all processes they spawn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+record, yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malicious API behavior
+
+
+
+
+
+Provide early warning or recording.
+
+Behavior analysis function: the files to be detected are imported for analysis
+
+
+
+
+
+and record, palm
+Process image analysis function: Imported file programs can be
+version of the memory image for thorough analysis and comparison.
+
+PACP packet capture analysis function: imported files are executed in a sandbox environment
+
+
+
+Finally, it can detect the file creation, deletion and downloading behaviors of the software,
+
+
+
+Grasp and understand whether the software behaves compliantly and complies with security regulations.
+
+The memory performs 1:1 mirroring function to obtain the integrity of the software process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Therefore, if network traffic is generated, PACP
+
+18 /32
+

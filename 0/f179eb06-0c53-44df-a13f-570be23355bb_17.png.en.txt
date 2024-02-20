@@ -1,0 +1,71 @@
+
+
+
+
+(Group management)
+
+4.5 “Material Management
+The system supports batch addition, comment editing, adding materials in groups, and can modify and delete the added material content. white
+Pictures and videos are convenient for commenting and forwarding operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+habit
+
+Material management provides text and pictures for public opinion guidance and control
+
+Complete
+
+。     Re
+
+One" to avoid two places
+
+IE Ou Guang Wang Wang
+
+have
+(material management)
+4.6 Operation history
+The platform supports viewing the operation history list and importing the history list. The operation history list includes operation type, operation content, and log time.
+
+
+
+time, the import history list includes the imported file name, import status, and import time. It also supports changing login password and email address.
+
+
+
+14 /14
+

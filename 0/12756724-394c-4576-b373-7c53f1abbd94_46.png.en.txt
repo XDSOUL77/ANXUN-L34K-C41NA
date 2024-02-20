@@ -1,0 +1,67 @@
+Professional digital intelligence solution provider
+
+
+
+three
+
+three
+
+Relationship network sorting: The system supports characterization of the relationship network of target emails, including email exchanges
+Information, contact information in emails, regional geographical location information, interpersonal dimension information, etc.
+It can also realize comparative analysis of a single target and generate a comparative analysis report.
+
+Early warning research and analysis: The system supports classification and grouping management of acquired email data sources, and can
+Different data sources are combined and analyzed in series, and combined with sensitive lexicon for comprehensive analysis to achieve
+Now conduct early warning research and judgment on target information.
+
+
+
+4.5.3 Product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating system Windows/Linux operating system
+CPU Intel Xeon E5-2600 v3+2
+Server performance
+Memory 8G
+Hard drive capacity 2T
+Browser needs to support HTML5
+Processing total volume: 100,000 emails/station
+From "If the server performance in the table is met, the total processing volume can increase with performance improvement"
+Cluster function supported, performance increases linearly after adopting cluster mode
+
+
+
+
+
+
+
+4.5.4 Industry advantages
+
+High accuracy - the system adopts big data architecture and intelligent text recognition technology to realize massive mail processing
+Quick analysis, accurate extraction, and quick comparison of files.
+
+The powerful system supports various relationship analysis and value information extraction of target emails, including
+Including but not limited to email exchange information, geographical location information, communication information, activity information, etc.
+High stability - the system is stable and reliable, supporting 24/7 uninterrupted operation.
+
+Ease of use - the system is simple to operate and adopts a graphical operation interface.
+
+
+
+Antao Information Technology Co., Ltd. 47/50
+

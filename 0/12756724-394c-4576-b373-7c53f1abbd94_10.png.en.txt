@@ -1,0 +1,68 @@
+Professional digital intelligence solution provider
+
+
+
+1.4.4 Industry advantages
+
+@ Strong concealment - after the server is implanted into the target computer, there is no startup item, ensuring that the target computer has no startup items throughout the process.
+feeling.
+Strong compatibility - compatible with all versions of Apple operating system.
+High stability - the system supports 24-hour uninterrupted operation and has a self-recovering fault-tolerant machine
+system.
+
+@ Fast transmission and evidence collection-when the network between server and client is 10M, the file download speed
+Three 200Kb/S, file upload speed two 100Kb/S, screen capture speed three 5 frames/min.
+
+@ The connection index is high—the maximum number of connections exceeds 2,000, and when 100 servers are connected concurrently,
+The system still works normally.
+
+1.4.5 Product pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Mac remote control management system interface diagram)
+
+1.5 i0S remote control management system
+
+1.5.1 Product Introduction
+i0S remote control management system is a tin system specially designed for iPhone devices running 10S system.
+The remote information acquisition system installed by jailbreak can realize remote evidence collection and monitoring of iOS system devices.
+
+
+
+Antao Information Technology Co., Ltd. 11/50
+

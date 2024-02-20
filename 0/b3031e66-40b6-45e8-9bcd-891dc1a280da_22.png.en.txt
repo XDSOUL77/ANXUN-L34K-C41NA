@@ -1,0 +1,245 @@
+
+
+Installation (SQL Server DB2, Oracle, MySQL, etc.),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web applications, middleware, network equipment (routing, switching, defense
+firewall, etc.)
+Black box vulnerability assessment Vulnerability assessment via network remote fingerprinting Support Support
+Vulnerability assessment Login scan using login credentials Support Support
+Built-in more than 8 scanning strategy models for different vulnerability assessment requirements
+Scanning policy templates supported supported
+plate
+Customized scanning strategy Scanning policy template can be customized and configured Supported Supported
+Prompts vulnerabilities that have publicly exploited methods and provides relevant vulnerability exploits.
+Exploitable vulnerability information Support Support
+source information, etc.
+Vulnerability judgment basis Scanned vulnerabilities can be viewed based on judgment Support Support
+In addition to the CVSS standard vulnerability score, based on asset criticality, vulnerability
+Accurate Risk Score Support Support
+Exposure and threat levels provide a more accurate risk score
+Virtualization platform scanning supports scanning of mainstream virtualization platforms such as VMware/KVM, etc. Supported Supported
+Weak password scanning Weak password scanning using common protocols Supported Supported
+Baseline scan CIS, customized baseline scan strategy supported supported
+Ability to detect Javascript, Ajax and Flash based web
+Applications, Web Services applications (including SOAP 1.2Json,
+Enhanced web scanning function Not supported Supported
+WSDL, XML), detection use cases can cover all OWASP
+Top 10 threats
+API interface Provides APl interface for external application debugging Not supported Supported
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 /15
+

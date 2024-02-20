@@ -1,0 +1,60 @@
+Professional digital intelligence solution provider
+
+The system consists of two parts: the control end and the server end. The control end adopts the CVS architecture. The user controls
+The server sends control instructions to the target computer, and after receiving the instructions, the server executes the user's control of the target computer.
+control operations.
+
+Mac remote control management system
+
+
+
+Control terminal
+
+@@
+-Collect and wait for evidence
+
+Check personnel
+All personnel Control host Target host
+"Mac remote control management system operation form diagram)
+1.4.2 Applicable environment
+
+
+
+Control question Fully compatible with Windows NT, Windows2000, WindowsXP, Windows
+2003 VISTA, Windows7 and other operating systems
+Server side is compatible with all versions of Apple operating system
+
+
+
+
+
+
+
+
+
+1.4.3 Product functions
+
+> Information management: The console interface supports displaying the computer name, user name,
+Operating system kernel and currently released version information, etc.
+
+> File management: Supports creating, uploading, and downloading files on the target computer (supports breakpoints
+resume), delete, rename and other operations.
+
+"Six" Shell command: Supports Shell1 command operation on the target computer.
+
+>Screenshot: Supports taking screenshots of the target computer.
+
+>Keyboard Logging: Supports recording every key pressed by the target when operating the keyboard.
+
+
+
+
+
+
+
+
+
+
+
+Antao Information Technology Co., Ltd. 10/50
+

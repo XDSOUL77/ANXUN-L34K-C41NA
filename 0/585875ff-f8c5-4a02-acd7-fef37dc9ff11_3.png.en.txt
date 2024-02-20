@@ -1,0 +1,49 @@
+Chapter 1] Overview
+
+Hector remote control system is a set of protocols that support HTTP/WEB SOCKET and HTTPSVWEB SOCKET over TILS.
+Remote control system using reverse connection
+The remote control system supports interactive she1l command line, file management and other functions.
+
+
+
+Chapter 2 "Explanation of terms
+
+
+
+WEB SOCKET protocol (abbreviated as WS):
+
+WebSocket is a network transport protocol that enables full-duplex communication over a single TCP connection and is located at the base of the 0SI model
+application layer. WebSocket makes the data exchange between the client and the server easier, allowing the server to actively communicate with the client.
+Client pushes data. In the WebSocket API, the browser and server only need to complete a handshake between the two
+Create a persistent connection and perform two-way data transfer.
+
+The difference from the http protocol is that: the http protocol server does not support actively sending requests to the client, while WEB SOCKET
+The protocol allows the server to actively push data to the client;
+> WEB SOCKET over TLS (WSS for short):
+
+The security design of the WebSocket protocol stipulates transmission based on TLSVSSL. This encryption form is similar to HTTPS.
+Called WSS (WEB SOCKET over TLS).
+
+That is, high-level application layer protocols can be transparently built on top of the TLS protocol. The TLS protocol precedes application layer protocol communication
+After completing the encryption algorithm, communication key negotiation and server authentication. After this, the data transmitted by the application layer protocol is
+will be encrypted to ensure the privacy of communications.
+> "Controlled terminal (client): the target machine (linux system) where the Trojan program is installed.
+>Control terminal (console): The main program that manages the controlled host (windows system).
+> Reverse connection: Rebound online method, that is, after the Trojan program on the controlled terminal is installed, it will actively connect to the controlling terminal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

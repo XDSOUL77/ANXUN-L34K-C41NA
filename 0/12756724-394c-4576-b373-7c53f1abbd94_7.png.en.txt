@@ -1,0 +1,50 @@
+Professional digital intelligence solution provider
+
+
+
+three
+
+WT
+
+Process management: Supports application processes, background processes, and Windows running on the target operating system.
+Processes, etc. are monitored and controlled in real time. Including operations such as viewing, refreshing, and ending.
+
+Service management: Supports real-time remote management of the service status of the target operating system. Including transportation
+Run, pause, stop, delete and other operations.
+
+Registry management: Supports remote management of the operating system registry. Including viewing related programs
+Registry information, modify, delete and other operations on registry information.
+
+CMD console: Supports CMD command operations on the target operating system.
+
+Screenshot: Supports taking screenshots of computers with target operating systems.
+
+Keylogging: Supports recording every key pressed by the target when operating the keyboard.
+Document access record: Supports recording of files recently accessed by the target.
+
+Online log recording: Supports recording logs of the target host's online and offline time.
+Remote configuration modification: After the controlled terminal goes online, the system supports remote modification of the target machine’s online address and login address.
+Enter process information.
+
+Intranet cascading online: The system supports three ways to go online: TCP, UDP and automatic network interconnection protocol.
+Supports PCs in the same LAN that cannot access the Internet to use PCs that can access the Internet to upload data online.
+Export online host information: Supports exporting basic personal information of online hosts, including: Online hosts
+Name, internal IP address, external IP address, host memory, hard drive, CPU, network speed and other system operations
+row and usage status information.
+
+Disconnect: The system has an active disconnection function. After the active disconnection, the controlled end supports
+Supports real-time refresh of online domain name DNS resolution or online IP address.
+
+Printing server: After the control supervision is completed, the controlled operating system supports remote printing services.
+1.3.4 Industry advantages
+
+High stability - the entire system is based on the new trend of remote control and adopts independent code maintenance and independent encryption.
+Certification and independent encryption algorithms fully ensure that the control system has high stability and is not prone to offline.
+Efficient transmission - the system has a built-in independent download engine to achieve extreme file transmission, which can be based on the network
+Adaptively transfer files based on network speed. The file transfer speed can reach up to 2M network bandwidth.
+800KB/S。
+
+
+
+Antao Information Technology Co., Ltd. 8/50
+

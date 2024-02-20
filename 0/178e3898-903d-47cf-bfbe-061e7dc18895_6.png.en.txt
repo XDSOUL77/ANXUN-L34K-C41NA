@@ -1,0 +1,93 @@
+
+
+Festival
+1 Scientific Internet Box-Desktop version product white paper 1 and
+
+Access control. WAN IF access control LAN P access control. . The general name of Tianshi Agent Guang. Force the second agent to follow the province. Each of the 4 cities above was ranked among the top Netlx distribution cities.
+
+
+
+
+
+
+
+
+
+
+
+5.1.4 Status check and update
+
+[Check whether Google and Baidu can be connected and perform network check.
+Update the GFW list and domestic satellite network segments.
+
+5.2 Network configuration
+
+
+
+tower
+
+
+
+
+
+
+
+tower
+
+
+
+
+
+
+
+5.2.1 Wired interface settings
+
+The WAN port transmission protocol supports a total of 9 protocols such as static address, DHCP, PPPoE, etc.
+General configuration
+Running time: Oh 44m 18s,
+Division MAC address: 94:83:C41B:6A:D2
+Received; 24111 MB (193841 packets)
+
+Sent: 2167 MB 75774 packets)
+1IPv4: 192.168.50.160124
+
+state
+
+Transport Protocol | DHCP Dato City
+
+Each host sent when requesting DHCP
+
+Not based on the agreement
+
+PPP
+PPtp
+PPPoE
+
+PPPeATM
+UMTSIJGPRSEV-DO
+
+L2TP
+PPPoSSH
+
+
+
+
+
+
+
+
+
+
+
+The LAN port setting can modify the sanitary network segment of the LAN port according to the user's actual situation, which can avoid conflict with the internal network.
+
+
+
+
+
+sudden
+
+
+
+1Antao Information 1 Page 7 of 11
+

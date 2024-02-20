@@ -1,0 +1,302 @@
+
+
+
+
+The computer is recommended to have a dual-core CPU, 4GB of running memory, and a discrete graphics card or above.
+
+
+
+The storage computing server is recommended to have 64 cores, 128G running memory, and 8T hard disk.
+
+
+
+The web server is recommended to run on 32 cores and 64G
+
+Memory hard disk 1T
+
+
+
+The operating system requires win7 and above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software environment: A browser that supports HTML5, Chrome'Firefox is recommended
+Install the .Net Framework 4.6 framework
+Network environment with access to the Internet
+6” Product Advantages
+
+> "Rich data types
+
+Supports data import and intelligent identification of multiple data types,
+
+
+
+
+
+
+
+
+
+Users can decide according to their own
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+According to the requirements, select the corresponding data to execute the query
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tasks, data types cover individuals
+
+Automatically extract important information after 3
+
+After cleaning and classifying the data,
+
+
+
+Basic information about people (data, identity
+
+
+
+
+
+
+
+certificate,
+
+
+
+phone), person
+
+
+
+
+
+
+
+> "Quick query speed
+
+Data query speed block, after selecting the corresponding data query module
+
+
+
+related data to effectively improve query efficiency.
+
+> "High security
+
+Importing data supports identity authentication, IP
+
+
+
+Data, transport data, network data and other data, may be valid;
+
+
+
+
+
+
+
+
+
+
+
+
+
+feet,
+
+
+
+Job needs of the talent department.
+
+
+
+List and security scan analysis, additional server support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disaster, through mining
+
+> "Easy to use"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cluster architecture, according to business needs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select the physical cluster size to ensure load balancing and failure
+
+
+
+
+
+
+
+
+
+
+
+The platform structure is simplified, easy to operate, and
+
+reason
+
+
+
+
+
+
+
+
+
+Improve experience. Collect at the same time
+
+
+
+
+
+
+
+
+
+
+
+Beautiful, no need for complicated accessories
+
+, through keyword related search, you can query related keywords in seconds.
+
+
+
+
+
+
+
+With spare backup to prevent data
+
+
+
+
+
+
+
+
+
+
+
+Moving transfer.
+
+
+
+
+
+
+
+
+
+, you can perform data query tasks, which greatly improves
+Distributed storage naturally supports horizontal expansion. It is easy to operate and has good compatibility with third-party systems and platforms.
+
+
+
+11 /24
+

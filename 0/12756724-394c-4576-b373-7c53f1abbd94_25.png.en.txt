@@ -1,0 +1,47 @@
+Professional digital intelligence solution provider
+
+
+
+
+
+
+
+@ Simple operation and configuration - the system adopts a graphical design interface, which is convenient and quick to deploy and adopts one-click
+The configuration operation can quickly realize the acquisition and control of countermeasure traffic.
+
+@ The system is stable and reliable - the system adopts the latest network traffic acquisition and control technology, and is fully tested
+Consider the stability, efficiency and reliability in various application scenarios to ensure the stable operation of the system in an all-round way.
+
+OK.
+
+
+
+
+
+
+
+2.2.5 Product pictures
+
+
+
+
+
+
+
+
+
+"Network Traffic Countermeasure System Interface Diagram)"
+
+2.3 Automated penetration testing platform
+
+2.3.1 Product Introduction
+
+The automated penetration testing platform is a platform that integrates hundreds of vulnerability templates and penetration testing methods, supporting various
+A platform for automating penetration testing of network devices and hosts. Attack through various testing methods built into the platform
+Attack the real production environment to achieve information detection, vulnerability verification, vulnerability exploitation, and vulnerability testing of the network and equipment under test.
+Penetration attacks and report generation improve the efficiency, convenience, completeness and accuracy of penetration testing.
+
+
+
+Antao Information Technology Co., Ltd. 26/50
+

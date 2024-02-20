@@ -1,0 +1,92 @@
+He :tone x64 one X
+
+Linux
+Swirl es Group ES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Password 123456
+
+
+
+
+
+
+
+
+
+Four HTTP 192.168.8.1588080
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTTPS | SaupceatpahHae Anonymous
+
+
+
+
+
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+Figure 6.4: Configurator interface
+Parameter Description:
+1) TAG: Tag, user can set it arbitrarily
+2) Group: Group setting. After setting, the host will be displayed in the group in the console;
+3) Password: The key for the communication connection, which is the same as the control end configuration file hector.ini; cypher key for
+
+
+
+communication values are consistent;
+
+Protocol, (currently only supports configuring one protocol at a time)
+
+http corresponds to the control end configuration file hector.ini medium paste protocol;
+
+https corresponds to the WSS protocol in the control end configuration file hector.ini, and the certificate needs to be imported;
+2. Configuration: The port opened by the ITP+ corresponding protocol on the control end
+
+talent
+
+
+

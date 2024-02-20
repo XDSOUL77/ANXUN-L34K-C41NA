@@ -1,0 +1,109 @@
+
+
+
+
+District, country, street address, work experience,
+
+
+
+
+
+
+
+
+
+
+
+Educational qualifications, personal files, qualification certificates, language
+
+
+
+
+
+
+
+Number of electrons in a certain direction
+According to b
+
+
+
+
+
+The main fields include, mail sub-code, family
+Identification number, name, alpha sorted name,
+Phonetically pronounced first name, last name, by alpha
+Sorted last names, phonetically pronounced last names,
+Address, address sorted by alpha, city,
+Phrases for cities, cities sorted by alpha,
+City, state by alpha, zip code
+
+
+
+
+
+First five digits, last four digits of zip code, carrier
+
+
+
+
+
+Route, delivery location, mail sub-code, location
+Management level code, latitude, longitude, time zone code
+
+
+
+
+
+code, county code, county name, core statistical area
+
+
+
+
+
+Field code, core statistical area name, phone number
+sign, indian gender code, indian
+Ranking code for number of households, few Indians
+ethnic minority code, Indian political party code,
+
+
+
+
+
+Family income code, family income range
+
+
+
+
+
+code for family middle income, family middle income
+
+
+
+
+
+
+
+Income range, middle income code, middle income
+
+
+
+
+
+
+
+
+
+
+
+Income range, personal income code, personal income
+
+
+
+
+
+32, 000.00
+
+
+
+
+

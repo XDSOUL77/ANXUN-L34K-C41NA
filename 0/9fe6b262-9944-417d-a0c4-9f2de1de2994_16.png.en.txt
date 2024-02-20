@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Windows Server 2003/2008/2012/2016
+Online method TCP/VUDP/Internet protocol
+Online within 1 minute
+Data acquisition support
+Log management support
+Antivirus anti-kill support
+Intranet cascading support
+
+
+
+
+
+
+
+
+
+6 Product Deployment
+6.1 "Applicable environment
+"Windows Remote Control Management System' is used to program ZR on the computers of illegal anti-criminals to achieve control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a scenario where criminals conduct criminal evidence collection. After the ZR target PC is successfully accessed, you can directly log in to the backend management through the authorized dongle.
+
+
+
+
+
+
+
+
+
+
+
+Pick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+platform, you can obtain data information from the target PC. To ensure the stable operation of the entire system, "Windows Remote Control Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The applicable environmental requirements for the controlled terminal of the system are as follows:
+
+
+
+
+
+
+
+
+
+Windows XP人Vista/7/8/8.1/10
+X86
+Controlled client (client Windows Server 2003/2008/2012/2016
+端) Windows Vista/7/8/8.1/10
+Hshch
+Windows Server 2008/2012/2016
+Windows XP人Vista/7/8/8.1/10
+Console X64/86
+Windows Server 2003/2008/2012/2016
+
+
+
+
+
+
+
+
+
+
+
+6.2 "Deployment method
+"Windows Remote Control Management System" adopts C/S architecture for deployment, which is convenient and quick to deploy. The system only needs to provide one set of
+
+14 /13
+

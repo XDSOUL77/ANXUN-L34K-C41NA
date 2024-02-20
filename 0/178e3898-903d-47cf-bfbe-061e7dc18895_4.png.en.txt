@@ -1,0 +1,161 @@
+
+
+1 Scientific Internet Box-Desktop Version Product White Paper 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> "Application layer: scientific Internet service, users can access global websites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 core functions
+5.1 Scientific Internet Function
+
+5.1.1 Client scientific Internet settings
+
+
+
+Main server: Select various nodes around the world according to needs.
+
+
+
+
+
+
+
+Multi-threaded concurrent forwarding: The default is automatic, the user can choose according to the actual situation, and simply select automatic
+
+
+
+move.
+
+
+
+
+
+
+
+Operation mode: The system provides 4 modes, GEFW list mode, bypassing mainland China satellite mode,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global mode, overseas users return home mode.
+Ports requiring proxy: Default is all ports
+
+
+
+
+
+
+
+Scientific Internet Settings
+Multiple protocols, fast and high speed!
+AumvnG
+Two wax tips
+Area thread concurrency transfer must
+Pass Hi
+Book
+DNS resolution method |
+Access all DNS servers in Guozhi
+5.1.2 Server node
+
+
+
+
+
+Use global mode by default
+
+
+
+
+
+
+
+[SSRH] Buried in Hong Kong O1 has been
+Each move (CPU =
+Full back tangerine style
+
+All temple entrances (SN) v
+Just use PDNSD TCP to check and find Feng +
+GecegleFublic DNS 8.4.                         。
+
+Think IPFORT Ga84.453
+
+Server node subscription and management, which can update the latest provided server nodes and delete all servers
+
+server nodes, and the current number of nodes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Node list: You can see information related to all server nodes more intuitively and quickly apply the required nodes.
+
+
+
+1Antao information 1
+
+Page 5 of 11
+

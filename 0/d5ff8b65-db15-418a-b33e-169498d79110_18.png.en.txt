@@ -1,0 +1,79 @@
+This book can be made by oneself
+mppno
+Knife ra accounts for being trapped in
+
+sword. sh and an261412 Buhindar
+
+
+
+(Webshell management)
+4.25 Remote control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A large number of built-in remote control tools can be used for remote control connections to target hosts and sites.
+
+
+
+(remote control)
+
+4.26 Social work assistance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrate commonly used social engineering auxiliary tools, which can assist in generating and forging relevant information through partial information.
+
+16 /17
+

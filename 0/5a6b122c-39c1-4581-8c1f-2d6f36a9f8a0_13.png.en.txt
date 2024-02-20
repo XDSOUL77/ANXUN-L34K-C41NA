@@ -1,0 +1,62 @@
+
+
+
+
+I am
+-or all EB days
+ED
+Day
+CE
+(separation of permissions)
+Several details
+Zhang San
+Ce           666 16
+two          -
+two two           -
+four paintings
+
+(personnel details)
+
+"Points management function: Provides assessment points records for various tasks. Each task will be set according to the difficulty of the task.
+
+
+
+
+
+For different scores, the background can conduct comprehensive evaluation and scoring based on task completion, completion efficiency, data results and other aspects.
+
+
+
+
+
+
+
+
+
+Points can be used in business scenarios such as performance appraisal. Evaluate the tasks completed from two different dimensions: organization and personnel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statistics and analysis can show managers how well the organization and personnel have completed tasks and the areas they are good at, and use this as a basis for management
+The data basis on which managers evaluate performance. Organizational assessment is a statistical assessment of the completion of tasks by the superior organization on the subordinate organization. select
+
+
+
+Select the organization, start time, and end time, and the system will display statistical information on the organization's task completion within the selected time period.
+
+11 /32
+

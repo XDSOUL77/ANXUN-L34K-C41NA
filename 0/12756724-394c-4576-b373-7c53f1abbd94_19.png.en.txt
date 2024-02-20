@@ -1,0 +1,56 @@
+Professional digital intelligence solution provider
+
+2. Attack Countermeasures
+
+
+
+
+
+2.1 WiFi attack system
+2.1.1 Product Introduction
+
+The WiFi proximity attack system is developed based on the penetration idea of folded field proximity attack to achieve remote control proximity
+The purpose of the device to penetrate the target intranet is to improve the concealment, convenience and accuracy of penetration.
+
+The entire system is divided into two versions, including: WiFi proximity attack system basic version) and WiFi proximity attack system
+Attack system Cmini version).
+
+The basic version of the system adopts an architecture design that combines far and near ends, and the remote control platform is deployed on the public network server.
+Responsible for issuing attack commands, approaching the device and executing commands in the target physical area to carry out penetration work.
+
+
+
+
+
+
+
+
+
+(WiFi proximity attack system (basic version) operation status diagram)
+The mini version of the system supports disguising itself as a power strip, power adapter, etc., and placing the device on the target
+After entering the physical area, connect to the WiFi in the target area and establish a Socks proxy tunnel to achieve access to the target network.
+
+
+
+
+
+Japanese sex area
+
+
+
+
+
+It's heavy
+and Yipin people
+1:|
+Scout bath
+Through the personnel remote control platform, espionage and
+Wiri proximity attack system and to two people 3
+Cmin version
+
+CWiFi proximity attack system (mini version) operation form diagram)
+
+
+
+Antao Information Technology Co., Ltd. 20150
+

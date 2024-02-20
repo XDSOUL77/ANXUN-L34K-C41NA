@@ -1,0 +1,37 @@
+3. Execute shell command
+This 0p: 1lfip': 192.168.81351[Hast lacalhostlacaldamainj a mouthful
+
+
+
+
+
+
+Figure 7.12: Execute she11 command
+
+
+
+Xiang
+
+
+
+item
+
+
+
+There are 8 chapters "Note
+
+
+
+1. Currently supports x64: Centos 5, 6, 7: ubuntu 14, 16, 18, and centos 5. XXX, 6.XXX, 7. XXXI
+2. It needs to be installed with root permissions;
+
+3. The Trojan program is copied to the target machine (linux environment). If there is no execution permission, the user needs to add execution permission.
+
+It will take effect after startup (will be optimized later):
+
+
+
+
+
+Page 17
+

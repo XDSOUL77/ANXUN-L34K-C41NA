@@ -1,0 +1,145 @@
+
+
+Book -=ssa samPoma exeasm Eapmaa
+2
+
+
+
+|Test
+
+
+
+Melophemeal am meng Umagammmro cc dkaues vth
+na orTlemme TDkenoDSI2
+
+
+
+Wu data source analysis)
+4.4.3 "Intelligent statistics
+Intelligent statistics is to conduct intelligent statistical analysis on the selected data source data, and master the file type, nickname, location under the data source.
+Raw data such as address, time, mark, etc. and various statistical results such as post-analysis data.
+
+
+
+
+
+File type: File type statistics include comprehensive statistics of emails, tables, documents, pictures, compressed files, and unidentified types.
+
+
+
+
+
+
+
+Nickname: It is the nickname status of each email account in the data source for statistics.
+
+
+
+Address: Statistics on the sending email account and receiving email account in the data source.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time: Automatically count the number of emails sent by the email data source under specific dates and time periods for each month and year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marks: Mark statistics for manual email analysis, such as processed, unprocessed, unprocessed, noted, etc.
+
+
+
+
+
+
+
+Various tag information.
+4.4.4 “Tools
+The tool module mainly provides two functions: retrieval of email IDs for nicknames and retrieval of nicknames by email ID, which is convenient for users to search based on nicknames.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Display emails and query target nicknames based on emails.
+
+
+
+
+
+
+
+Four
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 /15
+

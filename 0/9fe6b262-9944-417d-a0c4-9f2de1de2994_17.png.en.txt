@@ -1,0 +1,250 @@
+into a tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Log in to the system backend with the password and account to use
+Get target device data information. VPs equipped
+
+
+
+Authorize
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The VPS server can be equipped with a backend management system to facilitate
+
+After the ZR is successful, the target device information will be online in the background.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44 of line ZR program
+as follows:
+CPU: dual core
+Memory: 4G
+VPS server configuration requirements Hard drive: 100G
+
+
+
+System: Windows server
+
+
+
+
+
+Bandwidth: >10Mbps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+research and development, procurement
+
+
+
+
+
+
+
+
+
+
+
+> "High stability
+The entire system is based on the new trend of remote control and combines the current mainstream network architecture and Windows system environment
+[cryptographic algorithm is used to encrypt transmission, while ensuring system functions,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Independent code maintenance, independent encryption certification, independent
+This fully ensures that the system has high stability and is not prone to disconnection.
+
+> "Transmission is efficient
+Efficient return of standard data, built-in independent download engine, can achieve extreme file transmission, according to the network speed
+
+
+
+suitable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The system implements
+
+Files should be transferred, and the file transfer speed can reach up to 800KB/S under 2M network broadband.
+
+
+
+959% of antivirus software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> “Strong anti-toxicity
+The system adopts the industry's unique breakthrough anti-virus active defense technology, which has strong anti-virus capabilities and can avoid market re-emergence.
+Check and kill, such as domestic 360, Kingsoft Anti-Virus, Tencent Computer Manager; foreign mainstream anti-virus software such as Kaspersky, Symantec, McCafé, etc.
+And based on the dual technology of memory multi-deformation production and file polymorphism production, it can effectively avoid dynamic scanning of memory and static scanning of files.
+protection mechanism.
+15 /13
+
+> "Highly concealed
+

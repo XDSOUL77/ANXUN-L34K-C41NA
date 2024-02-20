@@ -1,0 +1,57 @@
+图7.7: 文件传输探作
+
+ 
+
+ 
+
+ 
+
+ 
+
+刷 ID:1l onine                                                 -~ D x
+RugrMor FieManager iinuxshal
+CunentDFE 。 人pdaled1148.人|/home/userDeskiopy                                       YY
+[外      | am        Si      Dale        二
+[鲁                                口 Repaieg4 ou                   17575418               20191014 030950            we
+国462NDP462KB3151600.，虹.008080      20191014拉四上     办
+
+ 
+
+ 
+
+图7.8: 执行上传探作
+
+ 
+
+图Heae
+Fe Ed van Hp
+名内            HostD -ostRame     s      ddrass      Tags    pe      Las:tegn      LastLogout
+SEEm       下            和
+
+ 
+
+ 
+
+EEC
+
+ 
+
+ 
+
+ 
+
+TS   3    ER   志     本
+人轩，。emhpepae ， eol Waspdnnp， fponctanpedt ，6z20apa08 。 ezocane0E loo%
+
+ 
+
+ 
+
+图7.9: 文件上传记录
+
+7.3 Shell 命令
+交互式 shel1 命令行: 执行被控端的 shel1 命令
+1、切换到 shel1 插件窗口，执行绑定 cmd
+
+页5
+

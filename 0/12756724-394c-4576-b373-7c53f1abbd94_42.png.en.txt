@@ -1,0 +1,35 @@
+Professional digital intelligence solution provider
+
+4.3.3 Industry advantages
+
+@ The real intranet environment-one-to-one practical training platform is based on our company’s many years of experience in APT penetration attacks
+Combined with research and development, the problem-solving model is brought into the real intranet environment. On the one hand, students can solve the problem through
+question submission flag, and at the same time, you can discover the hosts in the entire intranet based on the clues of each question.
+Perform the next step of penetration.
+
+@ Visual simulation environment customization - the platform supports users to customize the upload environment. On the one hand,
+Conduct real network attack and defense training to improve students’ practical work capabilities; on the other hand, it can also
+Conduct scientific research and testing of new technologies in these environments to improve the unit’s scientific research level in network attack and defense.
+
+flat.
+
+@ Hot security event analysis and restoration - a practical platform can simulate the real environment of hot security events
+environment, can analyze and restore events, and restore the offensive and defensive technologies involved in the event to actual combat to provide
+student
+
+
+
+
+
+
+
+
+
+
+
+Practical training platform interface
+
+
+
+Antao Information Technology Co., Ltd. 43/150
+

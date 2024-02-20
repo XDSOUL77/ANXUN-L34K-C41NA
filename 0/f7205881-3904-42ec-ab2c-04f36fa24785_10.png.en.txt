@@ -1,0 +1,101 @@
+Supplementary information
+
+Name
+
+gender
+
+username
+
+Birthday
+
+
+
+Takato
+
+Attributes
+
+window code
+
+Mail
+
+
+
+Liu Jiao Cancel
+
+(Supplementary information interface)
+
+4.3.3 “Business Analysis
+After successfully registering a ZC case against a person involved in gambling, the platform will conduct correlation analysis based on the data information of the target account to understand the target’s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subordinate relationship network map, downline registration time distribution trend, bank card case value proportion, downline user regional distribution, downline user case value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proportions and other types of information are analyzed and displayed.
+
+8 /11
+

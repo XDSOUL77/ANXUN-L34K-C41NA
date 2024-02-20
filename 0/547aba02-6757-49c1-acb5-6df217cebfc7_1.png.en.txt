@@ -1,0 +1,178 @@
+
+
+
+
+An algorithm encryption in GOSHIDEA/CAST. The key length is 256 bits and above.
+When the controlled terminal is running, the communication protocol can be switched by the controlling terminal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fill
+
+Shou
+open
+Chang
+
+
+
+@ Identify Edge/Firefox/chrome/opera proxy settings and enable
+"The latest version on the test day shall prevail)
+@. The controlled terminal contains a customized non-commercial shell and provides source code
+
+@ Steel Kill kaspersky, Avast, symantec (the latest version on the test day,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The latest virus database update shall prevail)
+3. Delivery list
+Serial number Name Number of copies Requirements
+1 software development document 1 copy
+2 test documents 1 copy
+3. All project source codes 1 item | The project can be compiled and has comments
+4. 1 copy of executable program
+5. 1 copy of instruction manual
+4. Technical training
+Organize training on the use of Windows forensic tools and coding principles;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Provide software development documents, test documents, and usage instructions documents for the tool
+
+
+
+
+
+ae
+

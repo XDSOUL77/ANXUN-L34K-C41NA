@@ -1,0 +1,34 @@
+Professional digital intelligence solution provider
+
+
+
+1.2.2 Product functions
+
+three
+
+Twitter registration information query: The platform supports querying the registration information based on the Twitter account
+Mobile phone number and email address.
+
+Twitter account countermeasures: The platform can use user-specified links (real or customized links)
+(Connect) Generate a forensic link, send it to the target and induce it to click and perform related operations to implement
+Now the target is to obtain Twitter private messages, send/delete/forward/comment/like tweets.
+Twitter account monitoring, the platform supports real-time monitoring of Twitter accounts, the first time
+Update the target Twitter account's dynamic information.
+
+
+
+1.2.3 Industry advantages
+
+The query speed is fast—according to the submitted target information, the query results will be returned in 3-5 minutes.
+Data updates quickly—the system currently runs no less than 100 million pieces of raw data every day, and supports
+Available data is updated in real time every day.
+
+Obtain target information without any sense one by one through forensic links, and the backend system can quickly log in to the target person
+Twitter account is used to operate without the target person’s account password, reducing the target’s vigilance.
+Comprehensive functions - by obtaining the permission of the target person's Twitter account, the background can directly
+Operate the Twitter account and fully control the target person’s Twitter account.
+
+
+
+Antao Information Technology Co., Ltd. 5/50
+

@@ -1,0 +1,116 @@
+Receive mail
+Email address IE 二国@hotmailcom
+Start time*”|2018-11-01
+
+End time* | 2019-01-03
+
+
+
+
+
+
+
+
+
+
+
+Receive emails if the target changes their login password
+
+
+
+
+
+
+
+On the premise that the password of the marked mailbox has not been changed, the Microsoft mailbox secret extraction platform can
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goods
+
+
+
+code, you need to resend the evidence collection link for evidence collection, as shown in the following figure:
+
+
+
+
+
+The token has expired!
+
+
+
+4.3 "E-mail download
+Step 1: After successfully obtaining the target email address, you can see the target email in the "Download List" of the Microsoft Email Encryption Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get the progress and download the email, as shown in the figure below:
+
+
+
+
+
+
+
+training
+
+上EN
+
+ITTIIIIII1I:
+，
+
+
+
+6 /8
+

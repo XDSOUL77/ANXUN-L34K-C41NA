@@ -1,0 +1,116 @@
+
+
+Disk controller: 6/12G RAID card supporting RAID5
+
+
+
+Hard drive: 480GSSD+4TSATA'4
+
+
+
+Quantity: 2 units
+
+
+
+Compute node server configuration
+
+Computing nodes provide computing resources and virtualization capabilities.
+
+
+
+
+
+CPU: Intel 5218*2
+
+
+
+Memory: 128G
+
+
+
+Network card:4*GE
+
+
+
+Disk controller: 6/12G RAID card supporting RAID5
+
+
+
+Hard drive: 480GSSD+4TSATA'4
+
+
+
+Quantity: 2 units
+
+
+
+Storage node server configuration
+
+Storage nodes provide storage capabilities.
+
+
+
+CPU:Intel 5218*2
+
+
+
+Memory: 128G
+
+
+
+Network card:4*GE
+
+
+
+Disk controller: 6/12G RAID card supporting RAID5
+
+
+
+Hard drive: 480GSSD+6TSATA*6
+
+
+
+Quantity: 2 units
+
+
+
+
+
+VPS server cluster
+
+Single cloud host hard disk >100G
+
+
+
+Cloud host concurrency > 30 units
+
+
+
+
+
+
+
+
+
+
+
+VPs are purchased using anonymous packages
+
+
+
+
+
+
+
+
+
+
+
+IP addresses are all overseas addresses
+
+
+
+
+
+40 /32
+

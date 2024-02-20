@@ -1,0 +1,98 @@
+Professional digital intelligence solution provider
+
+
+
+
+
+
+
+
+
+
+
+Li
+
+[The
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shu Xi Jie You Ku
+
+
+
+
+
+
+Stick to a certain life and promise
+Ruby base iodine library
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+] [Web service] [_utilization
+
+
+
+Automatic penetration testing platform
+
+2.3.2 Product functions
+
+> Automated penetration: through a series of vulnerability scanning, vulnerability exploitation, permission acquisition, etc. on the target
+The process discovers the target’s open ports and services, and based on the detected information, the system performs vulnerability analysis
+Utilize to further obtain target permissions, the specific content is as follows
+
+a) Vulnerability scanning
+
+1) Quick scanning of vulnerabilities: for Windows hosts, Linux hosts, Web sites, and network devices
+and other various targets, conduct quick scan tests to determine the host online status, port openness,
+Operating system version and other information, and generate a report based on the results.
+
+2) Detailed vulnerability scanning: The system has built-in tens of thousands of detection templates and vulnerabilities, supporting Web vulnerability scanning,
+Operating system vulnerability scanning, weak password detection and other functions can detect all weaknesses and technologies of the system under test.
+Actively analyze defects or vulnerabilities and generate reports including: host information, vulnerabilities
+Assessment, vulnerability details, exploits, service list, port information, database information, documentation
+File directory information, scan history, etc.
+
+b) Exploiting vulnerabilities
+
+1) Vulnerability verification: Vulnerability exploitation models with different risks can be customized and selected based on the vulnerability scanning results.
+block to perform a penetration attack on the target vulnerability.
+
+2) Import of scan results: The platform supports the import and export of scan results from a variety of third-party security scanning tools
+Vulnerability verification, automatically identify and import reports, select imported hosts and corresponding vulnerabilities in the system
+Perform penetration verification on the vulnerability, and attack after confirming that the vulnerability is real. Support includes: NSFOCUS Aurora,
+
+Venus Sky Mirror, AppScan, NeXpose, Acunetix, Core Impact, Nessus,
+
+
+
+
+
+
+
+Antao Information Technology Co., Ltd. 27/50
+

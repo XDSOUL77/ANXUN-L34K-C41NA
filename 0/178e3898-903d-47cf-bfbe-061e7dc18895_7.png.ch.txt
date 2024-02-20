@@ -1,0 +1,95 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 科学上网盒子-桌面版产品白皮书1
+
+ 
+
+ 
+
+运行时间: Oh 44m 40s
+MAC 地址; 94.83:C41B:6A:D3
+一”接收: 2135 MB (124900 数据包)
+bran 发送: 23737 MB (80781数据包)
+1Pv4: 192.168.221124
+IPv6:fdcfe34a:bal9:W60
+
+状态
+
+传输协议 静专地址        了
+IPv4地址 。 192468.2211
+1Pv4子网掩码 。 255.255.255.0       了
+IPv4 网关
+IPv4广揪
+
+5.2.2 无线设置
+
+目前科学上网盒子-桌面版支持 2 种 WIFI 频段的设置，2.4GHz 以及5
+GHz，用户可根据实际网络环境选择不同的信道以及频宽，该设备支持
+WIFI6，更大的提升用户的使用体验。
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+岗              Generic MAC80211802.1inacax (radio0)
+仿首: 36 (5.180 CHz) |传输速率;288 Mbitla
+
+SslD:GHP-5G |入式:Master
+
+下          BSsiD: 394.83X4:IE6AD41朋恋: WPA2 PSK(CCMP)
+
+蝶            Generic MAC8O211802.1lbgnax (radiol)
+信首: 1(2.412 GII |传输速军 1Mbits
+
+SSID: GFP1档式: Master
+
+本                 BSSiD:yas3CAE6ADo|加本 WPAZPSKICCMP)
+
+5.2.3 网络诊断
+
+提供 3 种诊断工具，分别为Ping、Traceroute、Nslookup
+
+ 
+
+网二工具
+
+ 
+
+1安淘信息1                                                                                         第8页，共11页
+

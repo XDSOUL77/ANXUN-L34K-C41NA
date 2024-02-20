@@ -1,0 +1,183 @@
+暴力破解
+
+坟艳解会人用字此对目标主机且务涯庆相尝认让,这择你可军力破解的主机各服务-
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+目标                                                        Sn                                                        ji
+已这怪0个目慰
+入择机
+日 所有主机
+得 芒人目标主攻
+目标pk直
+19216011192168.1254
+引
+
+个目机的法语俘止于力而峙
+排队地址-                                                                                                                                                      可部则创建会活
+过反配乞
+国 所让肯务
+加AFP             莲DE2             区FTP
+男HTTP          男HTTPS         双MSSQL
+避bNSQL        可POP3          区Postoaros           目 全出<BLANK作为可二
+男 SNE           加SNMVP         可SSH               加 使用用户儿作为变码
+而SSH PURKFY 而人net     要VNG
+冰WinRM
+
+(暴力 PJ)
+
+4.8 ”载荷生成器
+经典载荷: 平台支持生成多种攻击载荷用于渗透测试工作。
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+成的载荷支持各类操作系统和常
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Web 服务器端语言, 包括: Linux 、Unix、AIX、BSD、R、Windows、OSX、Netware、iOS、
+
+Android、Firefox、Java、Python、Ruby、NodeJs 等。
+
+ 
+
+ 
+
+动态载荷: 系统支持生成针对 Windows 平台的多种动态编码攻击载荷，逃避杀毒软件的检
+
+ 
+
+测。
+载吞满项                二二[CE
+AIxX
+栈禹四                      殿徇“|Andreid
+BsD，
+stager |BsDi                要
+欠出注珊                      本 now |       上全一
+Dava
+staoe |Enex       |Eerprecer         反
+Nietware
+NodeJs
+LHosr |SS&                                           ]
+坪             PHP
+Python
+LPonrr |Ruby                                           ]
+二              Sataris
+团             Unix
+ExmrFuNcy
+
+ 
+
+和还各隐亚得代码| 没有进挥六性                                          直择文件一
+
+(载荷生成)
+
+ 
+
+ 
+
+ 
+
+4.9 ”重放攻击
+针对已成功的渗透攻击在与目标建立的会话中止或断开之后,不需
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+新进行复杂的攻击操作，
+
+15 /15
+
+ 
+

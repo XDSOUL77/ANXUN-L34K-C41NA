@@ -1,0 +1,65 @@
+Professional digital intelligence solution provider
+
+3.1.3 Product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Length, width and height 28. 2*16. 1*4. 3 (cm
+CPU dual core 800MHz
+Memory 512MB DDR3
+4 10/100/1000 ML adaptive LAN ports
+1 10/100/1000 M adaptive WAN port
+4 LAN port lights
+1 WAN mouth light
+Weikou 1 POWER lamp
+1 SYS light
+1 ERROR light
+1 power input port
+4G Internet support
+Internet speed: maximum download speed can reach 70OKB/S
+Relay node No upper limit, three jumps
+Access devices: mobile phones, tablets, desktop computers, laptops
+
+
+
+
+
+
+
+
+
+3.1.4 Industry advantages
+
+@ Multiple networking methods support PPPOE connection method to access the Internet, and network cable to connect to the upper-level router to access the Internet
+CDHCP or static IP), 4G dial-up and other networking methods.
+
+@ Plug and play - combined with the actual network environment, users can simply use the anonymous network system to
+Configuration allows you to surf the Internet scientifically or anonymously.
+
+@High egress bandwidth - 10M100M egress bandwidth fully meets bandwidth requirements.
+
+@ The highly concealed system deploys hundreds of relay nodes, adopts a random selection strategy, and can be combined
+Communication paths on the order of 100,000, and the exit node will automatically update the selection every 5-10 minutes, which is effective
+Avoid traffic being analyzed and tracked.
+
+@ Strong security - all communication data of the system are transmitted using unique encryption technology throughout the entire process.
+Effectively avoid being monitored.
+
+@ High ease of use - you can surf the Internet anonymously by simply using the terminal for simple configuration.
+
+
+
+Antao Information Technology Co., Ltd. 36/50
+

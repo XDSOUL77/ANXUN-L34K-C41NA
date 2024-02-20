@@ -1,0 +1,76 @@
+目录
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+前二 .eesessessssnsessnsnnnnnsnnnnnnsnnnnnnnnnnnnnnnnnnnnnsnnannnnnnnnnnnnnsnnnnnsnnnnnnnsssessnsns 1
+
+需求分析 .sse sse nn nen nn nnss snssssssssssssssssn sse 1
+
+产品简介 .ee ee sss sss ssss ssssssssnssss sensnn seen senss sss ssss ssssssssssssssssssss 2
+3.1 。 产品介绍.sessssssssnnnnnsnsnnsnnnnnnnannnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnannnnnnnnnnnnnnsnsnnnnn2
+3.2 系统架构2
+3.3        络架构.…ee8
+
+产品功能 .ee es ssssss sen ssss sssssssssssss senssnn seen sens sss ssss sssssssssssssssssss 9
+4.1        动化渗透测试 .ssensnnsnnnssnnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnssnnnnnnnensssnnns9
+4.2 ”WEB 应用测试 .esrsessnsssnsnnsnnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnennnsns  1
+4.3 智能漏洞验证 .senesnsnsnnnsnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnnnsns  1
+44                                                                                                        2
+4.5                                                                                                        2
+4.6                                                                                                        4
+47                                                                                                        4
+48                                                                                                         5
+4.9                                                                                                         5
+4.10                                                                                                                                    6
+4.11 调查取证.es  6
+4.12 ”高级计划任务 .enensnnnnsnrnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnnnnsnnnnnnnnsns  6
+4.13 ”团队协作   6
+
+ 
+
+ 
+
+ 
+
+ 
+

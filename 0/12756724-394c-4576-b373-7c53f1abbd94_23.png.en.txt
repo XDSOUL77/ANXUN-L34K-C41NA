@@ -1,0 +1,40 @@
+Professional digital intelligence solution provider
+2.2 Network traffic countermeasure system
+2.2.1 Product Introduction
+The network traffic countermeasure system combines practical application scenarios of relevant departments and adopts active scanning and acquisition technology.
+
+Obtain global distributed stress test traffic to achieve system traffic analysis of target servers, websites, enterprise networks, etc.
+comprehensive counterattack. The entire system consists of an upper counter flow acquisition module and a counter flow control module.
+
+Server 1
+When sending instructions plus countermeasures
+AN target server 1
+A/ Server 2 1
+
+-Yes, one car
+Server 3 Target 2
+
+two
+
+N had
+Too Target Services Ask 99. .
+
+(Operation diagram of network diversion anti-coin system)
+The system coexists C/S and B/S architectures, fully absorbing the characteristics of the two architectures. Counter traffic acquisition module
+Adopt active scanning and acquisition technology to obtain global survival network traffic and conduct comprehensive automated massive data collection
+Hole detection to provide network traffic data for the counter flow control module.
+The countermeasure flow control module is used to control all nodes and uniformly issue the received countermeasure instructions.
+It also provides dedicated anonymous links for safe and efficient data communication. During use, the system supports a variety of
+External interface facilitates users to carry out secondary development.
+2.2.2 Product functions
+> Counter-traffic acquisition: Start the counter-traffic acquisition module by configuring the counter-traffic control module.
+Using asynchronous transmission scanning technology to obtain global survival network traffic, automatic selection and cleaning are ineffective
+Network traffic, and perform vulnerability detection and utilization on effective surviving traffic, and finally realize the anti-attack flow
+Quantity acquisition and control.
+
+
+
+
+
+Antao Information Technology Co., Ltd. 24/50
+

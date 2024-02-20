@@ -1,0 +1,115 @@
+4.5 User management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the "User Management" toolbar, the account of the currently logged in user can be displayed, and the user can edit the current account (nickname,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+password, delete) operations.
+
+2 2 three El
+wrap you up
+
+many
+imdanPs
+
+nz                            5
+
+
+
+ao danliuhao people
+
+
+
+
+
+
+
+
+
+
+
+account management)
+
+
+
+
+
+4.6 "Data import
+By logging in to the client software or interface machine platform management interface, you can connect to our integrated data platform and perform data file analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Batch import, transfer, delete and edit operations of files.
+
+
+
+AND 王 EE
+day sea
+painting
+and ao
+(data import)
+
+9 /24
+

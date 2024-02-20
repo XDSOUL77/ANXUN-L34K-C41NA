@@ -1,0 +1,182 @@
+
+
+> "Basic library
+
+
+
+(System architecture diagram
+
+
+
+
+
+
+
+
+
+The basic library is the core part, and other functional modules are coupled together through it. Not only does it provide
+
+
+
+
+
+
+
+
+
+Interaction, also responsible for project management, session management, log management, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) Framework base library
+
+The framework base library is responsible for implementing all and various types of |
+
+2) Framework core library
+
+
+
+
+
+The framework core library extends the framework base library to provide simpler
+
+
+
+Interactive interface for layer modules and plug-ins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some functional classes are provided to support
+
+
+
+
+
+catch
+
+
+
+3) Ruby basic library
+
+
+
+
+
+
+
+
+
+
+
+Adjust with function program
+
+
+
+
+
+
+
+
+
+
+
+wrapper routines that do not handle all aspects of the functionality provided by the framework
+
+
+
+
+
+
+
+The functions of the framework itself and the framework integration modules.
+
+
+
+
+
+
+
+The Ruby base library is the most basic components on which the entire framework depends, such as wrapped network sockets, network application protocol clients, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+wait
+> "Module
+The module part is safety detection
+
+
+
+
+
+
+
+
+
+Parts closely related to vulnerabilities and vulnerabilities, loaded by the framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client and server implementation, logging subsystem, penetration attack support routines, Po penetration greSQL and MySQL database support
+
+. According to the penetration testing process
+
+3 /15
+

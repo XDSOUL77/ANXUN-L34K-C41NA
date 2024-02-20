@@ -1,0 +1,146 @@
+4.2 "Commonly used tools
+Built-in a large number of commonly used network tools, such as WeChat, QQ, Google Chrome, Dbeaver and Cmder, etc.
+
+on two,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The lamp meets the needs of special investigation work and improves the convenience of special investigation work.
+
+
+
+
+
+
+
+
+
+ET Chang
+Airone
+
+re Pa pp pre pr四 Pa re Fe Pa
+
+ae Eeeeypg bendonp。 cd ppeeawdier come Heroga canh Neapaker四
+
+Jing Yu Qie Si Guo Li Wai Qi Hua Guo Ru Ben
+
+pbewer EPE Concrete Bankng cmasr Phaeessh 。 chreme 。 FFa
+
+
+
+
+
+
+
+(Common tool)
+
+
+
+
+
+
+
+
+
+4.3 "Brute force cracking"
+Built-in self-made brute force cracking script and mature password cracking tool. Can attack MSSQL database, MYSQL database and SSH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unlimited exhaustive enumeration of account passwords to crack account passwords; can be used to crack Windows and Linux administrator account passwords and protocols.
+Encrypted ciphertext for cracking.
+
+
+
+Top10
+
+
+
+cover | four | |skill @ | |land | |product
+rn
+The most complete version | 2
+
+Ge
+
+beast| is] [prosperous] [dissection] 『Chan| |hard| [human
+
+Ca
+
+(brute force cracking)
+
+5 /17
+

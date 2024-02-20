@@ -1,0 +1,159 @@
+|
+
+Singing Fish Japanese Customization
+components
+Click the second component to open its configuration page
+submit
+Add email
+files, web pages
+Painting, European style
+Back Add
+"Screwdriver Parts" Web Page.. Linji Documents
+Server settings
+
+zw attack lead
+(Browser/file attack configuration interface)
+
+
+
+4.6 ” Lease Certificate Verification
+"Automated penetration testing platform" supports credential verification function. Users can use the account password collected by evidence through the platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code, Key, Hash, etc. can be used to verify other hosts, enabling impact assessment of leaked security information.
+
+
+
+
+
+
+
+JE use 2
+
+Targets selected for testing Europe Add targets to the list
+
+GE            a
+Day Host 1P. 2 Operating System Service Number D. Protocol Information 180.97.33.108 http
+
+baidu com 1809733 108 Om Nom mhp 30 to [7 waitucom
+
+au 099733107 unem mp 80 部 swsn1
+ATEE <“
+
+、
+
+(Credential verification)
+
+4.7” Weak password scanning
+
+
+
+
+
+"Automated penetration testing platform" integrates the brute force P module and supports AFP. DB2, FTP, HTTP, HTTPS, MSSQL,
+
+
+
+
+
+
+
+
+
+
+
+MySQL、POP3、PostgreSQL、SMB、SNMP、SSH、SSH PUBKEY、Telnet、VNC、WinRM 等
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protocol; the protocol can be automatically selected based on the scan results of the host, supported
+
+
+
+
+
+
+
+Definition dictionary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 /15
+

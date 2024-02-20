@@ -1,0 +1,61 @@
+
+
+(forensic tools)
+
+
+
+4.21 Process Analysis
+Supports process monitoring for targets and obtains information related to process running.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ben] |painting] |cup] [painting| |@] |painting| [|cup| |@@
+On peed and pe, pe
+Male, Male | |Heng
+(process analysis)
+
+4.22 Comprehensive scan
+Integrate a large number of comprehensive scanning tools to support
+
+
+
+
+
+
+
+
+
+Perform port scanning and website LD scanning on the machine.
+
+
+
+
+
+
+
+bureau
+
+
+
+
+
+
+
+
+
+
+
+14 /17
+

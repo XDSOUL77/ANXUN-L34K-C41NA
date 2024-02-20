@@ -1,0 +1,157 @@
+4.14 Log audit
+
+
+
+
+
+
+
+
+
+"Automated Penetration Testing 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+move
+
+
+
+
+
+
+
+
+
+Taiwan” for convenience
+
+Audit, user behavior audit, support system status speculation.
+4.15 Report generation
+
+Real-time user management system, grasp system usage, and provide operation reports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+livelihood,
+
+
+
+
+
+Penetration Testing Platform" supports every penetration
+
+
+
+
+
+Generate corresponding penetration reports, reports
+
+
+
+
+
+HTMLUPDF/Word format, supported
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reports, Web applications
+
+
+
+test report, society
+
+
+
+
+
+
+
+process report) and supports
+
+
+
+
+
+
+
+
+
+Automatically send to the designated email address.
+
+
+
+
+
+Build support
+
+
+
+Define LOGO, etc.; report generation supports multiple templates (audit reports, information collection reports
+
+17 /15
+

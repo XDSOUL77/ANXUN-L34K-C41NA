@@ -1,0 +1,72 @@
+5 product parameters
+
+B/S architecture
+
+
+
+Deployment method
+
+local deployment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data resource management function
+
+Task management function support
+Personnel management function support
+User management function support
+Points management function supported
+Technical and tactical sharing function supported
+Task statistics function supported
+Log management function supported
+
+
+
+Template resource management function
+
+
+
+Link resource management function
+
+
+
+Weapon resource management function
+
+let | utensil | vomit | in
+
+
+
+
+
+
+
+File import analysis function supported
+API detection function supported
+Behavior analysis function support
+
+
+
+
+
+
+
+36 /32
+

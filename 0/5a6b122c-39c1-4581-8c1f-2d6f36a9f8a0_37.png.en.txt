@@ -1,0 +1,143 @@
+4.3.6 Managing security design
+The first is the management system: organizations at all levels formulate corresponding management regulations, form a dedicated, authoritarian and dedicated management model, and improve management
+
+
+
+
+
+
+
+system, strictly review the entry and exit of personnel in the computer room, conduct regular inspections of the environmental safety of the computer room, and ensure that personnel and
+
+
+
+
+
+
+
+The environment is reliable.
+
+
+
+
+
+
+
+
+
+
+
+The second is safety operating specifications: through long-term actual combat accumulation and summary, safe operation requirements for daily work have been gradually formed. Related
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The operations of personnel must comply with security regulations. Any attack operations are based on tasks and will not attack targets privately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The third is daily security management: Platform managers need to regularly audit the operations of platform users so that problems can be identified early
+
+
+
+
+
+
+
+Solve it now and as soon as possible.
+4.3.7 Application security design
+The first is non-administrator permissions: The combat cloud host can only be logged in through non-administrator accounts, and corresponding group policies should be configured, such as prohibiting
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modify registry entries, prohibit access to system directories, and prohibit modification of network configurations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The second is the black/white list control mechanism: you can configure the black/white list of network resources that the combat cloud host is allowed to access, such as according to
+
+
+
+
+
+
+
+
+
+
+
+
+
+Domain name or IP, port, etc. restrict the resources that the cloud host can access.
+
+
+
+
+
+
+
+
+
+
+
+35 /32
+

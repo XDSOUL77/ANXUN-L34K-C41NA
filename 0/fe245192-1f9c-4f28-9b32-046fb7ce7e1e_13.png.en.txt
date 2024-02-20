@@ -1,0 +1,109 @@
+4.3.7 “User Management
+Management management functions are mainly related to the system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limit settings, binding keys and other functions.
+
+
+
+2017-00.21103257
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Created in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To manage and operate, including
+
+:|
+
+| Off Can
+
+
+
+
+
+
+
+
+
+4.3.8 "Comprehensive statistics
+
+
+
+Comprehensive statistics are mainly used to collect all email data in the system.
+
+
+
+
+
+District statistics, attachment statistics and other comprehensive information data.
+
+
+
+
+
+
+
+account management)
+
+
+
+2. Password modification, right
+
+Comprehensive statistical analysis, grasp the size of email data, language statistics,
+
+This ax This quotation
+
+
+
+Language proportion
+Volume | Book 3
+(General Statistics 1)
+
+11 /15
+

@@ -1,0 +1,108 @@
+Heart
+surname
+temple
+red
+Bo
+total
+play
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hector remote control system
+Configuration list "| Quantity; a set of software <client, control end>
+Indicators Return to pure software Return to independent research and development
+Product form, port hardware integration, product source, port technology transformation
+Oral system equipment and imported products
+Basic parameters . | Basic parameters
+System Architecture CS Architecture Target Operating System "| Centos, ubuntu
+Remote control features | Startup method Application layer startup, stable and reliable
+Network connection supports HITP/WEB SOCKET, HTTPSAWEB SOCKET over TLS protocol reverse
+to connect,
+
+
+
+File management File directory browsing, file upload, download, delete, refresh and run.
+
+
+
+
+
+Shell command Interactive shell command
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 5 Applicable environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program Supported operating systems
+
+Control program Win 2003, Win 7, Win 10, Win 2008, Win2012 systems 〈Supported at the same time
+32/64-bit systems),
+
+Controlled program x64: Centos 5, 6, 7; ubuntu 14, 16, 18;
+
+
+
+
+
+
+
+Note: Systems supported by the controlled terminal: Centos 5, 6, 7: Ubuntu 14, 16, 18: refers to the major version number, including centos
+
+5. XXX、 6. XXX、 7. XXX
+
+
+
+
+

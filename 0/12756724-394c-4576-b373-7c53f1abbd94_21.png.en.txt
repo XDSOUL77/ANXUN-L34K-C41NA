@@ -1,0 +1,88 @@
+Professional digital intelligence solution provider
+
+2
+
+.1.3 Product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Architecture ARM MIPS
+
+CPU frequency 1.26, dual core /
+
+Storage 8GB eMMC high-speed flash DDR2 128MB
+
+Network supports full Netcom 46 wireless network card 802. 11/byg/n three modes
+Built-in battery 10000mA rechargeable lithium battery None
+MCU main frequency / 580MHz
+
+Flash                        /                                      32MB
+WiFi module default mode supports AP/STA and AP/STA mixed mode
+Equipment details 14lmm x 73m x 22mm 4lmm x 23mm X 3. 5mm
+
+2.1.4 Industry advantages
+@ Strong camouflage - different versions can be selected according to different application scenarios, disguised as Xiaomi power bank
+
+state or ultra-small circuit board module design to facilitate
+Check other security measures.
+
+High ease of use - just bring the device to the designated location
+The device can be controlled from the terminal to carry out penetration work.
+High penetration efficiency - product hardware is physically close to
+Establish a new intranet penetration channel.
+
+High battery life - the basic version has a built-in large-capacity charger
+Regular operation lasts 20 hours, and supports work operation
+Easy to operate - the system setting interface is simple and all
+button to complete the operation.
+
+Portable and undetectable, it can pass through security checks and
+
+
+
+After turning on the power, no other operations are required.
+
+The combination of backend network remote control provides a perfect solution for beach penetration work.
+Lithium battery, 8 hours of battery life at full load, party
+Carry out simultaneously with charging process
+
+Using graphical interface, just click the relevant button
+
+
+
+
+
+
+
+
+
+
+
+Antao Information Technology Co., Ltd.
+
+22/50
+

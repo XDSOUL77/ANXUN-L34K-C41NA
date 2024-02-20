@@ -1,0 +1,54 @@
+6. 3.2 Installation and execution of Trojan program
+Copy the generated Reptile64.out file to the target machine (1linux system) and install;
+Here we take centos 7.6 x64 as an example:
+1. Copy the files to centos 7.6 x64;
+2. It needs to be installed with root permissions;
+3. Enter the file directory and execute ./ Reptile64. out to install
+(If CReptile64.out does not have execution permissions, you need to use the chmod +x Reptile64.out command to increase execution permissions)
+Note: After the current installation is completed, a restart is required to take effect (the auto-start aspect still needs to be optimized later)
+
+
+
+userG@localhost:/home/user/Desktop                                     - 口 X
+
+
+
+File Edt View Search Terminal Hetp
+[userGLocaLhost -]囊 SU
+
+Password:
+
+[ rootGLocaLhost user ] # Ts
+
+Desktop Documents DownLoads Music Pictures Pubtlic TempLates Videos
+[rootG@LocaLhost User]# cd Desktop/
+[rootG@tocatLhost Desktop]ice 1Ls
+
+ReptiLe64.-oUt
+
+[rootG@Locathost Desktop]## chmod +X ReptiLe64.0UT
+[rootG@LocaLhost Desktop]ice 1Ls
+
+|ReptiLe64.out
+
+[rootG@LocaLhost Desktop]# ./VReptite64.out
+[instaLL-cpp:213] current os is centos
+
+[instaLL.cpp:227] Current 0s is Centos 7
+
+[rootGLocathost Desktop]Mother-in-law
+
+Figure 6.8: Installation in centos 7.6 x64
+
+Chapter 7 Remote Control Function
+
+7.1 Plug-in distribution
+This remote control system adopts the plug-in management method to deliver the required plug-ins to the online client and perform corresponding plug-in function operations;
+The plug-in distribution function includes two methods:
+The first is to deliver the specified plug-in individually to all online clients.
+The second is to automatically load and distribute the specified plug-in for a single online customer;
+
+
+
+页 it
+

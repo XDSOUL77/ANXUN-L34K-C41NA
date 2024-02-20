@@ -1,0 +1,244 @@
+3.4 “Network Architecture
+
+
+
+
+
+
+
+use
+
+
+
+Six 3
+
+| User
+Windows remote control management system
+plus one season road
+Avoid this and extract evidence | Data recovery
+Target Windows host Luo [一一
+one
+millet
+let
+
+
+
+
+
+
+
+
+
+(network architecture doctor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The platform adopts C/S architecture to meet various scenarios |
+
+
+
+
+
+Can
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standard Windows
+
+
+
+machine for remote K management and evidence collection operations.
+
+
+
+
+
+
+
+
+
+
+
+do. When the target host is successfully controlled by the ZR program and comes online
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lu
+mine day
+
+
+
+
+
+
+
+
+
+You need to access the system through the Internet
+
+
+
+On Taiwan, to the target
+
+
+
+
+
+
+
+
+
+
+
+Windows performs forensic operations. At the same time, the target data returns
+
+
+
+
+
+transmission link
+
+
+
+The security of the process avoids the risk of being eavesdropped.
+
+4 product features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unique technology for strong encryption to ensure data return
+
+
+
+"Windows Remote Control Management System" is designed to include resource management, process management, service management,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet users’ long-term release and covert forensics of target Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registry management, CMD console, screen stack, keylogging, document access records, online
+
+
+
+
+
+
+
+
+
+
+
+log recording and other functional items, fully
+
+5 /13
+

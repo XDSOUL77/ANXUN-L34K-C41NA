@@ -1,0 +1,145 @@
+4.4 Code audit
+
+Integrate commonly used code audit tools to check the security flaws of source code in projects and discover code LD, making it easier for penetration personnel to detect LD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for further LD utilization.
+
+
+
+
+
+
+
+
+
+
+
+re 盏 于本| rm| Pa | Pa | Pa
+Cow planta Phpmnuner phpna Notnsan pamar 。 W phtrape Rawenir
+Next | Between | | | |Zhan| |[Male| [Four| La Four| | Painting| wm
+on i.e
+Four paintings m| Four| Wang Si Review
+Pr Dec。 hpaae。 Acdiyo EurorR ScanWia 569 So
+(code audit)
+
+4.5 Webshell tools
+
+Integrate multiple command execution environments in the form of web files such as asp, php, jsp or cgi, that is, web backdoors, which can
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When performing penetration work on a target website, such tools are mixed with normal web page files in the WEB directory of the website server.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use a browser to access the asp or php backdoor to get a command execution environment to control the target website server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bureau map
+Anti-ping ping enforcement sweep
+Pa | | Chang Village
+jp day 3 also
+Ji Ji Xun Yu Xu Yu Yu Cun
+pre. perfect. modss aer plus pm by ee webmalL
+
+
+
+6 /17
+

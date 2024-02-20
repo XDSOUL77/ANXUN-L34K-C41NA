@@ -1,0 +1,167 @@
+6 product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Category Parameters
+Architecture B/S architecture
+Forensic link generation support
+Email encryption supported
+Duration of evidence collection. The password that has not been changed is valid for a long time.
+
+
+
+
+
+7” Product Deployment
+
+In order to ensure the stable operation of the entire platform, the server requirements for deploying the 0utlook email forensics platform are as follows:
+
+
+
+
+
+
+
+
+
+Product name Hardware configuration requirements
+1. CPU: dual core
+2. Memory: 4G
+3. Hard drive: 100G
+Microsoft email encryption platform
+
+
+
+4. System: Ubuntu1604
+
+5. Bandwidth: >4Mbps
+
+
+
+6. IP is deployed overseas, such as Japan, the United States, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 product advantages
+
+> "Easy to use"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The system has a B/S architecture. After authorization, users can log in to the system using their login name and password. According to the interface display, a fetch is generated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Send the evidence collection link to the target. After the target clicks the evidence collection link, the system will automatically receive the target's Outlook mailbox.
+Data, the whole process is simple to operate and the interface is simple.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> "High accuracy
+
+9 /8
+

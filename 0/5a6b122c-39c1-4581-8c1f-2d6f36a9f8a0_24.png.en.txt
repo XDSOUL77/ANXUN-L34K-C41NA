@@ -1,0 +1,76 @@
+The latest version number, update time and other information of the server update.
+
+aolpmHaIEEEEHSGThREHES
+
+
+
+(Weapons added and updated)
+
+Weapon updates are generally performed during non-working hours or system idle time. Weapons already loaded in the mission cloud host will not be processed
+
+
+
+
+
+
+
+
+
+
+
+Tsai changed to update.
+
+4.2 "External network platform function
+The functions of the external network platform mainly focus on the external network task management module, weapon resource management module, link resource application module and combat environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The management module consists of four parts.
+
+
+
+
+
+
+
+sex
+[
+
+
+
+(External platform login)
+
+
+
+4.2.1 External network task management module
+
+22 /32
+

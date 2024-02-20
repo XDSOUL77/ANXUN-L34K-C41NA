@@ -1,0 +1,168 @@
+4.12 Online logging
+through target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The machine's program ZR, "Windows Remote Control Management System" supports
+Record the time in the log.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When the host goes online or offline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Screenshot of online log record)
+
+
+
+
+
+
+
+4.13 Disconnect
+
+"Windows Remote Control Management System" has 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E automatic disconnection function, after actively disconnecting, the controlled terminal supports
+DNS resolution of online domain names or real-time refresh of online IP addresses supports TCP and UDP dual-protocol online.
+
+
+
+
+
+Together 2nl90547 1ass8i27
+
+WIN-CFALIDCRSNG
+
+171.88.1<3.72 onin
+
+All 20l90s171417556 waNLCFALIDCRBNG 171.88.1.3.72 ff
+
+Full 20l90517141Bt0l WoaNLCCFRLIDCRBNG 171.88.1<3.72 onin
+top occurrence
+
+(Screenshot of disconnect function)
+
+
+
+
+
+
+
+
+
+4.14 Remote uninstallation
+
+"Windows remote control management system
+
+
+
+"It has remote uninstallation function, after remote uninstallation operation is performed on the online device.
+
+
+
+
+
+
+
+
+
+The system will download the uninstalled target device information
+
+
+
+
+
+
+
+12 /13
+

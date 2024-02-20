@@ -1,0 +1,67 @@
+Draw
+old
+new
+number
+habit
+deep
+add
+
+ET]
+
+Add |
+
+
+
+
+
+[with interface)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+two
+
+Category Parameters
+
+Architecture C/S architecture
+
+Email import format eml format
+
+100,000 emails/station
+(Under the condition of 1 server with standard parameter configuration)
+
+Query response time Second level response
+Email relationship analysis support
+Conditional filtering settings supported
+Single target comparison analysis support
+Snapshot function supported
+Comprehensive statistics support
+Cluster analysis support
+
+
+
+
+

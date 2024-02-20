@@ -1,0 +1,69 @@
+Professional digital intelligence solution provider
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.7.2 Applicable environment
+Centos 5
+Add X86/x64 Centos 6
+Controlled end
+(Client) Centos 7
+Ubuntu 12
+Hshch
+Ubuntu 14
+Control terminal Windows XP/7/8, Windows Server 2003/2008, supports multi-language environment
+
+
+
+
+
+
+
+
+
+1.7.3 Product functions
+
+> Shel1 command: You can execute Shel1 command operations on the client on the control shell interface.
+
+> File management: On the remote management interface, you can check the files and directories of the target computer.
+View, delete, upload, download and other operations.
+
+Six" Socks5 proxy: The system supports using the SocksCap64 tool for socks5 proxy, and also supports
+View the Socks5 proxy information of the controlled terminal.
+
+Six TCP port multiplexing: The system supports communication on the opened port, and only input information
+Perform character matching without performing any interception or copying operations on network data to achieve port replication.
+function.
+
+1.7.4 Industry advantages
+
+@ High compatibility - the system supports cascading technology and supports three protocols: ICMP\TCPAUDP
+line transmission.
+
+@ High stability - the system supports 7*24 hours of stable operation and has a self-recovering fault-tolerant machine
+system.
+
+@ Strong concealment - supports reusing TCP ports and reserves backdoors for remote control systems.
+
+@. Excellent ease of use - different online modes can be selected according to the particularity of the target network environment.
+Connect mode or rebound mode) Set the client to go online.
+
+@ Strong anti-virus protection - regularly tested against domestic and foreign anti-virus software to ensure normal use of tools
+Can avoid killing mainstream anti-virus software at home and abroad, such as AVG\ClamNComodo\Kaspersky and other mainstream
+Antivirus software for Linux systems.
+
+
+
+Antao Information Technology Co., Ltd. 17/50
+

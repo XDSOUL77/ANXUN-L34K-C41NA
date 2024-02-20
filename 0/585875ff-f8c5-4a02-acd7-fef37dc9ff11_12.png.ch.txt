@@ -1,0 +1,54 @@
+6. 3.2 木马程序的安装运行
+将生成后 Reptile64. out 文件拷贝到目标机器 〈1linux 系统中) 安装;
+这里以 centos 7.6 x64 为例:
+1、将文件拷贝到 centos 7.6 x64 中;
+2、 需使用 root 权限安装;
+3、进入到文件目录下，执行./ Reptile64. out 进行安装
+(CReptile64. out 没有执行权限的话，需要 chmod +x Reptile64. out 命令增加执行权限)
+注: 目前安装完成后，需重启才生效〈自启动方面后面还需要优化)
+
+ 
+
+userG@localhost:/home/user/Desktop                                     - 口 X
+
+ 
+
+File Edt View Search Terminal Hetp
+[userGLocaLhost -]囊 SU
+
+Password:
+
+[rootGLocaLhost user]# Ts
+
+Desktop Documents DownLoads Music Pictures Pubtlic TempLates Videos
+[rootG@LocaLhost User]# cd Desktop/
+[rootG@tocatLhost Desktop]冰 1Ls
+
+ReptiLe64.-oUt
+
+[rootG@Locathost Desktop]## chmod +X ReptiLe64.0UT
+[rootG@LocaLhost Desktop]冰 1Ls
+
+|ReptiLe64.out
+
+[rootG@LocaLhost Desktop]# ./VReptite64.out
+[intsaLL-cpp:213] current os is centos
+
+[intsaLL.cpp:227] Current 0s is Centos 7
+
+[rootGLocathost Desktop]姑
+
+图6.8: 在 centos 7.6 x64 中安装
+
+第7章 远控功能
+
+7.1 插件下发
+本远控系统采用插件管理方式对在线客户机下发需要的插件，进行相应的插件功能操作;
+插件下发功能包括两种方式
+一是单个下发，针对所有在线客户机下发指定的插件，
+二是自动加载下发，针对单个在线客户下发指定的插件;
+
+ 
+
+页 lo
+

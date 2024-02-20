@@ -1,0 +1,151 @@
+Now :tons x64 2
+
+Lu
+The idiom test is followed by oup: |test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fassomo[ 123456
+0 Move the guard and the ports corresponding to the protocol one by one
+Madara controls out hector. The ports in ini are consistent
+
+
+
+
+
+
+
+Bureau HTTP 13216881593.8080
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTTPS[SETPaRHereberry|
+
+] Full BRErate
+
+
+
+
+
+
+
+
+
+
+
+Figure 6.5: Configuration of http/WS protocol
+car stone x64 1
+
+Pure
+
+
+
+
+
+TAG          test                                           Groupz |test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Password     123456
+
+
+
+
+
+
+
+
+
+
+
+HTTP 。 1192.1698159:98080                   |
+
+
+
+HTTPS    192.168.8.159.4443
+
+
+
+Heclor20190730\D source of
+
+The ip of the control end and the end where the protocol is started King 4 Genarate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6.6: Configuration of https/WSS protocol
+
+3. After the configuration is completed, click Generate to update the Reptile64.out program;
+
+Garden cader 201977731 154 Safety Book 2 KB
+conf64.dat 2019110114 11209 DAT file KB
+confg64 exe 20191875 11:49 Application 5696 KB
+[ ] Reptile64.out 2019/710714 T1209 QUT file T717 KB
+
+Figure 6.7: Configuration update file
+
+4. Copy the generated Reptile64.out file to the target machine (linux system) for installation;
+

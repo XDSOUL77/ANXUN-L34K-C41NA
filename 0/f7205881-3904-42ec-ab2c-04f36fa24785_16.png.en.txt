@@ -1,0 +1,66 @@
+Hardware environment
+
+
+
+
+
+Any computer model can be used
+
+
+
+
+
+
+
+
+
+At least one USB2.0 or above interface |
+
+
+
+
+
+
+
+
+
+Recommended dual-core CPU, 4GB running memory, independent graphics card or above configuration
+
+
+
+Software Environment
+
+The operating system requires win7 and above.
+
+
+
+
+
+
+
+For browsers that support HTML5, it is recommended to use Chrome'Firefox
+
+
+
+
+
+
+
+Install the .Net Framework 4.6 framework
+
+
+
+Web environment
+
+
+
+
+
+Internet access
+
+
+
+
+
+14 /11
+

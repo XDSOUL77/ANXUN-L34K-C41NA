@@ -1,0 +1,41 @@
+Professional digital intelligence solution provider
+
+
+
+2.3.5 Product pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Automated penetration testing platform interface diagram)
+
+2.4 WiFi terminal positioning countermeasures equipment
+2.4.1 Product Introduction
+WiFi terminal positioning and countermeasure equipment is a device for WiFi signals that uses the directionality of directional antennas to pass
+A product that determines the positioning of WiFi devices based on signal strength.
+2.4.2 Product functions
+> Scan WiFi devices: Support scanning the wireless signals of surrounding APs and terminals, and pin them to the top.
+Conditional filtering and creation of scan information snapshots and other operations.
+6. Locating WiFi devices: Supports wireless device positioning and performs tracking based on changes in the MAC address signal and number.
+Real-time alarm and target discovery, voice broadcast of the current positioning signal value and real-time display of signal and signal changes
+Towards. The positioning accuracy is less than 1 meter.
+> Counter WiFi devices: Support active discovery of APs and terminals and track their signals to block and disconnect
+its network connection.
+
+
+
+Antao Information Technology Co., Ltd. 32/50
+

@@ -1,0 +1,631 @@
+TZ
+
+[Delivery of services, comprehensive response to services
+
+
+
+
+
+Regular TZ tasks
+
+
+
+
+
+
+
+
+
+management evaluation, and
+
+
+
+
+
+times
+
+
+
+
+
+
+
+
+
+CE全
+
+
+
+response
+
+
+
+buried 3
+
+
+
+
+
+
+
+
+
+civil
+
+Locust age
+
+To deploy external network task management module |
+
+
+
+
+
+
+
+Rima|
+
+
+
+
+
+
+
+
+
+to include
+
+
+
+
+
+
+
+
+
+Routine task execution 9
+
+Management module
+
+
+
+Taiwan 6
+Ni.
+
+Li Gong
+
+integrated management
+
+block,task management management module
+Release and environment of normal TZ task environment|
+Collect all types of weapons and equipment needed
+
+
+
+
+
+
+
+Outside
+
+
+
+
+
+
+
+princess,
+
+
+
+
+
+environment generation,
+
+
+
+block, combat environment management module, weapons information
+Track and progress the task status of the station
+
+Environmental destruction and other functions
+
+Management, using issued weapons according to mission requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If the security cover link required for mission execution is provided,
+
+commonly used network
+
+Ability; weapons equipment
+
+network links and other
+
+
+
+Degree View; Combat Ring|
+
+environment management model|
+
+Comprehensive management and maintenance of transmitted data. External network work
+Original management module and link resource management
+
+gouging
+
+
+
+
+
+
+
+
+
+
+
+Original management module
+
+to include
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+; link resource
+
+
+
+
+
+
+
+network link information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+answer
+
+Security authentication and verification mechanism,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1/
+
+color and identity, providing different operating permissions and
+
+It is necessary to provide a comprehensive management platform for intranet business and external
+
+You can log in to the intranet business integrated management separately
+
+
+
+
+
+people
+
+
+
+
+
+
+
+combat response
+
+
+
+
+
+
+
+Management platform
+
+
+
+
+
+Log in |
+
+
+
+
+
+times
+
+Pass multiple accounts
+
+
+
+
+
+
+
+
+
+
+
+Got it
+
+
+
+
+
+Human platform and external network combat response
+
+
+
+Management level
+
+
+
+receive
+
+Set of 3
+
+
+
+based on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bureau
+
+3.4 Network architecture
+
+
+
+
+
+. Further protection 3
+
+
+
+
+
+Taiwan envoy
+
+
+
+
+
+
+
+
+
+
+
+(net
+
+
+
+Integrated combat level
+
+queen of people
+
+
+
+Quanqian
+
+
+
+Around TZ,
+
+
+
+
+
+
+
+
+
+
+
+The platform is deployed in Cai
+
+
+
+
+
+
+
+
+
+Hire your identity
+
+!Design based on financial management ideas,
+
+
+
+
+
+network architecture
+
+
+
+chant
+
+
+
+
+
+The platform is deployed on
+
+
+
+
+
+household area
+
+
+
+
+
+
+
+
+
+
+
+female:
+
+
+
+
+
+
+
+of
+
+
+
+
+
+
+
+
+
+
+
+Operator opportunities
+
+
+
+in room or
+
+
+
+
+
+Protect the stronghold computer room
+
+
+
+1/
+
+
+
+
+
+
+
+
+
+
+
+
+
+standardization and safety.
+
+Inside and outside the computer room
+
+
+
+
+
+integrated combat platform
+
+radio and television
+
+
+
+
+
+network architecture
+
+
+
+
+
+think
+
+2
+
+
+
+Inside
+
+Net level
+
+
+
+
+
+
+
+
+
+And internal and external network rings
+
+The environment is composed of three interactive parts.
+
+
+
+
+
+
+
+
+
+Intranet platform
+
+radio and television
+
+
+
+network ring |
+
+
+
+Context: Intranet
+
+In principle, the mannequin is deployed at
+
+
+
+
+
+
+
+
+
+Household jurisdiction
+
+
+
+
+
+
+
+
+
+Network environment, deployment
+
+In the district security room,
+
+Network station
+
+structure
+
+
+
+a private network
+
+
+
+, thus forming the entire
+
+The network environment of the avatar,
+
+network (and internet
+
+
+
+
+
+Completely isolated and without interconnection
+
+
+
+
+
+
+
+
+
+
+
+access rights) or may be based on
+
+
+
+
+
+Deployed in WA dedicated
+
+
+
+within , realizing the entire
+
+Intranet
+
+Taiwanese
+
+47132
+
+
+

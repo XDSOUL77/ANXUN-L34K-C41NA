@@ -1,0 +1,177 @@
+4.10 Xss 工具
+
+具
+
+内置大量 XSs 攻击了
+
+ 
+
+ 
+
+ 
+
+ 
+
+端的攻击
+
+ 
+
+ 
+
+ 
+
+的。
+
+ 
+
+IsRTOP10
+
+Pr 多
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+，支持通过 web 站点 LD，向客户端交付恶意脚本代码，实现对客户
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+呈] 严| 克让| 人本| P呈| 天是| | 赤 | 严
+srprobe shelattheF 。 em palone。 直8SXc5 Jsscon hl   so xsmaaa bm。 ba
+鱼   间   天         图      于   和      而
+JSRFRiobe shell。 尖paye Ag JSSCon 二dl ao 和sacef beel 。 bemenes 呈ngoX。 HIME
+四   天   于         于   加  画   午
+Jp Mampe 5SW6g Xer Mafof jg-pat Xp 和55。 Xiper 。 XSSue。 ySSTonnal
+(XSS 工具)
+4.11 目录扫描
+内置常用目录扫描工具，支持对目标网站下存在的目录进行扫描和信息收集。
+可加
+aiERTOp10
+P吕  严_  re  Ps | FE Pa Fe Pr PC
+WBbpangnts 。 Diap DiSii Scan TO4后。 BackupScan 。 Webgcaan 。 Webi友。Wordpres尖-Wowscan gil
+团  图  有   。   口  口  思  叶  @  网  @Q  桓
+ebpath Dinap 。 Disafe 。 kscan 。 Teako4 Bacups Websaan Wet征。 Wordpre 。 wowscan 。 计生 。 本
+[  从  阁  口  四 国   二  惠  加  固
+ov 。 旬gWE3 。 IE 37。。 Flescan 。 Scandr 。 Slabscan wwacan 。 wean daarer
+
+ 
+
+(目录扫描)
+4.12 指纹识别
+
+内置常
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+指纹识别了
+
+ 
+
+内
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+，支持破解
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+标网站指纹识别，
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+标网站的基础信息。
+
+9 /17
+

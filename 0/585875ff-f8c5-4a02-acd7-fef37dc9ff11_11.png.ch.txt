@@ -1,0 +1,151 @@
+现 :tons x64                                                                  二
+
+Lu
+语          test                                           后oup: |test
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fasswmo[   123456
+0 搬的卫及该协议对应开启的端口一一
+斑控出出hector。 ini中的端口一致
+
+ 
+
+ 
+
+ 
+
+局HTTP     13216881593.8080
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HTTPS                                                           [SETPaRHere              莓|
+
+]   全BRErate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+图6.5: http/WS 协议的配置
+辆 stone x64                                                                           一                X
+
+Linuy
+
+ 
+
+ 
+
+TAG          test                                           Groupz |test
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Password     123456
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HTTP 。 1192.1698159:98080                   |
+
+ 
+
+HTTPS    192.168.8.159.4443
+
+ 
+
+Heclor20190730\D oorca de
+
+控制端的ip及该协议开局的端        王4              Genarate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+图6.6: https/WSS 协议的配置
+
+3、配置完成之后，点击 Generate，可更新 Reptile64. out 程序;
+
+园cader                                      201977731 154         安全让书                     2 KB
+怖 conf64.dat                                    2019110114 11209         DAT 文件                      KB
+confg64 exe                            20191875 11:49          应用程序               5696 KB
+[ ] Reptile64.out                           2019/710714 T1209       QUT文件              T717 KB
+
+图6.7: 配置更新文件
+
+4、将生成后 Reptile64. out 文件拷贝到目标机器 (linux 系统中) 安装;
+

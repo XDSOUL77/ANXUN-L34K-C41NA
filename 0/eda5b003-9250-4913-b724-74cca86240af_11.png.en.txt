@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+Route, delivery location, mail sub-code, location
+Management level code, latitude, longitude, time zone code
+
+net
+
+
+
+
+
+code, county code, county name, core statistical area
+
+
+
+
+
+Field code, core statistical area name, phone number
+sign, indian gender code, indian
+Ranking code of number of households, Indians
+Minority code, Indian political party code
+
+
+
+
+
+code, family income code, family income range
+
+
+
+
+
+code for family median income, family median
+
+
+
+
+
+
+
+Income range, middle income code, middle
+
+
+
+
+
+
+
+
+
+
+
+Income range, personal income code, individual
+
+
+
+
+
+Income range, donation ability code, address number
+
+
+
+
+
+
+
+code, street name, street suffix, state and city
+Address number plate, tax control mark, postable
+
+
+
+Send logo, unique geographical location mark, production
+Date, latitude and longitude, geographic latitude and longitude, market
+Marketing, can be mailed, can be called, can be mailed, can be
+
+Call, nine-digit postal code, ten-digit postal code
+
+
+
+
+
+One digit, the last four digits of the postal code exist, and the address
+
+
+
+
+
+owner, green life logo, version, longitude
+
+
+
+
+
+
+
+Coordinates, latitude coordinates, number of bathrooms,
+
+
+
+
+
+
+
+
+
+
+
+
+

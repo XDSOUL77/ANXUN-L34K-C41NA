@@ -1,0 +1,146 @@
+4.2 ”常用工具
+内置大量的常用网络工具, 例如微信、QQ、谷歌浏览器、 Dbeaver和 Cmder 等常用的工具
+
+上 二，
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+盏满足特侦工作需要，提升特侦工作的便捷性。
+
+ 
+
+ 
+
+ 
+
+ 
+
+ET   昌
+aironte
+
+re Pa pp pre pr四 Pa re Fe Pa
+
+ae Eeeeypg bendonp。 cd ppeeawdier come Heroga 。 canh Neapaker四
+
+晶  遇  且  四  国  理  外  启  画  国  入  本
+
+pbewer EPE Bankng betonde cmasr Phaeessh 。 chreme 。 FFa
+
+                                                                                                                                                                                                                                                                 
+
+ 
+
+ 
+
+(常用工具)
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.3 ”暴力破解
+内置自制暴力破解脚本与成型密码破解工具. 可对 MSSQL 数据库、MYSQL 数据库和 SSH 的
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+账号密码进行无限穷举，破解账号密码; 可对 Windows、Linux 的管理员账号密码及包含协议的
+加密密文进行破解。
+
+ 
+
+Top10
+
+  
+
+盖| 四| |术 @| |国土| |品
+rn
+最 全 全 本 瑟| 二
+
+Ge
+
+兽| 是] [旺] [剖] 『昌| |硬| [人
+
+Ca
+
+(暴力破解)
+
+5 /17
+

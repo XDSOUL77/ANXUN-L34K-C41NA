@@ -1,0 +1,261 @@
+
+
+learning algorithm to implement
+
+The mined structured data and unstructured data are stored in a distributed manner to achieve rapid data adjustment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System 3 via the web interface
+
+
+
+Platform UI,
+
+reason
+
+
+
+
+
+
+
+A series of functions such as search, analysis, research and judgment.
+3.4 Network architecture
+
+[1
+
+Email analysis intelligence
+traffic policy system
+
+
+
+
+
+
+
+
+
+
+
+Extract and classify various types of data in g-file text and emails, and mine emails
+
+various relationship networks, and will
+and query; the application layer will
+
+
+
+
+
+
+
+
+
+
+
+Full Border/Gatekeeper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in to the system to achieve comprehensive research and analysis of email data, and search
+
+|
+
+
+
+Application site 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application site 1 Application site m
+Application site 1. . Application site 3. Application site 3. application sitem
+(Email Analysis Intelligence Decision System" network architecture diagram)
+The "Email Analysis Intelligence Decision System" is designed using a B/S architecture to facilitate users to log in and use it at any time. To protect
+
+
+
+Security of retrieved email data,”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 8-piece analytical intelligence decision-making system is deployed in principle
+
+
+
+
+
+
+
+Intranet, try to communicate with external network
+
+
+
+
+
+
+
+
+
+
+
+
+
+Isolate, if there is external network access and use
+
+
+
+demand, wind
+make
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+need.
+
+
+
+
+
+Shoot to the external network to achieve external network access and
+
+4 product features
+
+
+
+It can be accessed through the security gateway or Net6.com |
+
+
+
+"Email Analysis Intelligence Decision System" provides comprehensive
+
+Office search, email browsing,
+
+
+
+
+
+
+
+
+
+Intranet"
+
+
+
+gware analysis intelligence decision-making system”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+backstage and
+
+There are four functional modules in the workbench.
+
+
+
+
+
+
+
+
+
+47115
+

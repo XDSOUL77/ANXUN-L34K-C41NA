@@ -1,0 +1,191 @@
+1 Scientific Internet Box-Desktop Version Product White Paper | J
+7.2 Equipment performance is stable and powerful
+
+In terms of equipment selection, we chose the IPQ6000 quad-core Arm processor @1.2GHz, with CPU performance
+It is stable and powerful, supports WIFI6, and provides better wireless signals.
+
+7.3 Automatic switchover of node failures
+
+The system will automatically detect the node information currently in use. If a failure occurs, the node will automatically switch to the next node.
+node.
+
+8 product form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.1 Deployment method
+
+
+
+
+
+"Scientific Internet Box-Desktop Edition" is an all-in-one hardware device similar to routing. The equipment mainly uses local
+Operator network access to the entire science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Any link, so the local only needs to provide the available operator network
+network, the deployment can be completed and used normally.
+1. Establishment of network environment for GFPass equipment
+9 lead rash outside outside
+Already TI
+@ Connect the power @@ WAN port to the public network @ LAN port to the computer
+8.2 Product parameters
+Parameters Scientific Internet Box-Desktop Version
+Architecture ARM
+CPU IPQ6000 Quad-Core Arm Processor @1. 2GHz
+Memory DDR3L 512MB / NAND Flash 128MB
+1Antao information 1
+
+Page 10 of 11
+

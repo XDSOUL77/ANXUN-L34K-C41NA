@@ -1,0 +1,70 @@
+Professional digital intelligence solution provider
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Prompt for vulnerabilities that have publicly exploited methods. Provide
+Exploitable lubrication information, source information of related vulnerability exploits, etc. Support | . support
+Vulnerability judgment basis Scanned vulnerabilities can be viewed based on judgment Support Support
+In addition to the CVSS standard vulnerability score, based on asset weight
+Accurate risk scoring, vulnerability exposure and threat level provide more support.
+Accurate risk scoring
+, supports scanning mainstream virtualization platforms such as
+The wrong virtualization platform is VMware, VKVM, etc. Go to the page Go to the page
+Weak password scanning Supports weak password scanning of common protocols Supported Supported
+Baseline scan CIS, customized baseline scan strategy supported supported
+Ability to detect Javascript, Ajax and
+Flash Web applications, Web Services applications
+Enhanced web scanning function (including SOAP 1.2, Json, WSDL, not supported supported
+XML), detection use cases can cover all OWASP
+Top 10 Weifu
+API interface Provides API interface for external application calls Not supported Supported
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.3.4 Industry advantages
+
+@ ”Automation - a complete set of penetration attack platforms from intelligence collection, threat modeling, vulnerability analysis, penetration
+The six parts of attack exploitation, post-penetration testing and reporting are developed to provide penetration based on different penetration environments.
+Automated support for the entire testing process.
+
+@ Professional-level vulnerability library - the system has built-in Metasploit commercial-level professional version vulnerability exploitation platform,
+Integrates thousands of operating systems, application software vulnerabilities, and hundreds of shellcodes, and does not
+Continuously updated to fully meet the needs of in-depth vulnerability scanning.
+
+@ Flexible custom scanning measures support customizing the start time of website scanning to avoid website business peaks.
+Or set up periodic scanning tasks according to the needs of the business online process.
+
+@ Flexible expansion - the platform supports local deployment and distributed deployment to cope with the penetration process
+In emergencies, the intelligent scheduling penetration process is not interrupted, improving the reliability and availability of the platform.
+and scalability.
+
+
+
+Antao Information Technology Co., Ltd. 31/50
+

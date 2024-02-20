@@ -1,0 +1,42 @@
+Sample example
+
+Current problems
+1
+After the data is bundled, the overall content will only be saved as follows. "Most messy data are difficult to integrate, and the recognition after integration is low.
+
+Ticket number
+payment method
+Cash/credit card, etc.
+Bike information
+Name/date of birth/ID number, etc.
+Contact information:
+telephone number
+email address
+
+
+
+The data of this "II ID" will be lost. Because it is impossible to analyze the specific number represented by this field.
+The meaning of . It cannot be subdivided. However, the following fields will be integrated into one line, and the recognition is low -
+
+3. All fields are merged, making it difficult to understand.
+
+Yellow mark in the picture
+AP-3-5
+AL
+
+
+
+
+
+The data after segment integration is
+
+0a0 - SHU (INTEINET TOLRISD
+
+
+
+aa
+
+
+
+where 8 is the separator
+

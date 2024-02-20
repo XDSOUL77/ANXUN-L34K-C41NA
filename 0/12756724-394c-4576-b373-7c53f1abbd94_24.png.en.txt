@@ -1,0 +1,91 @@
+Professional digital intelligence solution provider
+
+
+
+> Stress test: supports regular mode (SYN, UDP, TCP, ACK, IGMP, ICMP, DNS), Web
+
+Modes (Get protocol, mutation CC, infinite CC, distributed loop CC), breach mode, etc., and
+Supports hexadecimal and ASCII code conversion. Support multiple modes simultaneously
+Perform stress testing, unique UDP countermeasures technology, combined with new kernel technology, send data packets
+area is sent directly to the target.
+Cluster management: supports cluster management of online hosts and assigns specified tasks to online hosts.
+The target IP performs cluster countermeasures, individual target countermeasures, loops through the target countermeasures, and automatically loops through
+
+Powerful customization mode,
+
+Not cached
+
+
+
+history to find valid counterfeit packets.
+
+2.2.3 Product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scanning method asynchronous transmission
+Scan threads Max 1000
+
+Maximum concurrent tasks: 20
+Vulnerability types Remote code execution, weak passwords, database, Web, etc.
+Online quantity: 30,000 to 60,000
+
+Traffic output scale 10G to 100G
+
+Client size 29Kb
+Communication mode TCPVHTTP
+Countermeasure mode SYN, UDP, TCP, ACK, IGMP, ICMP, DNS, CC
+Online method ITP/domain name
+Startup method system service
+Support platform Windows/Linux/IoT
+
+2.2.4 Industry advantages
+
+@ Cross-platform, perfectly compatible with all window systems launched:
+
+XP/Vista/7/8/8.1/
+
+Compatible with Linux/CentOSVUbuntu/AIX/Solaris/HP-UX and other systems and mainstream IoT devices
+
+Networked device system
+
+Choose whether to counterattack.
+
+
+
+0; Windows sever 2000/2003/2008/2012/2016. same
+
+High flexibility - the system supports intelligent countermeasures and can automatically select countermeasures based on the survival status of the target.
+
+
+
+Antao Information Technology Co., Ltd.
+
+
+
+Windows
+

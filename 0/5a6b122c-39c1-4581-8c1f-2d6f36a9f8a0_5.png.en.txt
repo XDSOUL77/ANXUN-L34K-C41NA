@@ -1,0 +1,327 @@
+Based on this platform
+
+war, share resources, intelligence and weapons and equipment, and coordinate the progress, process and
+
+
+
+
+
+
+
+
+
+, between each combat team member, aiming at
+
+
+
+Common tasks and common goals can achieve collaborative cooperation in the same combat scenario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Target and maximize the team's combat power.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At the same time, the cloud platform uses the assembled combat environment 4
+Process approval management, constraint operations
+
+3.2 "Product composition
+
+
+
+
+
+manage
+
+
+
+
+
+
+
+The behavior of team members is strictly controlled
+
+
+
+Or, solid security links, standardized security protection measures, and strict tasks
+Prevent external attacks and ensure operational security.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The platform can be deployed locally
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It can be used after being deployed in the cluster.
+
+
+
+
+
+
+
+
+
+
+
+Integrated combat platform:
+
+
+
+
+
+2. Integrated combat platform
+
+
+
+
+
+
+
+
+
+
+
+3.3 "System architecture
+
+THE BLIND GIRL
+Upper management personnel "Business management personnel" Task execution personnel Operation and maintenance management personnel, Ba
+
+At
+Management module
+
+The book-peeing madness leads to a quarrel and confusion between the two parties
+
+
+
+The product composition list is mainly as follows:
+
+Manual: 1 copy
+
+Click to browse
+
+Four
+
+Book
+
+[
+
+add
+
+(Taiwan Painting Qiao Xi/Hua Mi)
+
+
+
+
+
+(System architecture diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 mode is set up. Users can use server clusters and platforms of corresponding sizes according to their own needs.
+
+IT WAS LALEALA
+
+Upper management personnel "Business managers" "Task execution personnel" Operation and maintenance managers External
+
+Taste Xing Xuefeng and Liu Si quietly
+
+
+
+The integrated combat platform system is designed based on the overall network topology and is divided from bottom to top: infrastructure and support platform
+
+
+
+
+
+
+
+
+
+
+
+and application layer.
+
+
+
+
+
+
+
+Infrastructure: Infrastructure 3
+
+
+
+
+
+
+
+]
+
+The hardware resources required by the station, including various network hardware equipment resources, intranet
+
+
+
+
+
+Integrated business management platform and external network combat response
+
+
+
+Cluster allocation and resource scheduling of hardware resources,
+Support platform: Intranet business comprehensive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need support for deployment
+Management platform infrastructure is adopted
+That's it
+
+platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Virtualization technology and private cloud storage technology to achieve
+
+Maximize the performance of mannequin infrastructure resources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mainly deploy the intranet resource management module and intranet business management module to meet the needs of the Japanese party
+
+
+
+
+
+
+
+
+
+
+
+3 /32
+

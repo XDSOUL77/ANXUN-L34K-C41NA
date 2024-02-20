@@ -1,0 +1,426 @@
+6) Task statistics function:
+
+7
+
+(View details)
+
+
+
+
+
+
+
+tasks, completion of tasks |
+
+It is divided into two parts: the first
+
+
+
+
+
+
+
+Each part is based on tasks
+
+
+
+
+
+
+
+
+
+
+
+
+
+al
+
+Degrees for tasks in different states, not |
+
+
+
+
+
+
+
+The distribution and use of overall resources
+
+
+
+
+
+
+
+Zhiguan
+
+Log management function:
+
+
+
+
+
+
+
+Statistics and analysis of the situation.
+
+
+
+
+
+The situation and task type distribution are quantitatively counted. The second part is based on resource utilization.
+
+
+
+
+
+
+
+
+
+
+
+of
+
+
+
+
+
+
+
+
+
+
+
+The management function is only visible to administrators and can be viewed
+
+
+
+
+
+
+
+
+
+Allow
+
+Show two parts. In the conditional retrieval part, you can use the operation time ji
+
+Bureau operation
+
+
+
+
+
+records, divided into conditional retrieval,
+
+
+
+
+
+
+
+
+
+Row filter. In the content display department
+
+
+
+Display the searched results by rule
+
+
+
+Contents of ambition.
+
+
+
+, content keywords, operation type versus operation
+
+
+
+
+
+
+
+ten
+stand
+
+
+
+Inside
+
+Enter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lead
+
+The conditional search part supports pressing
+
+Issue search, time search,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filter by combination of search conditions,
+
+
+
+
+
+Magazine for more precise screening.
+
+
+
+right
+
+
+
+
+
+
+
+
+
+
+
+b) Date retrieval-use
+
+
+
+ten.
+im
+
+The user can specify a specific start time
+
+
+
+time and end
+
+Log content retrieval and type retrieval.
+
+Time, query the time period
+
+
+
+Time also supports
+
+Various types of dust
+
+
+
+habit
+
+
+
+
+
+All operations of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 time retrieval-make
+
+You can check the latest
+
+hours, last six hours
+
+
+
+
+
+
+
+ten
+avoid
+
+All operation logs;
+
+
+
+
+
+
+
+hour, last day, last three days, last day
+
+
+
+
+
+
+
+
+
+
+
+d
+
+
+
+Journal content retrieval-enable
+
+
+
+
+
+
+
+
+
+You can enter it through the search box
+Match and find all relevant operation records;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e，
+
+type retrieval-make
+
+
+
+The person can be interested in someone:
+
+Type operation is performed
+
+
+
+
+
+Delete, download, upload,
+
+
+
+review/approval,
+
+
+
+
+
+Please, transfer, etc.
+
+
+
+content
+
+
+
+Operation content.
+
+9
+
+Show part as list
+
+Without any retrieval operation, the system defaults |
+
+
+
+
+
+The retrieved results are displayed in the form of .
+
+
+
+
+
+Arrange in order. When the search conditions change, then
+
+
+
+Display the corresponding search content.
+
+Display all types of
+
+log content, thereby making all operations precise or fuzzy
+
+
+
+
+
+
+
+
+
+
+
+ambition, and according to time
+
+
+
+15 /
+
+
+
+member
+
+
+
+Select, the operation types include New. Update. Query,
+
+The results include operation time, operator and
+
+fall
+
+32
+

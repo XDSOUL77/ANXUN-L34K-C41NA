@@ -1,0 +1,87 @@
+6.1.2 Controlled terminal-door
+
+National Cader 201917/31 15.54 Safety Certificate Vegetable
+
+Deer corf64dat 2019/8/5 1406 DAT file
+
+Country confg64.axe 2019/8/5.11:49. app
+
+Add Reptile64:out 2019/815 14.06 OUT file
+illustrate:
+
+Config64.exe: Trojan configurator program;
+Ca.der: configure the certificate of https protocol;
+
+
+
+6.1.3 Certificate Tool
+
+Note: For specific usage details, please refer to the MakeSelfSignedCert.txt document.
+Country cert write.exe 201977/4 10:065 Application
+Country gen_key.exe 2019/7/4 10:05 Application
+MakeselfsignedCertbtt 2019/7/130 11:03 Text source
+Country pemz2derexe 2019/77/4 10:06 Application
+
+
+
+
+
+
+
+
+
+
+
+6.2 Control terminal configuration and activation
+6.2.1 Modify the configuration file Hector.ini
+
+Country pugin 2019/81115514 File Go
+
+
+
+2 KB
+
+T KB
+5.696 KB
+1717 KB
+
+255 KB
+178 KB
+Over KB
+76 KB
+
+
+
+power pue-out
+Country Engine dl
+Mouth Enginepdb
+Figure fleManagerd
+全Hedarae |外Ws = WEB SOCKET WSS = WEB SOCKET over
+图 Heaoriai Protocol=WS
+
+Cancer Hecterpdb Plus
+国 mfostoragedl; Listening Port
+cancer infostoragep
+country mfclouudlf
+园 mswcploodl | cypher key for communication
+
+Park msverloodll |ComKey=123456
+country satkesall
+
+hey terminalexe
+
+
+
+
+
+
+Cert file for TLS, PEM Format
+Cert=site.crt
+
+1; Private Key file for TLS, PEM Format
+key=site .key
+
+Parameter Description:
+
+1. protocol: protocol, currently supports WEB SOCKET, referred to as WS, WEB SOCKET over TLS, referred to as WSS;
+

@@ -1,0 +1,30 @@
+Professional digital intelligence solution provider
+
+Three safety protection categories
+
+
+
+3.1 Anonymous Anti-Zhangwall
+
+3.1.1 Product Introduction
+
+Anonymous anti-flood wall is an anonymous communication network product developed by Antao Information and is used by overseas network special agents.
+operation, through strong link encryption, multi-node jumps and random changes in exits, hiding the user’s real IP address,
+A product that enables anonymous surfing of sensitive information such as physical address and interactive content. The system can prevent sensitive information from
+Information is tracked and security risks are eliminated.
+
+(Anonymous antiwall operation pattern diagram)
+3.1.2 Product functions
+6. Anonymous Internet surfing: The system is connected to the Internet, and after passing through several relay servers, the real exit is hidden.
+Sensitive information such as real IP address and physical address can be used to anonymously surf the Internet. Protect sensitive information
+being tracked.
+> Port mapping: Supports mapping the corresponding service port of the intranet terminal to the corresponding peripheral server.
+The purpose of accessing intranet-related applications from the external network. It can be used in scenarios where it is necessary to accept data returned from the external network.
+use.
+
+
+
+
+
+Antao Information Technology Co., Ltd. 35/50
+

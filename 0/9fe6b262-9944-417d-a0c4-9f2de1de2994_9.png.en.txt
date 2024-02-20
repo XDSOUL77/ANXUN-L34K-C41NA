@@ -1,0 +1,234 @@
+4.2 "Remote configuration management
+
+"Windows Remote Control Management System" is targeting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After success, to adapt
+
+
+
+Standard Windows Terminal System ZR successfully and the background device comes online
+
+
+
+
+
+
+
+
+
+In response to changes in standard application scenarios, the system provides remote configuration management functions. The system uses remote configuration management functions to
+
+
+
+
+
+
+
+
+
+
+
+
+
+The system can reconfigure the IP and terminal of the currently controlled Windows system.
+
+ET
+
+
+
+
+
+
+
+
+
+
+
+
+
+number ensures the long-term effectiveness and reliability of the system.
+
+
+
+
+
+aco@n
+1
+66.After
+Do00other
+on co
+
+ae
+
+sky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Screenshot of remote configuration management interface)
+4.3 "Intranet cascading
+"Windows Remote Control Management System" is suitable for network environments where internal and external networks are isolated. When the target internal network device cannot be accessed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When asking about the Internet, you can
+
+Online operations.
+
+Others in the same domain can access
+
+4.4 “Resource Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+through target
+
+
+
+
+
+Comprehensive system files
+
+Machine program ZR, get
+
+
+
+
+
+mark operation permission,
+
+Combined management, browse related files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perform cascade installation on the devices on the external network to complete the installation of the target internal network devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can be remotely operated through the system background to operate on the target
+
+
+
+
+
+
+
+, upload, download, delete, execute,
+
+
+
+Naming and other operations.
+
+77/13
+

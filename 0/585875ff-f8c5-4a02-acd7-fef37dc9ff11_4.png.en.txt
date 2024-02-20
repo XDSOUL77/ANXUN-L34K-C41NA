@@ -1,0 +1,42 @@
+
+
+Chapter 3 Product Functions
+
+, Communication protocol: Support HTTP/WEB SOCKET, HTTPSVWEB SOCKET over TLS protocol;
+,Remote control function:
+
+1) Interactive shell command line;
+2) File directory browsing
+
+View graphically and support direct execution of an executable file;
+
+Supports directly entering the absolute path to browse the specified directory;
+
+Supports recording recently entered path information
+3) File transfer
+
+File upload, download, run, delete, small file content viewing, etc.;
+
+Supports breakpoint resuming, and supports pausing, starting, and deleting transfer tasks.
+Machine management function: Management of online hosts, supporting group management, modifying notes, modifying groups, etc.
+Machine log: record the target host name, user name, online IP, online time, offline time, basic hardware information of the host
+and other data;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+breath
+
+Page 2
+

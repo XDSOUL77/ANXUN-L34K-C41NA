@@ -1,0 +1,86 @@
+Professional digital intelligence solution provider
+
+
+
+Common protocols, databases and service types, including: FTP, HTTP, HTTPS, SMB, SNMP,
+MSSQL、MySQL、DB2、Postgres、POP3、SSH、SSH PUBKEY、Telent、NVC、
+WinRM。
+
+c) Credential reuse: The system supports the use of passwords or hashes obtained during penetration testing assessments to
+Test other hosts on the network to effectively test and discover possible horizontal expansion paths for users.
+
+d) Replay attack: For a successful penetration attack, after the session established with the target is terminated or disconnected
+Afterwards, there is no need to re-perform complex attack operations. You can choose to replay the attack directly, and you can root
+Reinfiltrate and establish a session based on the previous attack parameters.
+
+e) Springboard attack: For advanced usage scenarios, after successfully penetrating a host, the penetrated
+The host serves as a springboard for further attacks on other targets.
+
+> System management
+
+a) Report generation; the platform supports report generation in three file formats: HTML, PDF, and World, which can be customized
+Customized reports or use the built-in multiple report templates, including: audit, information collection, chest
+Weak hosting, leasing, services, social engineering activities, web application testing, etc.
+
+b) System settings: Support platform data backup, task monitoring, user account creation, role permissions
+Settings, system authorization management, setting periodic tasks, regular automated penetration inspections and other operations.
+
+2.3.3 Product parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick scan takes 1-5 hosts, average 30 minutes 30 minutes
+Default concurrent scan Default number of hosts scanned simultaneously 5 5
+Number of vulnerability libraries: 100,000+ Supported Supported
+Number of vulnerability check items: 300,000+ Supported Supported
+Maximum concurrent scanning Maximum number of hosts scanned simultaneously 10 10
+Total number of modules including utilization, auxiliary, post-penetration and other modules 4000+ 4000+
+Number of modules used Number of modules used only 1700+ 1700+
+IP number authorization Whether to limit the total number of target IPs Unlimited Unlimited
+Web operation interface Operation via browser interface Support Support
+Command line operation Through terminal command line operation Support Support
+Support ITPv6 Support IPv6 network scanning Support Support
+Independent property rights, complete autonomy of code, support, support
+Network includes operating systems, network equipment, databases,
+Wine, oil and related middleware, system software, etc. support "|. Support
+
+
+
+
+
+
+
+Antao Information Technology Co., Ltd.
+
+29/50
+

@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+
+
+
+
+
+| a Heaor a mouth habit
+File _ Edit View Help
+名 台Groups         HostID HostName    os     Address      Tags    Note
+The most pe station
+
+ss |
+
+
+
+
+
+
+Common log File Transfer | Host summary | TunnelinG
+
+
+
+
+
+
+
+and tog pate Content
+
+4 2019.08.07 16:51:58 。 Imitalize controlmodule I.
+3 2019.08.07 16:51:58 Initialze Plug-Remote ok
+
+2 2019-0807 16:51:58 。 Initiaize Plugin DLL ok。
+
+1 2019-08.07 16:5158 Initialize databse module ok
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People: 0 StartTines Gong's 8-7 16:52
+
+
+
+Figure 6.2: Control terminal main interface
+
+6. 3 Controlled end program configuration and installation
+
+
+
+
+
+6.3.1 Trojan configuration
+1. Use the Trojan Configurator program
+Parkca.der 291977131 15:54 Security Certificate
+Out conf64.dat 2019/8/5 14:06 AT file
+Cancer Reptile54.out 20191815 14:06
+Figure 6.3: Controlled end program directory
+File description:
+
+Ca. der: HTTPS is the certificate that needs to be used when using the WSS protocol. For details on how to generate the certificate, see the tools folder;
+
+Config64.exe: Trojan configurator;
+
+Conf64. dat: Configurator memory file, recording the last configuration information;
+Reptile64. out: Use the configurator to configure the generated Trojan program.
+
+Page 7
+

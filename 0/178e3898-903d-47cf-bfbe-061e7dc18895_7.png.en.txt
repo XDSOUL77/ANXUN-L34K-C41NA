@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+1 Scientific Internet Box-Desktop Version Product White Paper 1
+
+
+
+
+
+Running time: Oh 44m 40s
+MAC address; 94.83:C41B:6A:D3
+1" Receive: 2135 MB (124900 packets)
+bran sent: 23737 MB (80781 packets)
+1Pv4: 192.168.221124
+Ipvsh:fdcfezcha:balya:60
+
+state
+
+Transport protocol static address
+IPv4 address. 192468.2211
+1Pv4 subnet mask. 255.255.255.0
+IPv4 gateway
+IPv4 broadcast
+
+5.2.2 Wireless settings
+
+Currently, Scientific Internet Box-Desktop Edition supports 2 WIFI frequency band settings, 2.4GHz and 5
+GHz, users can choose different channels and bandwidths according to the actual network environment. The device supports
+WIFI6, further improves the user experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post Generic MAC80211802.1inacax (radio0)
+Imitation header: 36 (5.180 CHz) | Transmission rate; 288 Mbitla
+
+SslD:GHP-5G |Insertion:Master
+
+Next BSsiD: 394.83X4:IE6AD41 Friendship: WPA2 PSK(CCMP)
+
+Butterfly Generic MAC8O211802.1lbgnax (radiol)
+Header: 1(2.412 GII | Transmission speed 1Mbits
+
+SSID: GFP1 File: Master
+
+Book BSSiD:yas3CAE6ADo|Kamoto WPAZPSKICCMP)
+
+5.2.3 Network Diagnosis
+
+Provides 3 diagnostic tools, namely Ping, Traceroute, and Nslookup
+
+
+
+Net2 tools
+
+
+
+1Antao Information 1 Page 8 of 11
+

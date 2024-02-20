@@ -1,0 +1,52 @@
+Professional digital intelligence solution provider
+
+
+
+o)
+
+a)
+
+b)
+
+c)
+
+a)
+
+NetSparker, Nmap, etc.
+Permission acquisition: After the vulnerability is exploited successfully, the system supports selecting a series of exploits based on the penetration results.
+Execution codes and script programs written by exploiting holes can achieve the acquisition of target permissions.
+APT attack
+Email phishing: The platform supports specifying email sending servers and using Web page component cloning
+With fake websites, create an email content template for the fake website, and induce the target to
+Submit sensitive information to a created website, and ultimately collect target sensitive information for further attacks
+purpose of use.
+Browser attacks: The platform supports building an automatic browser detection through web page components
+With the exploited site, the target is induced to browse the specified site, and the browser vulnerability is successfully exploited.
+After that, the connection session is automatically established.
+File vulnerability attack: The platform supports file vulnerabilities such as 0ffice, PDF, pictures, etc. to generate attacks.
+Click the payload file. Induces the target to open or browse files, and automatically establishes a connection after the vulnerability is successfully exploited.
+Pick up the conversation.
+Web attack: The platform supports the extraction of specified range of web pages from the input URL, and the combined page
+Test with the Web Testing Module, including: Automated testing of the latest Web Top 10 listed by OWASP
+Potential security vulnerabilities, web server misconfigurations, cross-site scripting vulnerabilities, local text
+File inclusion and remote file inclusion, SQL injection vulnerability, file upload vulnerability, remote code execution
+vulnerabilities or remote command execution vulnerabilities.
+Other functions
+load generator
+1) Classic payload: The platform supports generating a variety of attack payloads for penetration testing. generated load
+The loader supports various operating systems and commonly used Web server-side languages, including: Linux.Unix,
+AIX、BSD、R、Windows、0SX、Netware、i0S、Android、Firefox、Java、
+Python, Ruby, NodeJS, etc.
+
+2) Dynamic payload: The system supports generating a variety of dynamically encoded attack loads targeting the Windows platform
+
+b)
+
+Evade detection by anti-virus software.
+Brute force cracking: The system supports brute force cracking of weak passwords and uses dictionaries to detect weak passwords in the network
+command, you can choose to select the certificate, default dictionary or imported dictionary in this project. Supports cracking various types of
+
+
+
+Antao Information Technology Co., Ltd. 28/50
+

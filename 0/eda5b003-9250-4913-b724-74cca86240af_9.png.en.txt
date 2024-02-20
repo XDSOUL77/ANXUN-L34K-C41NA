@@ -1,0 +1,214 @@
+all
+
+Technical documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. 1. Project Overview
+The company has a professional network attack and defense penetration team and a security research team, and with rich network penetration experience
+Through experience and mature intelligence acquisition and implementation processes, it is oriented to domestic public security law enforcement departments and based on public security
+According to the business needs of the department, perform intelligence acquisition tasks on specific targets to obtain key intelligence data on specific targets.
+or network system permissions. The company provides oriented services through the mining, collision, collection and organization of overseas big data.
+National cyber security agencies provide data mining services for certain specific targets. Combined with user unit network security work
+Business needs, during the construction of this project, our company provides users with professional and reliable intelligence data support services, mainly
+Contains electronic data a in a certain direction, electronic data b in a certain direction, and electronic data c in a certain direction to facilitate users to single-click
+can quickly grasp the target communication network and the dynamics of the target direction.
+3. 2. Data content
+The construction of this project mainly includes the following data content:
+Serial number | Service content Main fields Data volume (items) Start and end time
+Account identification number, complete name,
+First Name, Middle Initial Middle Name, Last Name
+Gender, year of birth, date of birth, user
+Name, identification number, work email, mobile phone number
+A certain direction of electricity |Industry, professional title, professional title role, job title, 2018/4/9 to
+1                               700，000, 00
+Subdata a | Subordinate role, professional title level, working company identity 2022/2/17
+Alias, name of the company where you work, the company where you work
+Company website, company size, work company
+Founder of company, company of work, company of work
+LinkedIn identification number, company location name,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

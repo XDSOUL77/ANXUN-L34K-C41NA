@@ -1,0 +1,78 @@
+5. Testing and acceptance
+
+
+
+
+
+
+
+
+
+
+
+After the project development is completed, Party B needs to conduct internal testing first and make corresponding test records.
+And provide test documents to Party A.
+In order to ensure the quality of the delivered tools, the test plan will be reviewed and approved by Party A and experts.
+Acceptance testing is possible. The acceptance test must be carried out in the presence of Party A and experts
+Provide complete acceptance test records and complete acceptance after passing the acceptance test.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,and
+
+
+
+
+
+Let people give in
+
+
+
+
+
+
+

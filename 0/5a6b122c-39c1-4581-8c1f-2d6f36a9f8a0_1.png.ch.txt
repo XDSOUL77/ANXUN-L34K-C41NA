@@ -1,0 +1,45 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1.1 ”内网业务管理模块esnnsnsnnnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnenensnsnnns6
+4.1.2 ”内网资源管理模块sssnnnsnnnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnenannnsnnnenennnns 16
+4.1.3 ”安全沙箱模块 .sensennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnennnns 18
+4.2 外网平台功能 22
+4.2.1 ”外网任务管理模块ersensnnsnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnsnsnnnnnennnns 22
+4.2.2 ”武器资源管理模块ssensnnsnnsnsnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnsnsnnnnnennnns 19
+4.2.3 ”作战环境管理模块ssesnnsnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnennnns 26
+4.2.4 ”链路资源管理功能.esrsrnsnnnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnansnsnnnnnennnns 31
+4.3 安全防护体系 .esesesnsnnnsnnnnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnnnessns 31
+4.3.1 ”基础安全体系 .essessnnnnnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnnenanssnsnnnennnns 31
+
+4.3.2 ”数据安全设计 32
+

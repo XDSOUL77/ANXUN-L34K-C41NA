@@ -1,0 +1,71 @@
+4.4 System management
+Users can view and monitor the real-time data and status of the backend server through the "System Management" toolbar, including server usage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Memory, configuration capacity, number of nodes, number of cores, IP addresses, etc. Through system management, customers can promptly discover whether the server is working or not.
+
+
+
+
+
+
+
+
+
+
+
+Abnormalities or insufficient memory problems can be dealt with as early as possible.
+
+
+
+114. Khadtab
+
+
+
+
+
+
+
+(System Management)
+
+8 /24
+

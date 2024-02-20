@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.1 "Intranet business management module esnnsnsnnnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnsnnnnnenensnsnnns6
+4.1.2 "Intranet resource management module sssnnnsnnnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnannnsnnnenennnns 16
+18
+4.2 External network platform functions 22
+4.2.1 "External network task management module ersensnnsnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnennnns 22
+4.2.2 "Weapon Resource Management Module ssensnnsnnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnennnns 19
+4.2.3 "Combat environment management module ssesnnsnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnnnnns 26
+4.2.4 "Link resource management function.esrsrnsnnnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnansnsnnnnnnnnns 31
+4.3 security system
+4.3.1 ” basic system
+
+4.3.2 "Data security design 32
+

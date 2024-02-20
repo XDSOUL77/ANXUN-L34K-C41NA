@@ -1,0 +1,274 @@
+ 
+
+ 
+
+脚本程序，实现对目标权限的获取。
+4.2 WEB 应用测试
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+集成 Web 扫描、测试、审计功能，可以方便地对 Web 应
+
+ 
+
+ 
+
+ 
+
+ 
+
+XSS、上传漏洞、命令执行等漏洞的检测及验证。
+
+进行扫描有
+
+ 
+
+ 
+
+ 
+
+ 
+
+台支持对输入的 URL 进行指定范围网页的朴取，对页面使
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+计,支持 SQL 注入、
+
+ 
+
+Web 测试模块进行测试，包
+
+括: 自动测试 OWASP 列出的最新 Web 十大安全漏洞隐患、Web 服务器存在错误配置、跨站脚
+
+ 
+
+本攻击漏洞、本地文件包含与远程文件包含、SQL 注入漏洞、文件上传漏洞、远程代码执行漏洞或
+
+ 
+
+远程命令执行等漏洞。
+
+[op AoE ID
+
+ 
+
+ 
+
+| 可Web捕 国Wab育计_“画Wet利用 会开除
+
+ 
+
+[入          |
+淮
+晶县”继，钙          相公                               条 太        到
+襄 SO SOLedenbing   192 .188 73 31                耕”盯 1as      nipulatale response ines
+诗                                                   五
+
+Pap21192168.23.131/mutllcashncludes pop-Jp-elp-ccntext
+eratorphp
+
+http:1492 168 .23 131hnuilicasfncludeapop up melp ecntoxtt
+ieratDrphp
+
+Hap.1192 158 23.131hnuilicasfndex php                              100
+Pu.y192 183 23 131hnulicaefndex php                              109
+Ptp-7192 168 .23 131imutlicasfndax php                                 100
+hip:/492 .160.23.131hmuilicasfndey php                       109
+tp:/192 180.23 131hmnuilicasfndey .php                       100
+htp-y192 188.23 131hnutilicasfndex php                                   109
+mp:192 168.23 131hnutlicaafnday php                 100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Web 应用测试)
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.3 ”智能油洞验证
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“自动化渗透测试平台”具备强大的漏洞验证和匹配功能，
+
+ 
+
+DRAas 一
+印划合宦二
+
+FIT国
+
+ 
+
+方安全扫描工具, 并
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+且可通过平台直接调用相关工具进行漏洞扫描和验证，并且系统可|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+稳针对漏洞扫描和验证的结果
+
+进行导入,为平台提供更多的漏洞利用数据, 为相关的渗透工作中提供更多的漏洞组合,以实现对
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+标的快速渗透。
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nexpose、Nessus、NetSsparker、Nmap 等。
+
+“自动化渗透测试平台"支持多种第三方安全扫描工具扫描结果导入和漏洞验证.如绿盟极光、
+
+启明星帮天镜.Acunetix.Amap、AppScan、Burp、Core ImpactFoundstone、Microsft MBSA、
+
+11 /15
+

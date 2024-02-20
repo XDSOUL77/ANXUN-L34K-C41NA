@@ -1,0 +1,274 @@
+
+
+
+
+Script program to obtain target permissions.
+4.2 WEB application testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrated web scanning, testing, and auditing functions make it easy to
+
+
+
+
+
+
+
+
+
+Detection and verification of XSS, upload vulnerabilities, command execution and other vulnerabilities.
+
+Scanning with
+
+
+
+
+
+
+
+
+
+The platform supports fetching the specified range of web pages for the input URL, and using the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Design, support SQL injection,
+
+
+
+Web test module for testing, including
+
+Including: automatic testing of the latest top ten web security vulnerabilities listed by OWASP, web server misconfiguration, cross-site vulnerability
+
+
+
+This attack vulnerability, local file inclusion and remote file inclusion, SQL injection vulnerability, file upload vulnerability, remote code execution vulnerability or
+
+
+
+Remote command execution and other vulnerabilities.
+
+[on AoE ID
+
+
+
+
+
+| Can be caught on the web. National Wab Education Plan_"Use of drawing Wet will result in expulsion"
+
+
+
+[Enter |
+Huai
+Following Jingxian County, Cai Xiangongtai arrived
+襄 SO SOLedenbing 192 .188 73 31 ploughing" stare 1as nipulatale response ines
+poem five
+
+Pap21192168.23.131/mutllcashncludes pop-Up-help-context
+eratorphp
+
+http:1492 168 .23 131hnuilicasfncludeapop up melp ecntoxtt
+ieratDrphp
+
+Hap.1192 158 23.131hnuilicasfndex php                              100
+Pu.y192 183 23 131hnulicaefndex php                              109
+Ptp-7192 168 .23 131imutlicasfndax php                                 100
+hip:/492 .160.23.131hmuilicasfndey php                       109
+tp:/192 180.23 131hmnuilicasfndey .php                       100
+htp-y192 188.23 131hnutilicasfndex php                                   109
+mp:192 168.23 131hnutlicaafnday php                 100
+
+
+
+
+
+
+
+
+
+
+
+(Web application testing)
+
+
+
+
+
+
+
+
+
+4.3 "Smart Oil Cave Verification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The "automated penetration testing platform" has powerful vulnerability verification and matching functions.
+
+
+
+DRAas 1
+Seal combined with eunuch 2
+
+FIT country
+
+
+
+side security scanning tools, and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And relevant tools can be directly called through the platform for vulnerability scanning and verification, and the system can |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stable results of vulnerability scanning and verification
+
+Import to provide more vulnerability exploitation data for the platform and more vulnerability combinations for related penetration work to achieve
+
+
+
+
+
+
+
+
+
+
+
+
+
+The target penetrates quickly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nexpose、Nessus、NetSsparker、Nmap 等。
+
+The "automated penetration testing platform" supports the import of scanning results and vulnerability verification from a variety of third-party security scanning tools. Such as NSFOCUS Aurora,
+
+Daystar Help Sky Mirror.Acunetix.Amap, AppScan, Burp, Core ImpactFoundstone, Microsft MBSA,
+
+11 /15
+

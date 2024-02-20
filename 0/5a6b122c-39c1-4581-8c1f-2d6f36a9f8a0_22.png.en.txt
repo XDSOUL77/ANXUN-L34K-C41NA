@@ -1,0 +1,130 @@
+
+
+Take screenshots and record various malicious behaviors such as name modification.
+
+
+
+
+
+
+
+4.1.4.2 Weapon management function
+
+
+
+
+
+
+
+
+
+The weapons library management function mainly includes comprehensive management and maintenance applications of various weapons resources on the external network, and mainly provides weapons storage management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It has five major functions: weapon storage management, weapon information annotation, weapon classification encrypted storage, and weapon download log recording. through weapons
+
+Standardized management of libraries,
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ensure weapons are used legally and compliantly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Weapons storage management function: The weapons storage management platform provides basic functions such as weapons storage, retrieval, and display.
+
+[on
+
+
+
+
+
+(Weapon management list)
+
+
+
+
+
+2) Weapon storage management function: Weapons from each manufacturer and related documents such as instructions for use are stored in the weapons depot and stored in the weapon
+
+
+
+
+
+
+
+
+
+
+
+The library management platform generates corresponding records.
+
+
+
+
+
+
+
+3) Weapon information annotation function: Weapon maintainers can make comments based on manufacturer, weapon category, name, etc. on the weapons depot management platform
+
+
+
+
+
+Retrieve. The weapon library list displays the category, three brands, versions, ratings, authorization expiration time, and USB of the weapons in the current weapons library.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key end
+
+
+
+
+
+and information such as whether it has expired.
+
+20 /32
+

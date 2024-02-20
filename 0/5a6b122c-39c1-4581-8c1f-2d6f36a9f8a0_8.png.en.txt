@@ -1,0 +1,110 @@
+4 product features
+4.1 Intranet platform functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The intranet platform mainly includes an intranet business management module and an intranet resource management module. The intranet business management module is an integrated
+It is an integral part of the integrated management platform and is an important link in realizing a complete closed-loop process; the intranet resource module is mainly used to manage various intranet resources and
+Comprehensive management of external network return resources. To ensure intranet security, a security sandbox module will be deployed on the front end of the intranet resource management module.
+
+
+
+already
+
+1
+
+
+
+(Intranet 3
+
+
+
+
+
+
+
+[1
+
+
+
+
+
+
+
+front page
+
+Add :me four sm back to wa
+
+and ask notes
+100   20   20    100 20  20 20     1000
+Add se plus sm to account for ms
+Country 1 100 20 20
+
+ee 4666 20 ” quangequan WE Wang Ri
+
+He
+
+The period is prosperous 2 times. 5886-2
+
+two
+
+ma ten over 4 2 68669-
+
+(Intranet platform home page)
+
+4.1.1 Intranet business management module
+
+
+
+6 /32
+

@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weapon authorization update function supported
+Weapon upgrade update function supported
+Historical version tracing function supported
+Weapon update logging function supported
+[0
+Cloud host management function supported
+Template management function supported
+Terminal access function supported
+Data return function supported
+Task note function supported
+
+
+
+
+
+
+
+
+
+6 Product Deployment
+6.1 "Applicable environment
+The integrated combat platform is a set of systems that can achieve a high degree of business integration, efficient and intensive resources, efficient and practical collaboration while building a complete security system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A full-system professional system platform suitable for network TZ teams to conduct collaborative and efficient operations to achieve full integration of various resources,
+
+
+
+
+
+
+
+
+
+Create safe and concealed technical measures, scientifically manage the use mechanism of TZ weapons and equipment, establish and improve TZ task process specifications, etc. TZ comprehensive
+
+
+
+
+
+
+
+
+
+Suitable business scenarios.
+6.2 Deployment method
+The integrated combat platform is mainly divided into two parts, namely the intranet business comprehensive management platform and the external network combat application management platform.
+
+
+
+
+
+
+
+
+
+
+
+shame
+
+
+
+
+
+
+
+
+
+The intranet business comprehensive management platform is deployed in the absolute intranet (can be deployed in the network security private network), and the external network combat application management platform is deployed in the available
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In a secure computer room connected to the Internet. In order to fully ensure the security of interaction between the internal and external networks of the platform, offline is used when transmitting instructions from the internal network to the external network.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this
+
+[Encrypted transmission (non-physical connection), external network platform to internal network platform
+
+
+
+
+
+Positive
+
+
+
+
+
+When transmitting data, the data is transmitted in one direction and a light gate is added to the link.
+
+
+
+
+
+
+
+
+
+3
+
+Microdata transmission is securely controlled.
+(1) "Integrated intranet business management platform
+
+38 /32
+

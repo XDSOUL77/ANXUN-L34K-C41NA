@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Contract number Contract name Signing party Corresponding sales items Signing time Contract amount Product description
+
+1 52000233/1215000 "Purchase Contract" Department of Information Security Information Security Technology Bureau 2016.01.11 874360.00 SC-CG20150022 Project
+
+2 2 5000616/1215000 "Purchase Contract" Learn from Yueming Hand-Moved Information Security Technology 2016.01.11 895800.00 SC-CG20150076 Project
+
+3 |/ "Contract for the Sale of Goods" Jiangsu Longchuang Information Technology Co., Ltd. 2017.2 20000.00 Firewall
+
+4 1/person Hangzhou Yagu Technology Co., Ltd. 2018.6.25 111199.00 Yagu mobile terminal remote control software
+
+5 "|2zo18o62802 "Technical Service Contract" Jinan Ruite Security Equipment Co., Ltd. 2018.6 10000.00 Obtain specific email data service
+
+6 "|2o18092001 "Technical Service Contract" Shaanxi Xiangxiang Network Technology Co., Ltd. 2018.9 160000.00 Data acquisition service
+
+7 "|2o190505o01 "Technical Service Consulting Contract" | Fujian Zhongrui Electronic Technology Co., Ltd. 20195 120000.00 Sharp Eye Data Analysis Service
+
+8 "|2o19041201 "Technical Service Contract" Yunnan Paitu Technology Co., Ltd. 2019.4 46650.00 Maoya browser and network camera
+
+9 |stshrleo7o04 Secondary Effect Avoidance Analysis Platform Erguang Chengdu Silisi Network Technology Co., Ltd. 20198 750000.00 Heliu Loukou Analysis Full Allowance
+
+10 |/ Technical Service Contract China Tiancheng Physics Research Program Vigor and Practical Erhe District Xinzhi Eryou 2020.1.3 18000.00 Stroke Six Functions and
+Customized projects, 46.9W project software testing services
+
+11 |/ Software Development Entrustment Contract Si Xuji 20205 450000.00 PCM Development
+
+12 |/ "Technical Service Contract" Jinan Lihuaruite Information Technology Co., Ltd. "|Luoyang Netsecurity 38W 2020.8.14 120000.00 Data acquisition service
+
+14 |zw-2020-CG071001 "|Software Sales Contract Shanghai Tanze Information Technology Co., Ltd. Lhasa 333.5704w 2020.9.3 100000.00 Detection System V40 One
+
+15 |2018GFTJ006-03 Software Sales Contract Shanghai Tanze Information Technology Co., Ltd. Yancheng 177W 2020.9.3 300000.00 More Detection System V4.0 Three
+
+16 |/ The relevant terms and conditions of the purchase and sale contract are by nature Yunnan Provincial Department 26W 2020.12 168000.00 Service and 6400 Ke Lai website point ordering
+
+17 |/ Service Agreement Henderson (Shandong) Information Consulting Co., Ltd." | Chongqing 695W 2021.1 93000.00 Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

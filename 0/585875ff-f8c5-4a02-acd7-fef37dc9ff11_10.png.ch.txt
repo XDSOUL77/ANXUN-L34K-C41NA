@@ -1,0 +1,92 @@
+贺 :tone x64                                                        一            X
+
+Linux
+入旋         es                                           Group     ES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Passwor中       123456
+
+ 
+
+ 
+
+ 
+
+ 
+
+四HTTP     192.168.8.1588080
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HTTPS                                                     | SaupceatpahHae              匿
+
+ 
+
+ 
+
+ 
+
+Generale
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+图6.4: 配置器界面
+参数说明:
+1) TAG: 标签，用户可任意设置
+2) Group: 组设置，设置之后，该主机将在控制台中显示在该组中;
+3) Password: 通信连接的 key，与控制端配置文件 hector. ini 中的; cypher key for
+
+ 
+
+communication 值一致;
+
+协议， (目前只支持一次只支持配置一种协议)
+
+http 对应控制端配置文件 hector. ini 中 贴 协议;
+
+https 对应控制端配置文件 hector. ini 中 WSS 协议，且需要导入证书;
+2、配置: 控制端的 ITP+对应协议开启的端口
+
+才
+
+ 
+

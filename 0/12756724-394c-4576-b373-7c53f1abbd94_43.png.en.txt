@@ -1,0 +1,33 @@
+Professional digital intelligence solution provider
+
+4.4 Skywalker Data Query Platform
+441 Product Introduction
+The Skywalker data query platform is a set of services that provide targeted logistics information and network identity information.
+A dedicated confidential application system for real-time query. The platform is supported by logistics information and synchronizes relevant target information.
+Achieve comprehensive acquisition of target person information.
+The Skywalker data query platform is provided to customers for use based on cloud services. Users are authorized to
+The dongle can be used to log in to the system and use the functional modules of each system.
+
+
+
+
+
+Authorized User 2
+
+(Operation form diagram of Skywalker data query platform)
+
+442 product features
+
+> "Basic information query: Enter any key of the phone number, email address, and user name of the target to be queried.
+By typing, basic information such as the target’s name, ID card information, household registration address, etc. can be queried.
+
+>Logistics information query; after querying the target person’s information, you can close the query based on the query keywords.
+Query to find out the target’s logistics information address.
+
+>Related data query (under development): After querying the target person information, you can
+Keywords can be associated to query the target's user ID, email address and other information.
+
+
+
+Antao Information Technology Co., Ltd. 44/50
+

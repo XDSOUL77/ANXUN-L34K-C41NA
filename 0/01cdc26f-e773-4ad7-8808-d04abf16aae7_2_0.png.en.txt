@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home area | Target type Target name Domain name Sample data volume "| Data type Sample date Permission description Original permission group Remarks
+A group
+Myanmar MPT Communications Company 11GB. Call bill 2020.06- 2021.09_|Unknown permissions A group of sample data is the user’s basic profile information, the main fields; mobile phone number, name
+Hong Kong Operator CSL Communications Company 82.3MB. User Table 2020.06- 2021.11 | Unknown permissions Group 2 Main fields: Owner’s mobile phone number, account number, social security number, address, etc.
+Government of India, Ministry of Home Affairs, Presidency Po 5.49GB, PC file 2021.04- 2021.10_| All machines capable of producing documents are in one set. The samples are documents from multiple offices of the Ministry of Home Affairs.
+Group 2
+Myanmar Government Government Department Postal Service on e-mofa.gov.mm 1.06GB Email 2021.05.26, Unknown permissions Group 2
+Three groups
+Hong Kong Education Association for Democracy and People's Livelihood adplctc.org 89.4MB. User table 2021.05 Permissions lost Main fields: Personnel name address, company information, physical condition, etc.
+Hong Kong Government College Entrance Examination Student Data 430MB. Email 2017-2020 Permissions lost Main fields: User’s email, address, name, phone number, website, etc.
+Vietnam Government Bureau of Human Resources and Social Security molisa_ gov.vn permission has been lost, there is a hash
+soft open
+Operator 2TB. CDR 2016- 2018 Permission lost Soft open Sample main fields: bid, type, payment information` service process, country code, work code, etc.
+Antao Cloud 3.31GB. Data sheet Permission loss Soft opening Name, address, phone number, etc.
+Kazakhstan | Antao Cloud 14.8GB data sheet permission loss soft opening name, address, etc.
+South Korea Antoyun Population Korea_99, 10.5MB. Data table Permission lost Soft open: name, address, phone number, birthday and other information
+South Korea Antao Cloud population data 14.7GB. Data table permission loss soft open main data fields: name, address, phone number, etc.
+South Korea Operator LG U+ Operator 3TB, CDR 2019- 2021 | Permission Lost Soft Open
+Myanmar Antao Cloud operator data 4.03GB. Data table permission loss soft open main data fields: phone number, etc.
+Taiwan Antao Cloud population data 17GB. Data table permission loss soft open Main data fields: name, email, address, phone number, etc.
+Taiwan Operator VIBo Communications Company 2.23GB User Table Permission Lost Soft Open Main Fields: Owner ID, phone number, address, email, etc.
+Three data, cancer attack -
+Taiwan Road Information Data 459GB Modeling Data 2021 Unknown Permissions Soft Open The sample contains 3D building model data of cities in Taiwan, as well as 34 and database data of Taiwan 108 and Taiwan National Highway, 3D models of buildings in Taiwan cities
+Turkey Population Data 13.4GB. Data Table Permission Lost Soft Open Data Main Fields: Name, ID, Address, Birthday and other information.
+Hong Kong Mobile Number 9.23MB Data Sheet 2009- 2016 | Permission Lost Soft Open Data Main Fields: Name, Social Security Number, Mobile Number, etc.
+Hong Kong PCCW operator data 245MB. User table 2015 - 2016. Unknown permissions. Soft open. Main fields: owner name, address, number, user password SSHA and belonging server, etc.
+Hong Kong Hutchison Telecom 5.54GB. User table 2021.05 Unknown permissions soft open Main fields: owner name, address, server to which the number belongs, etc.
+Hong Kong Citizen Data 11.1MB. Email Permission Lost Soft Open Main Fields: User's Email Address, Name, Phone, Website, etc.
+India Population Data 3.19GB Data Table Permission Lost Soft Open Data Main Fields: Name, Address, Phone Number, etc.
+Vietnam Operator Data 38.9MB. Data Table Permission Lost Soft Open Data Main Fields: Address, Email, Password ` Login Information, Name, etc.
+Thailand Operator tot Operator tot.co. th The permissions are unknown and some users’ computers are under control
+China Zong Zhi Fei Course amaya. COmL Permissions are unknown Website background permissions can query user data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

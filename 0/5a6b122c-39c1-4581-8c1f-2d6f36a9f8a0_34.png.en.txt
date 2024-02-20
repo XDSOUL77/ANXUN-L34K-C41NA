@@ -1,0 +1,311 @@
+
+
+
+
+
+
+Consider using masked identities to carry out the above-mentioned basic security system construction work.
+
+
+
+
+
+
+
+
+
+4.3.2 Data security design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data security is the technical and management protection measures adopted for the storage and transmission security of platform data to protect computer hardware.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+software, operating systems, software and data are protected from malicious
+
+
+
+The reasons include destruction, editing and leakage.
+
+
+
+One is data storage security. The storage device has
+
+
+
+
+
+
+
+Level-one high-reliability design supports concurrent access and ensures that all cloud services on the cloud platform
+
+
+
+
+
+
+
+to provide customers with uninterrupted business and prevent 3
+
+Authorized access h
+
+
+
+
+
+. Security measures include:
+
+avoid|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) User identification information and auditing
+
+
+
+The integrity and confidentiality of key information such as records shall be protected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2) Effectively isolate the storage data of different cloud service customers in the cloud platform.
+
+
+
+3)
+
+Yan Sha
+
+And notify the relevant responsible persons.
+
+
+
+
+
+
+
+
+
+
+
+Take corresponding technical measures to monitor storage hardware resources and storage software resources in real time, and report abnormal situations in a timely manner.
+
+"Wen" has corresponding measures at the physical level and software level, such as disk excess queue, regular backup, redundant storage, and encrypted storage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+and isolated storage to prevent data loss or illegal access.
+
+
+
+The second is data transmission security. Data transmission security means that data can be safely and completely transmitted from the external network back to the internal network. There is no data loss in the process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leakage of data and data sources. Data transmission security is achieved from three dimensions: access security, data security and transmission channel security.
+
+
+
+
+
+
+
+
+
+
+
+1) The data recipient can use the whitelist method to control the source of the data, and use network security equipment to monitor the data in real time
+
+
+
+
+
+
+
+
+
+
+
+
+
+and early warning.
+
+
+
+
+
+
+
+
+
+2) Data must be encrypted before transmission. Data cannot be encrypted or decrypted during the transmission process. Data encryption requires
+
+To achieve one-time padding, the receiving party needs to verify the integrity of the data after the transmission is completed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3) The transmission channel needs to use a covert link to hide both the sender and the receiver to prevent traceability. The transmission channel needs to understand the source and purpose of the data
+
+
+
+Strict control shall be carried out to ensure the principle of minimizing access.
+The third is the safety of the combat environment. Combat environment security is to ensure the security of the cloud host environment during the execution of tasks, so that
+
+Meet the following requirements:
+
+1 Support firewall enablement of host operating system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and configuration.
+
+
+
+
+
+32 /32
+

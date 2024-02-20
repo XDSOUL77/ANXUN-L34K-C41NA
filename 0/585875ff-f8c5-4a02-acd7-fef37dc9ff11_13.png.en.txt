@@ -1,0 +1,58 @@
+7.1.1 Instructions for using a single plug-in
+In the console, you can issue plug-ins to an online host individually. The specific steps are:
+
+1. Select the online host to which the plug-in is to be distributed in the host list on the right side of the console, right-click and select in the pop-up menu bar.
+"Host Panel" menu item opens a single delivered plug-in window, as shown in the figure;
+
+
+
+
+
+
+
+
+
+
+
+solid heador
+[this tm wav Hep
+1 person has Host Hoathene plus area Togn [2 Easttogn Lesttogeut
+eaaivete Hom
+Refresh
+Change Group
+Chares No
+elete He
+
+Figure 7.1: Host panel window
+
+
+
+
+
+2. Select the plug-in type in the single delivery plug-in window and click the "Update Ext" button to update the selected online host.
+
+The selected plug-in is distributed
+Painting np:1Tonine one song station
+
+
+
+
+
+RemotcjName  Patomm TypeiD Verson Size State
+
+
+
+
+
+
+
+
+
+Figure 7.2: Manually distributing plug-ins
+
+3. Right-click on the host below and select "Refresh host Exts" to update and upload the plugin you just selected.
+
+
+
+pageua
+

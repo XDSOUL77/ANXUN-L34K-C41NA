@@ -1,0 +1,173 @@
+
+
+
+
+
+
+(Weapon information annotation)
+
+Wen, weapon classification encrypted storage function: classification includes but is not limited to attack, defense, penetration, reconnaissance, control, secret extraction, cracking
+
+
+
+
+
+
+
+
+
+Weapons for various types of missions, and various weapons and tools are stored in an encrypted manner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5) Weapon download logging: The weapons library provides logging of the behavior of weapons downloaded by mission personnel for convenience
+
+
+
+
+
+Conduct traceability management and safety audits.
+
+
+
+4.1.4.3 Weapon library update function
+
+
+
+
+
+
+
+
+
+
+
+
+
+The weapon library update function mainly provides management and application functions for weapons that need to be eliminated, expired, and need to be upgraded, and provides weapons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The authorized update function provides weapon upgrade and update functions, historical version tracing, and weapon update log recording functions.
+
+
+
+
+
+
+
+
+
+1) Weapon authorization update function: Weapon updates include authorization updates and version updates. When the authorization of a weapon is about to expire,
+
+
+
+
+
+
+
+The weapon maintainer will notify the user or the relevant weapons maintainer to update the authorization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2) Weapon upgrade and update function: When the current version of a weapon becomes outdated or invalid, the arsenal administrator will notify the user or related weapons
+
+
+
+
+
+
+
+The maintainer performs version updates.
+3) Historical version tracing function: After the weapon version is updated, the installation source files of the three versions before this version update will be retained.
+
+
+
+
+
+
+
+
+
+
+
+When problems arise during use of the updated weapon, version |
+
+
+
+
+
+
+
+
+
+Flooded.
+
+
+
+
+
+
+
+Positive
+
+
+
+
+
+
+
+
+
+"Wen" Weapon update log recording function: The module will log and collect statistics on the updated weapons, and can grasp the weapons in real time.
+
+
+
+
+
+
+
+21 /32
+

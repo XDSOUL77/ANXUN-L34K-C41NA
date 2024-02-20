@@ -1,0 +1,87 @@
+6.1.2 被控端-door
+
+国 cader                                      201917/31 15.54 安全证蔬
+
+鹿corf64dat                                            2019/8/5 1406 DAT 文件
+
+国 confg64.axe                                         2019/8/5.11:49。 应用程序
+
+加 Reptile64:out                                         2019/815 14.06 OUT文件
+说明:
+
+Config64. exe: 木马配置器程序;
+Ca. der: 配置 https 协议的证书;
+
+ 
+
+6.1.3 证书工具
+
+注: 具体的使用详见 MakeSelfSignedCert. txt 文档
+国 cert write.exe                                  201977/4 10:065       应用程序
+国 gen_key.exe                                    2019/7/4 10:05       应用程序
+ MakeselfsignedCertbtt                2019/7/130 11:03 文本文由
+国 pemz2derexe                              2019/77/4 10:06      应用程序
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.2 控制端配置及开启
+6.2.1 修改配置文件 Hector. ini
+
+国 pugin                           2019/81115514 文件去
+
+ 
+
+2 KB
+
+T KB
+5.696 KB
+1717 KB
+
+255 KB
+178 KB
+过KB
+76 KB
+
+ 
+
+力 pue-out
+国 Engine dl
+口 Enginepdb
+图 fleManagerd
+全Hedarae |外Ws = WEB SOCKET WSS = WEB SOCKET over
+图 Heaoriai     Protocol=WS
+
+癌 Hecterpdb      加有
+国 mfostoragedl; Listening Port
+癌 infostoragep
+国 mfclooudlf
+园 mswcploodl | cypher key for communication
+
+园 msverloodll |ComKey=123456
+国 satkesall
+
+嘿terminalexe
+
+ 
+ 
+ 
+  
+
+Cert flle for TLS, PEM Format
+Cert=site.crt
+
+1; Private Key flle for TLS, PEM Format
+Key=site .key
+
+参数说明:
+
+1、protocol: 协议，目前支持 WEB SOCKET，简称 WS，WEB SOCKET over TLS，简称 WSS;
+

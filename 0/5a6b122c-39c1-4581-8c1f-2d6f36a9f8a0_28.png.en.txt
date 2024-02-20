@@ -1,0 +1,194 @@
+Please create a battle platform
+
+
+
+task management
+People please. Everyone has. Civilian management. The party has its own problems. Host Ying. Use CE
+
+
+
+Test map ~ hello
+name
+add
+EEC |
+(mind Mapping)
+
+
+
+
+
+
+
+4.2.2 Combat environment management module
+The combat environment management module mainly provides cloud host management functions, template management functions, data return functions, task note functions,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terminal access function.
+
+4.2.2.1 Cloud host management function
+
+
+
+
+
+
+
+
+
+
+
+
+
+1T) Task cloud host function: Task cloud host needs to be created in an established task, and a new task requires a valid task 2D
+
+
+
+
+
+
+
+
+
+
+
+
+
+code and scan for authentication. The way to verify the task QR code here is the same as logging in to the external application cloud platform, supporting multiple
+
+
+
+
+
+
+
+
+
+Ways of identifying:
+
+
+
+
+
+
+
+
+
+Reference_Manual input: Obtain the login verification code through the mobile APP (the verification code is valid within 60S and can only be used once),
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implement verification code authentication, and then log in to the platform through auxiliary authentication with an additional security code.
+
+
+
+
+
+b) Matching login: Scan the personnel login QR code through the PC or mobile terminal camera, and then perform identification and verification in the background.
+
+
+
+
+
+Tribute login.
+
+
+
+
+
+
+
+
+
+9 Key login: The key here refers to the QR code for personnel login
+
+
+
+file, and the key is identified and verified in the background.
+
+
+
+district
+
+
+
+Then log in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After the task is created, the user can set the parameters of the task cloud host according to actual needs, and the configuration limit of the task cloud host
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Number of CPU cores, memory size, hard disk size), the weapons that can be installed are determined by the mission information carried by the mission QR code.
+
+26 /32
+
+
+
+
+
+
+
+
+
+
+

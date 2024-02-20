@@ -1,0 +1,213 @@
+In order to ensure that key information can be quickly queried in massive email data, key evidence can be locked, and research and judgment efficiency can be improved, "Email Analysis Intelligence Decision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The construction of "policy system" should be able to achieve rapid analysis and second-level retrieval of terabyte-level email data. Users can use keywords, that is,
+
+
+
+
+
+
+
+
+
+
+
+Quick search and query of related emails can be realized.
+)"Email target analysis function
+In order to ensure that a single individual's email can be analyzed in a massive amount of emails, the relevant information of the individual is highlighted. Department of Analytical Intelligence and Decision Making
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The construction of the system should be able to meet the comprehensive analysis function of a single target email, and can realize the semantic habits and relationship network of the target email.
+
+
+
+
+
+
+
+Analyze and display comprehensive data such as network and personal information.
+5) "Email analysis collaboration function
+
+
+
+
+
+
+
+
+
+In order to establish email correspondence between groups or organizations, record the activities of the target group or organization in an organization chart. Email analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The construction of "Intelligence Decision-making System" should be able to realize collaborative analysis by multiple people. The system can realize various types of marking, notes and other functions for different emails.
+
+
+
+and group management to facilitate internal collaborative analysis.
+(4) "Email data management function
+In order to manage massive email data more effectively... The construction of "email analysis and intelligence system" should be able to realize the analysis of emails
+
+
+
+The comprehensive data management function provides real-time control of the total amount of system email data, email language types, etc., ensuring that the system can operate reliably and stably.
+
+3 Product Introduction
+
+3.1 Product introduction
+
+The "Email Analysis Intelligence Decision System" is developed and designed based on text recognition big data technology, supporting rapid identification of massive email data.
+Analyze and extract intelligence information such as keywords, sensitive words, person relationships, contact information, etc.
+
+3.2 "Product composition
+
+The "Email Analysis Intelligence Decision System" supports two forms: private cloud and public cloud. The private cloud means that the user builds a complete set of local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It is an independent platform; the public cloud adopts the SaaS model, using |
+
+
+
+
+
+
+
+
+
+You can log in using the authorized account.
+
+
+
+
+
+
+
+
+
+The product composition list of "Email Analysis Intelligence Decision System" (Private Cloud) is mainly as follows:
+1. Platform server deployment software: 1 set
+
+
+
+2 /115
+

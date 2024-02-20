@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+The "Individual Soldier Toolbox" is suitable for penetration testing of various network sites and can be used as a special reconnaissance method to remotely control targets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Management and acquisition of data intelligence resources.
+
+
+
+
+
+
+
+
+
+The platform performs cluster management of various network special investigation tools through high-performance notebooks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open the "Individual Soldier Toolbox" and connect to the network to carry out special reconnaissance work on the target.
+
+
+
+
+
+
+
+
+
+6.2 Deployment method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The "Individual Soldier Toolbox" is designed for:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special investigation software is a technical means to carry out special investigation work on targets. Specific computer configuration requirements are as follows:
+Item Parameters
+Processor Intel Core i7-7700HQ, 2.8Ghz
+Motherboard Intel | CM238 Chipset
+Memory 16384MB (2x8GB) DDR4-2666 SO-DIMM dual channel memory
+Hard drive capacity 1T+256GSSD
+Screen size 15.6 inches
+
+
+
+
+
+
+
+
+
+
+
+Just call
+
+|A comprehensive management platform for special investigation software tools, using high-performance notebooks as the carrier, with professional
+
+18 /17
+

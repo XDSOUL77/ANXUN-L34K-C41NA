@@ -1,0 +1,68 @@
+Professional digital intelligence solution provider
+
+Four other product categories
+
+
+
+4.1 Domestic public opinion tracking system
+
+4.1.1 Product Introduction
+
+The domestic Austrian information investigation system is a set of services for actual combat, targeting Baidu, Sina, Tianya and other Internet
+A dedicated confidential application system for real-time query of netizen registration information on mainstream interactive network platforms.
+
+4.1.2 Product functions
+
+> Sina Weibo information query: Weibo link or nickname query mobile phone, mobile phone or email query Weibo
+
+ID、
+
+1)
+
+2)
+
+3)
+
+thin
+
+Weibo history login IJP, Weibo picture traceability.
+
+Query mobile phone via Weibo link or nickname: You can associate it with Sina Weibo URL or nickname
+Sina Weibo user’s registered mobile phone number and email address.
+
+Query Weibo ID via mobile phone or email: You can associate its new
+Lang Weibo nickname or ID.
+
+Weibo historical login IP: Through the Sina Weibo nickname, you can associate the account’s historical login IP
+Record the IP, login time and location.
+
+Weibo picture traceability: Through the Sina picture URL, you can trace the source of its Sina Weibo nickname,
+ID, which is further associated with the mobile phone number bound to their account.
+
+> Baidu information query: Nickname query mobile phone, mobile phone or email query account, query to know the anonymity
+Accounts and Baidu network disk were launched.
+
+1)
+
+2)
+
+3)
+
+thin
+
+Nickname query mobile phone: Through Baidu user account or nickname, you can associate the Baidu user's
+Bind mobile phone number.
+
+Check the account via mobile phone or email; you can connect its Baidu users through your mobile phone or email account
+Account number or nickname.
+
+Query to know the anonymous account; know the anonymous link through Baidu, and you can associate its Baidu user
+Mian said that he further linked his bound mobile phone number.
+
+Launched by Baidu Netdisk: Sharing links through Baidu Netdisk can be associated with their Baidu user nicknames
+Said, further linked to its bound mobile phone number.
+
+
+
+Antao Information Technology Co., Ltd. 38/50
+

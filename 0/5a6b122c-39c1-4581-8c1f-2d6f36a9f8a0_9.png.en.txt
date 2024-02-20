@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+The intranet business management module mainly includes task management functions, personnel management functions, user management functions, points management functions, technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tactics sharing function, task statistics function, and log management function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1T) Task management function: Task management is the core function of the intranet business management platform. Authorized users can perform tasks through the task management module.
+
+
+
+
+
+
+
+
+
+Release tasks, assign specific sub-tasks to subordinate team members, and review and comment on submitted task results.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As the basis for performance appraisal; team members can view assigned tasks through task management and can perform their own tasks as needed
+
+
+
+
+
+
+
+Please create a new task, or perform task transfer and other operations. Mainly include: task publishing, task viewing, task comments, tasks
+
+
+
+Application, task transfer and task review.
+
+
+
+
+
+
+
+
+
+(Published by Renshi)
+Make a note for details
+Details are posted in Shanghai. The second task is to give way. Six Pieces of Chili Chang Peng Yin People
+barge
+1          13 17 15
+let
+aaaanaraoanm
+and
+Four Suo Se people 3 habits 3
+60%
+on
+
+At
+
+
+
+7 /7132
+

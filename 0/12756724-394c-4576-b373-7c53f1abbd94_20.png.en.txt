@@ -1,0 +1,51 @@
+Professional digital intelligence solution provider
+
+
+
+2.1.2 Product functions
+
+WiFi proximity attack system (Eastern version)
+
+three
+
+WiFi password cracking: The system supports WiFi within the target area (including hidden WiFi and
+5G_WiFi) for scanning and cracking, common WEP, WPA, WPA2 and WPS protocols can be carried out
+Crack. Cracking method: local cloud query, cloud cracking.
+
+Intranet sniffing: When the approaching device is in the target intranet environment, the device actively sniffs the target intranet.
+Domain users are hashed and automatically scraped.
+
+Socks proxy: The system supports setting up the Socks proxy function to map intranet information to the public network.
+Carry out relevant penetration operations.
+
+Route cracking: The system supports automatic cracking of the login password of the routing device existing in the target intranet.
+To achieve active login and management control of the target intranet routing device.
+
+Port mapping After the nearby device accesses the target intranet through WiFi, the target host in the intranet can be
+The port is mapped to the Internet to achieve the purpose of accessing the target intranet from the external network.
+
+Interactive terminal: The system supports the execution of Shell commands to perform file operations on nearby devices.
+
+
+
+> File management: The system supports visual upload and download management of files in nearby devices.
+> "Remote destruction: When there is a security threat to the nearby device, it supports remote sending of self-destruction instructions, completely
+
+Clear all system data from the device.
+
+WiFi proximity attack system (mini version 7
+
+three
+
+three
+
+Network connection: After the device is placed in the target network environment, connect through its own iFi signal
+Connect the settings and finally connect to the target network.
+
+Socks proxy: After the device is connected to the target network, log in to the remote control management system through the PC and open
+Open the Socks proxy to perform related penetration operations.
+
+
+
+Antao Information Technology Co., Ltd. 21/50
+

@@ -1,0 +1,275 @@
+4.4 Mobile terminal penetration
+Currently, mobile terminals are becoming more and more popular. In order to meet more user penetration scenarios and penetration needs, the system has collected and organized information about
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F station” integrated Android and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vulnerability exploitation modules for Android systems and iOs systems, users pass "automated penetration testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The vulnerability exploitation module of the iOs system can carry out penetration work on mobile terminals in real time, and the platform supports online generation
+
+
+
+
+
+
+
+
+
+
+
+Remote control program for Android systems.
+
+4.5 “Social Engineering Attacks
+The "Automated Penetration Testing Platform" integrates a social engineering module to conduct security awareness tests on corporate employees. For example, simulated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Various combination tests of fish, browser vulnerabilities, Office vulnerabilities, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The social engineering module is mainly used to assist users in quickly establishing social engineering projects by inducing targets to share sensitive information or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Execute certain dangerous codes, ultimately achieving the purpose of invading the target system and obtaining target information. Penetration personnel perform social engineering tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Try to assess whether members of an organization comply with safe operating practices. Social engineering attack programs enable targets to view emails, open
+
+Link and other operations, analyze the progress of the attack, collect statistics on attack data, etc.
+
+
+
+
+
+
+
+Social engineering capabilities assist in completing operations in social engineering attacks. The system divides social engineering functions into email,
+
+
+
+
+
+
+
+The three components of Web pages and portable files help complete the following types of attacks through the combination of the three components:
+
+Create email content
+
+full content
+| RE [on day
+Yu Liaoyou|He Zhongtian Basic Matters|Jiao Deng|Yi You|Ji Er] to|Ben Ji Ben|Six
+
+From: it-manager@呈tcom
+Datcz 2016-08-30 10.2402
+To: ynnxuGaccom
+
+CC: 77441@@qqcom
+Subjcct: Email reset palace code
+
+Leave Xuhu
+
+In order to strengthen our email system, the password validity period of all users has been set to three months. Please inform colleagues to change the password of the email system regularly.
+The email system modification page is now sent to you. You can click on the link below to modify it.
+
+
+
+Best regaras
+Department managers,
+
+(phishing email)
+
+12 /15
+

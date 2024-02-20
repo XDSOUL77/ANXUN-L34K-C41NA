@@ -1,0 +1,34 @@
+Professional digital intelligence solution provider
+
+1.8.2 Product functions
+> Insensible implantation: The device supports insensible implantation using mainstream software. You only need to connect the device to release it.
+After connecting to WiFi and using the software normally, the implantation can be completed without any awareness.
+> Data acquisition: After successful implantation, terminal device information, positioning information, text messages, contacts,
+Call records, system albums, and file management.
+1.8.3 Industry advantages
+@ Strong portability - the implanted device is small and portable, can be carried around, plug and play, supports 3G/4G,
+Connect to the Internet via wired means.
+@ High ease of use - the implantation process is simple, just connect the implanted device to WiFi and access the Internet normally, no need
+Redundant operations, no pop-up reminders, reducing the target's vigilance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+【=
+:                                      buckle
+(WiFi sensorless implant management backend interface diagram)
+19/150
+
+
+
+Antao Information Technology Co., Ltd.
+

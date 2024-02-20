@@ -1,0 +1,173 @@
+[1
+
+
+
+System congratulations. Spun Japan. Taiwan Institute of Regulations
+
+
+
+
+
+“0000000000
+
+(operation log)
+4.1.2 Intranet resource management module
+
+The intranet resource management module mainly includes four major categories: data resource management, template resource management, link resource management, and weapon resource management.
+
+
+
+
+
+
+
+Function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1T) Data resource management function: mainly provides storage management functions for returned data and notes, and can manage returned data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The data can be used for statistics and report display, and the resource status can be viewed in real time. The overall situation of the resources occupied by the currently executed tasks can be viewed in real time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It also supports authorizing the returned data to be viewed and used by other users.
+
+Welcome and give way to the intranet platform
+
+
+
+
+
+
+
+Senior weirdo
+55 points. Guancun Cigu. The sub-pointed sky and light source
+
+
+
+am up
+Quantity statistics latest Wu Feng ops
+17 6 3 and
+(data source)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2) Template resource management function: You can query and understand the number and usage of templates created by the target external network, as well as the usage of each template.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rate and other statistical information.
+
+
+
+
+
+
+
+16 /32
+
